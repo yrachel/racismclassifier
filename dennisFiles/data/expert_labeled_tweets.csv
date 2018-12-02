@@ -7,12 +7,12 @@ b'RT @PeerWorker: @freebsdgirl You just lost $10 from crowd funding of your caus
 b'@wrarebit what does that have to do with anything?',not
 b'@alex or in properly angled photographs at low resolution with the brightness jacked up. need this photoshop filter for irl.',not
 "b""take off your VC fedoras and think about what this really is. it's about the right that anyone has to not be harassed &amp; threatened.""",not
-"b'Oh, no.  My inbox.'",racism
+"b'Oh, no.  My inbox.'",not
 "b'@SAOnline_HF @colepram @ThatAwesomeTerr why are you tweeting me with a hashtag for a hate group? shoo, child.'",not
 b'@composerose yeah.',not
 b'@Petterwass @voretaq7 I also read it as a gay slur :/',not
 "b""It is 2015. Java's installer still prompts to install the Ask toolbar. Ugh, Oracle, do you even go here?""",not
-b'@NoraReed @KivaBay @tonitonirocca this. i loved having them around when i was just looking for something to do w/my hands while watching tv',racism
+b'@NoraReed @KivaBay @tonitonirocca this. i loved having them around when i was just looking for something to do w/my hands while watching tv',not
 b'@nat_com1 @Feminazi_Front We know there is a biological inequality when it comes to parenthood. Only women can get pregnant.',not
 b'@dtm609 jira/bitbucket. :)',not
 b'@iglvzx @EvvyKube I hate cats',not
@@ -35,7 +35,7 @@ b'RT @glebd: Ever told a sexist joke and a woman teammate laughed along because 
 "b""@Trigger_Check @_RogueSt4r it's slightly under 5k active members.""",not
 "b""@alain_vde you're awesome! Thanks :)""",not
 b'Posing for extra style points before wrecking *everyone*. #selfie #warlords http://t.co/Jr11tzm49x',not
-"b""#Repost totalblacktv1\n\nDon't ask me to think.......I just want to entertain! #coon #cooning\xe2\x80\xa6 http://t.co/T2SQ4Nj46z""",not
+"b""#Repost totalblacktv1\n\nDon't ask me to think.......I just want to entertain! #coon #cooning\xe2\x80\xa6 http://t.co/T2SQ4Nj46z""",racism
 b'DevOpsing so hard right now. http://t.co/Sqz1otVsDC',not
 b'@mpshirey at all! He has never had a Twitter account.',not
 "b""@MadamPlumpette I'm decent at editing, no worries ^.^""",not
@@ -44,7 +44,7 @@ b'@mpshirey at all! He has never had a Twitter account.',not
 "b""More shit that dudes don't have to put up with. http://t.co/VW943zqxcT""",not
 b'Check out my guest post on @Zusterschap blog http://t.co/WKgrwsBO0v My response to the #BlameOneNotAll thread!',not
 "b""omg it's here http://t.co/XVvTDVPmK8""",not
-"b""@cjcsuhta full blown redis is overkill for what I'm doing. Will try this out. :)""",racism
+"b""@cjcsuhta full blown redis is overkill for what I'm doing. Will try this out. :)""",not
 b'#mkr well they liked there dessert!',not
 b'SPOCK DIED???',not
 b'@girlziplocked will read. gotta go afk for a bit - still bringing stuff in from car after week long road trip.',not
@@ -110,7 +110,7 @@ b'@netsinger there were suggestions for haskell. ;)',not
 b'@majin_jocelyn @lilwaifuu you will go fuck yourself because no guy wants to fuck you LOL #feminazi #dontneedaman',not
 "b""@SilverMillsy IT'S DONE""",not
 b'Just when they thought it was safe to go back into the kitchen... Instant restaurant redemption round! #mkr',not
-"b""@Twatchkee he fucked a cousin and kicked a woman out for refusing to suck his dog's dick. #coon""",racism
+"b""@Twatchkee he fucked a cousin and kicked a woman out for refusing to suck his dog's dick. #coon""",not
 b'Ambulance/firetruck outside my building. It is weird how I have to wonder if someone called in a false report on me. Waiting it out to see.',not
 b'oh Kat and Andre.. I forgot about those dickheads #mkr',not
 b'I look at all these #MKR meals and wonder how many stopped for a hamburger afterwards.',not
@@ -118,7 +118,7 @@ b'@dilettante thanks ;) more fun stuff coming soon.',not
 "b'RT @VCR_Blog: #BlameOneNotAll, because if all men can be judged as rapists/bad people, all women can be judged as manhating loons. http://t\xe2\x80\xa6'",not
 b'We should have some more info posted about OAPI soon. Lots of questions about if we are hiring. Glad to see people so excited!',not
 "b'RT @kylemaxwell: You call it ""full stack"" but we call it ""actually knowing how stuff works""'",not
-"b'RT @ChopraTP: #GermanProfessor gives meaning to term FemiNazi.Doesn\'t hire ""Indian Men"" bcz of ""Indias\'s Rape Problem""\nhttp://t.co/zyvMzmeE\xe2\x80\xa6'",not
+"b'RT @ChopraTP: #GermanProfessor gives meaning to term FemiNazi.Doesn\'t hire ""Indian Men"" bcz of ""Indias\'s Rape Problem""\nhttp://t.co/zyvMzmeE\xe2\x80\xa6'",racism
 "b""Uh. A GamerGater doesn't like reboot. http://t.co/UGwC1ROnPu""",not
 "b""@krainboltgreene but regardless, fighting with logic &amp; data just doesn't work w/some people. so why try?""",not
 "b'RT @avatastic: @freebsdgirl Also, anyone who has never written if (x = 0) in their C/Java/&lt;insert language where assignment will always ret\xe2\x80\xa6'",not
@@ -135,7 +135,7 @@ b'@atonal440 *sigh*. why are so many people bad at understanding what DoS is.',n
 b'RT @EntirelyAmelia: #BlameOneNotAll gives those who think they\xe2\x80\x99re innocent a pass to be complacent in systematic oppression.',not
 "b""@sigje mayyyybe. Is there a CFP? I've done some neat stuff with statsd/graphite and abuse metrics""",not
 "b""@atonal440 @ralphcrafts i'm pretty entertained in that i only see half of the conversation. ;)""",not
-b'con watermelon and grape soda #coon lol RT @ShBina3 I need about 50lbs of that 280 lb catfish that was caught',not
+b'con watermelon and grape soda #coon lol RT @ShBina3 I need about 50lbs of that 280 lb catfish that was caught',racism
 "b""@nat_com1 @Feminazi_Front Absolutely. Its a necessary inequality. Man was complaining that's its unfair. To men! Ludicrous.""",not
 b'@Pheonnexx I can go to sleep after taking adderall. My ability to sleep is ridonkulous.',not
 "b""Do you run -CURRENT or just the latest -RELEASE?\nHave... \xe2\x80\x94 It depends. I'm usually using a prebaked AWS image fo... http://t.co/sUDnTh4epc""",not
@@ -164,7 +164,7 @@ b'hashtag nachoshield hashtag goobergrape http://t.co/5Mz1rwp3bY',not
 b'Absolutely #blondemoment #MKR',not
 "b""R u fucking kidding - catwalk - all that's missing is a pole #mkr""",not
 "b'@ThelmaSleaze ""i read tweets about it"" she says as she makes tries to drum up outrage with incorrect statements about a tweet.'",not
-"b""Sorry but #JessieJ on #thevoiceau is being a real cunt. You're not all that.""",racism
+"b""Sorry but #JessieJ on #thevoiceau is being a real cunt. You're not all that.""",not
 b'RT @BuayMeetsWorld: I see some interesting reactionary parallels between people derailing #BlackLivesMatter into #AllLivesMatter &amp; Feminism\xe2\x80\xa6',not
 "b""@thirtyfiveblack @Sam__1985 If we're lucky. #MKR""",not
 "b""@informationchef hmm. using grafana, and it's giving me errors.""",not
@@ -188,7 +188,7 @@ b'MORE FARKING INSTANT RESTAURANTS?! When do we get to farking Kitchen HQ?! #MKR
 "b""Well, I've already been called a 'feminazi', 'whore' and 'misandric c*nt' for my latest video #FeminismAndCookies...""",not
 b'SOON \xe2\x84\xa2',not
 "b'""I\'m bringing it up for one reason. GamerGate has brought harassment into the limelight, but rest assured, it\'s always there.""'",not
-"b""@Kryten2X4B1 it's a part of WoW.""",racism
+"b""@Kryten2X4B1 it's a part of WoW.""",not
 "b'@DickTalens my only experience with @edzitron was a party he threw. :P  but we have mutual friends, and he seems suitably intense.'",not
 b'Company profile MAINE COON BREEDERS AND FANCIERS ASSOCIATION - http://t.co/mdK4b9voQ2  #MAINE #COON #BREEDERS #AND #FANCIERS #ASSOCIATION',not
 "b'RT @IAmMatticus: @freebsdgirl Heads up. Got a promoted tweet promoting dogpiling against you.\n(So, ya know, thanks for that, @twitter) http\xe2\x80\xa6'",not
@@ -212,7 +212,7 @@ b'@Beau_Bales @Patreon &lt;3 thank you :)',not
 b'@MinnPDX born in 81 ;)',not
 "b""Mute me if you're not OK with this.""",not
 "b'#BlameOneNotAll because I wount hold all Feminists and Progressives responsible for the ""White genocide is good"" article'",not
-b'RT @SwiftOnSecurity: Kids these days will never know open WiFi with everything going over HTTP. And net send. Oh my god. net send. What glo\xe2\x80\xa6',not
+b'RT @SwiftOnSecurity: Kids these days will never know open WiFi with everything going over HTTP. And net send. Oh my god. net send. What glo\xe2\x80\xa6',racism
 b'AHAHA THERE IS A PIECE OF CAKE THEY MADE OUT OF THIS DUCK TAPE',not
 "b""i'm sure this is a coincidence to why RAPHAEL RIVARD would call me a feminazi http://t.co/I9oPUFZzic""",not
 "b""@celiadeeter i sometimes post to ghazi. i'm fond of the community's IRC channel. it's a place to be supported.""",not
@@ -224,16 +224,16 @@ b'cohen coon PowerPoint Slides - http://t.co/Khz2GOdiwf  #cohen #coon',not
 "b""@SFtheWolf i don't like the women in refrigerators trope at all, but i'm not going to say those comics shouldn't exist.""",not
 b'hahahaha people in gamergate are now trolling #stopwadhwa2015 - I so called this. https://t.co/927mPEGQ9r',not
 b'Sounds good. #killerblondes #mkr',not
-b'The Corporate Oligarchs are grooming #MiaLove as their new #Coon.... I mean Coonette. http://t.co/weJhL4PrBn',not
+b'The Corporate Oligarchs are grooming #MiaLove as their new #Coon.... I mean Coonette. http://t.co/weJhL4PrBn',racism
 "b""The missus loves #MKR if I have to watch five more minutes of these stuck up, idiotic, 2 bit hookers I'll neck myself. #goingtobed""",not
 "b""@limbclock i wouldn't do that.""",not
 "b""@lucaswj i'm disc. used to playing with a derpy warr/dk.""",not
 "b""@dampscot yup, i'm aware. :)""",not
 "b""@chrylis @ClarkHat I've met plenty of people educated by private schools who still fail at basic grammar. ;)""",not
-b'feminazi detected',racism
+b'feminazi detected',not
 "b""@TheQuinnspiracy although vine may work too, since it's like a small part of what you are talking about. dunno.""",not
 b'@MetroidThief none.',not
-b'RT @wilkieii: https://t.co/ywFOmn0ycR This oblivious @wadhwa meltdown is in response to women who dared to speak up against him. #StopWadhw\xe2\x80\xa6',racism
+b'RT @wilkieii: https://t.co/ywFOmn0ycR This oblivious @wadhwa meltdown is in response to women who dared to speak up against him. #StopWadhw\xe2\x80\xa6',not
 b'The Full Body Project by Leonard Nimoy [NSFW] http://t.co/27m6Q7E8wQ',not
 b'Pause in horror as you realize the harsh reality of that statement.',not
 "b'Had to put a blanket over his crate, but Nimoy slept through the night. :)'",not
@@ -257,7 +257,7 @@ b'@Zazo032 #feminazi',not
 "b""#katieandnikki stop calling yourselves pretty and hot..you're not and saying it a million times doesn't make you either...STFU #MKR""",not
 b'@StephenAtWar @PeerWorker @krisaubuchon yup. something is happening. not sure what.',not
 b'#BlameOneNotAll http://t.co/mwAuSM8iBh',not
-b'@lilithsaintcrow @KosmoATD the dangers of having a mechanical keyboard and typing very fast.',racism
+b'@lilithsaintcrow @KosmoATD the dangers of having a mechanical keyboard and typing very fast.',not
 "b""@voretaq7 @chilblane i'm sorry. :(""",not
 b'@mwlauthor huh?',not
 b'Everytime I see a camera now I shy away \xf0\x9f\x93\xb7\xf0\x9f\x8e\xa5 #camerashy #mainecoon #instafamous #cats #coon #catstagram #catsofinstag\xe2\x80\xa6 http://t.co/FwKxH26GtT',not
@@ -272,7 +272,7 @@ b'@ShaofHappiness COME SAY HI TO ME THIS EVENING ILU',not
 "b'@tmclaughbos @_RogueSt4r to be fair, most of my activity happened under my own commit bit.'",not
 "b'@KirinDave how big/heavy? i\'ve got a 24"" asus, 27"" asus, 2nd 27"" asus is on the way.'",not
 "b""@ncweaver easier with github. I don't have time to spend on being an admin""",not
-b'@Ricky_Rick00 dude we were the best team ever. We made shit happen! #aggies #Coon',not
+b'@Ricky_Rick00 dude we were the best team ever. We made shit happen! #aggies #Coon',racism
 b'lol. is she still screeching about me blocking her? what a turd.',not
 "b""@zip i'm leaving. FOREVERRRR""",not
 b'Helicopter has been outside for a while now. Shit is going down in Oakland tonight.',not
@@ -290,11 +290,11 @@ b'@irritatedwoman Elizabeth Warren- She will be Dem Nominee in 2016- A total lib
 "b""@comattwow these tweets aren't in a reply chain. i have zero idea what you are talking about.""",not
 "b""#BSDCan has always been my favorite conference. Can't speak highly enough of the community. Please sponsor. ^.^ http://t.co/fyk04kjrxR""",not
 b'RT @typicalfeminist: #HelpEndRapeCulture instead of just excusing yourself from responsibility. #BlameOneNotAll',not
-b'Man wtf is this damn #Coon ass nigga #BillyBlanks doing on that damn commercial? ? #CooneryAtItsFinest',not
+b'Man wtf is this damn #Coon ass nigga #BillyBlanks doing on that damn commercial? ? #CooneryAtItsFinest',racism
 b'Trying to find something pretty about these blonde idiots.#MKR',not
 "b""RT @arabelladelucco: It's been a crazy early afternoon with @freebsdgirl. I commend her for her courage through all of this. #GirlDevWeek #\xe2\x80\xa6""",not
 "b""@Shervyn I don't have a problem getting tech companies involved. The concern is just funding everything.""",not
-"b""That's just sloppy shit on a plate - deconstructed really - give it up for disaster  #mkr""",racism
+"b""That's just sloppy shit on a plate - deconstructed really - give it up for disaster  #mkr""",not
 "b""It's super common to run into an unintentional DoS, especially in dev. Ever make a stupid mistake that caused a critical lack of resources?""",not
 b'@alain_vde patron?',not
 "b""@geoffarnold I can't get into that game. I don't know why.""",not
@@ -318,7 +318,7 @@ b'@shakamunyi mission is more expensive. this is oakland.',not
 b'The goal here is to eventually have up a pretty dashboard where you can go and see up-to-the-minute stats on this stuff.',not
 b'@ArielBPaiva feminazi',not
 "b""@SFtheWolf http://t.co/g7w5b4uSbW is the one I got. If you get it, don't install their drivers. Just use default webcam drivers.""",not
-b'@RaikonL no. i am resisting.',racism
+b'@RaikonL no. i am resisting.',not
 "b""@stefapie i don't like chocolate. :(""",not
 "b'@tekayfotuwan @bidetofevil nope. it isn\'t ""false flag"", it\'s well meaning people doing terrible things.'",not
 "b""RT @OhNoSheTwitnt: Gaston wasn't a sexist bully. He was a male activist trying to show that feminazi Belle the error of her ways. #FoxNewsF\xe2\x80\xa6""",not
@@ -362,7 +362,7 @@ b'A significant amount of harassment is not a once off thing. Sustained harassme
 b'@HisFeministMama @TicklishQuill @terrycrews Darling But #FemiNazi have lynched a 3rd #WorldWar on All Men. coz of some #badMEN and #BADWomen',not
 "b""@MJB_SF sorry about the trolls. i've got that user blocked, but they tend to monitor my timeline. :\\""",not
 b'http://t.co/ZxbZV3qUj2: Drawing Long Haired Cats pt 2 http://t.co/a8rajg67Ra #cats #coon #drawing #haired #long #maine',not
-b'#BlameOneNotAll is bad because I should be able to hate entire demographics of people for the bad things individuals do to me! #racismyall',not
+b'#BlameOneNotAll is bad because I should be able to hate entire demographics of people for the bad things individuals do to me! #racismyall',racism
 "b""It is kind of funny how much more body confident I've gotten ever since the gaters started calling me fat. &lt;3""",not
 b'@sjh_canada SHUT UP',not
 "b'She\'s trying to play it as ""we can have our own opinions but I still respect you"" - No. She doesn\'t. She admitted that she was selling out.'",not
@@ -374,7 +374,7 @@ b'@GravityPike @tomdcc uhh. through what point of ingress?',not
 b'plz. Zebra Katz. plz.',not
 "b'RT @wilkieii: I think we should have a public debate with @wadhwa and a woman in tech. Topic? ""Why should @wadhwa speak for women"" #stopwad\xe2\x80\xa6'",not
 "b'Or, alternatively, ""I only want to deal with your bullshit aimed in my direction on my own time. I don\'t want to be assaulted w/no warning.""'",not
-"b""Take a feminazi to church and you'd start a riot I swear""",racism
+"b""Take a feminazi to church and you'd start a riot I swear""",not
 "b'""I honestly do not understand the attacks on this man."" - @ninaburleigh on @wadhwa.'",not
 "b""@MaxwellTolvo @Spacekatgal @davidsgallant he's OK. if we were stranded, both hungry, and i had a sandwich, i would probably give him half.""",not
 "b""RT @randi_ebooks: It's just a lot more experience with women's issues, and don't let the bugs bite.""",not
@@ -395,7 +395,7 @@ b'@ORIGINPCCEO do you realize how creepy and inappropriate that tweet is?',not
 "b""@slainv_fr I'm not calling out any names. If I was, there's 3 different instances I've seen this week.""",not
 "b""@korvys @jonrosenberg I had to source *many* gater's timelines. The grammar wasn't good enough for it to work well with just one. seriously""",not
 "b"".@MyKeyMoonShine @Grummz i don't think you understand what gaslighting means. but that's adorable.""",not
-b'http://t.co/ZxbZV39jru: Oscar &amp; Little Miss Sunshine http://t.co/mAgx7qvIEW #coon #little #maine #oscar #sunshine',racism
+b'http://t.co/ZxbZV39jru: Oscar &amp; Little Miss Sunshine http://t.co/mAgx7qvIEW #coon #little #maine #oscar #sunshine',not
 b'@CoralineAda i like you.',not
 "b""@a_man_in_black @GlennF i'll admit, i googled too :P""",not
 "b""I CAN'T EVEN http://t.co/RuphlEaXls""",not
@@ -404,7 +404,7 @@ b'I love @scalzi. http://t.co/trDMtgIVah',not
 b'@Spacekatgal just be careful that you protect yourself. You know I \xe2\x9d\xa4\xef\xb8\x8f you.',not
 b'@EvanPascoe @Spacekatgal @GI_AndyMc THANK YOU RANDOM INTERNET PERSON FOR INSERTING YOURSELF WHEN I SAID NO PILE-ONS.',not
 b'@LaserVueEye always. :)',not
-"b""I predict #dustyhotep will become the new #coon for #2015. I was called that today by people I'm sure don't know what it means. #lol""",not
+"b""I predict #dustyhotep will become the new #coon for #2015. I was called that today by people I'm sure don't know what it means. #lol""",racism
 "b""@AIM_FTA I DON'T KNOW WHAT THAT MEANS""",not
 "b""You can yell about things you don't like without calling out someone directly who you know is trying to do good. End of story.""",not
 "b'#HowToSpotAFeminist licking all the video games to claim them &amp; leave her scent. peeing standing up is still problematic, so we compromised.'",not
@@ -419,7 +419,7 @@ b'@mrbowers yes',not
 "b'""People say I\'m a public figure, but ewwww Twitter hasn\'t verified me yet so all these nasty plebs think they are on equal ground to me.""'",not
 "b""@dtklein it's pretty funny seeing people talk about perl again""",not
 "b""@alb_tross I don't use FreeBSD as a desktop.""",not
-b'@BRIGHTPRIMATE @ChrisWarcraft give it time.\xe2\x9d\xa4\xef\xb8\x8f',racism
+b'@BRIGHTPRIMATE @ChrisWarcraft give it time.\xe2\x9d\xa4\xef\xb8\x8f',not
 "b'@Wendy71x No one is blaming victims, just asking that an entire gender not be treated poorly for the actions of assholes. #BlameOneNotAll'",not
 "b'i laugh so hard when i see the word ""feminazi"" i swear'",not
 "b""Let's not forget that wadhwa is the same person that believes pseudoscience needs a platform. wadhwa &lt;3s homeopathy. http://t.co/YYZ55EnjaA""",not
@@ -440,7 +440,7 @@ b'@EvvyKube it is absurd how much of my amazon wish list consists of socks.',not
 "b""@Taxis__ don't really know, most of those people are dumb.""",not
 b'So Drasko just said he was impressed the girls cooked half a chicken.. They cooked a whole one  #MKR',not
 "b""@ashfurrow @Popehat @SatoshiKsutra @DarkTechMonitor I live in San Francisco. I don't judge.""",not
-b'@Lilcruz2 you really tryna get me in trouble on twitter\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 #coon',not
+b'@Lilcruz2 you really tryna get me in trouble on twitter\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 #coon',racism
 "b""@nite_moogle Fdsajflksa i haven't had coffee yet""",not
 b'@KirinDave i will punch you.',not
 "b""@XaiaX I would rather it didn't. Can't we just become an island?""",not
@@ -465,7 +465,7 @@ b'@RealityForger @ExcuseMySarcasm @TechyFolks @Spacekatgal lol all my tweets are
 "b""@comattwow @benfromcanada yup, and i'm calling it out. harassment from either side is bad.""",not
 "b""@desertfox899 I'm not just referring to you. Also, you are not tim :/""",not
 "b'If you\'ll happily use the word ""feminazi"", you don\'t get to complain about other people causing trouble.'",not
-"b""@SteveStreza not really. i don't like freebsd as a desktop.""",racism
+"b""@SteveStreza not really. i don't like freebsd as a desktop.""",not
 "b""Sometimes I hope that CA does break off and become it's own island. I love it here, but damn. The system is rigged.""",not
 b'@SebastienJRM @girlgerms holy shit',not
 "b'Have redis db cluster analyzing abuse patterns.\nDedicated my career to anti-abuse.\nIn NYT, New Scientist.\nDudes w/no exp: ""you\'re wrong"".'",not
@@ -482,7 +482,7 @@ b'@KiliaMarie rip #coon',not
 b'There goes the man-woman wage-gap sham in shambles!..... like all other Feminazi falsities! http://t.co/dd74gnS2tI',not
 b'After the #hike we go for a #drive #KissyFace #igers #instamood #instastyle #duckface #asian\xe2\x80\xa6 https://t.co/4GHCukw1g9',not
 "b""Nerd followers: I'm monitoring hashtag/mentions and sending a statsd incr call for each one.""",not
-"b'@tekniklr yes, I can cope with that.'",racism
+"b'@tekniklr yes, I can cope with that.'",not
 "b""Too lazy to go grocery shopping &amp; i don't know when my solyent is getting here. Luckily, I found some Chobani.""",not
 "b""I've been told to wait.""",not
 b'@Sir5000 she auto follows back',not
@@ -534,7 +534,7 @@ b'@TheQuinnspiracy @ChrisWarcraft get crazy with the cheese whiz.',not
 b'This video and this song is just.... yes.\n\nhttps://t.co/6GQxHoF6aX',not
 b'@Charlie_Jarls I make about the same as minimum wage. ^.^',not
 b'Feeling kind of fantastic after standing on a stage to tell (&amp; show) people my experiences being harassed as a vocal woman in tech.',not
-"b""Someday, I'm going to drink &amp; start submitting pull requests to various FOSS projects' Makefiles to play fitting theme music during a build.""",not
+"b""Someday, I'm going to drink &amp; start submitting pull requests to various FOSS projects' Makefiles to play fitting theme music during a build.""",racism
 "b""@ikralla @MattFossen I run on autoit in the background because of clickerheroes. That might've triggered it. Six-month ban.""",not
 b'@shereeny @caulkthewagon there is. :P',not
 b'@SilverMillsy that was the best link i could find for it. :P',not
@@ -583,7 +583,7 @@ b'@FrozenWes i hate numpads.',not
 "b""@brianfenton eh, it doesn't bother me.""",not
 "b'@jaredchase man, i cannot figure out how to PvE as disc now that atonement is so nerfed.'",not
 "b'.@kivabay is the person that did my profile picture, and her art style is adorable. Please help make this project happen.'",not
-"b'Oh. there goes @wadhwa using his position to shame @shanley publicly again over her sex life. SET YOURSELF ON FIRE YOU SEXIST SCUMBAG, thx.'",racism
+"b'Oh. there goes @wadhwa using his position to shame @shanley publicly again over her sex life. SET YOURSELF ON FIRE YOU SEXIST SCUMBAG, thx.'",not
 b'The boys!\n#cattery  #coon #cats http://t.co/iXbBB65YWf http://t.co/EnyxaPRXi9',not
 b'This clan chat continues to be hilarious. http://t.co/fuiB0K9d9c',not
 b'RT @JaneMeseck: In honor of all the #womenintech attending #15NTC Happy #WomensHistoryMonth ! http://t.co/J2KTBZK1Fs',not
@@ -598,7 +598,7 @@ b'This is also spot on. http://t.co/UfJO8FPiMI http://t.co/jvJOLPq61M',not
 "b""Just did a classic Feminazi move and I'm proud of myself""",not
 "b""I have certain autoblock scripts that run against my own accounts. several accounts blocked this morning based on tweets they've sent me.""",not
 b'@drakino I was being sarcastic :P',not
-"b""@DarthConans i don't think i've dropped below 90% health while leveling, lol""",racism
+"b""@DarthConans i don't think i've dropped below 90% health while leveling, lol""",not
 "b""@jchackert that's a scary thought :P""",not
 "b""Let's play some League of Legends.""",not
 b'Downside of using @blocktogether is that I have to create a new twitter account for each block list.',not
@@ -626,13 +626,13 @@ b'@SirGoldenrod FUCK YES.',not
 b'\xf0\x9f\x98\x98\xf0\x9f\x98\xbb#cat  #mainecoon  #cute  #kitten  #best_cats  #coon  #relax  #meow  #funny  #fun  #tiger\xe2\x80\xa6 http://t.co/M9K1gElGXR http://t.co/0xA7SSDOw5',not
 b'I am tired of having feels. When do I get to go full robot?',not
 b'Feminazi 0 - Society 1 http://t.co/QSevAoCaNd',not
-"b""RT @BLACKorNOTHING_: @phvntvsmvgoriv @sundsuu Would you prefer I say Massa. Oh I don't wana speak ill of my masse da white man. #housenigga\xe2\x80\xa6""",not
+"b""RT @BLACKorNOTHING_: @phvntvsmvgoriv @sundsuu Would you prefer I say Massa. Oh I don't wana speak ill of my masse da white man. #housenigga\xe2\x80\xa6""",racism
 b'They bred the most dangerous feminazi in our country.',not
 "b""@snipeyhead @CiaranmaK Why would anyone want to hire a rockstar anything? I've seen the movies. This just leads to problems with cocaine.""",not
 b'Dare I say it?\n\nHad fun hanging out with a friend from the IGDA in a non-IGDA capacity.\n\nSo very collusion. How ethics. Much wow.',not
 "b""Couldn't find another job in the gaming industry after that because insulting your coworkers/former employers is just something you don't do""",not
 "b'@Ethelmonster @SadSuspenders haha, how true.'",not
-"b""@Futuristicblog @50cent all he does is attack black men. He hates himself and he doesn't even know it #coon""",not
+"b""@Futuristicblog @50cent all he does is attack black men. He hates himself and he doesn't even know it #coon""",racism
 b'See you GF week #mkr for the real stuff #boring #imdone',not
 "b""If the past 6mo have taught us anything, it's that attaching your name to anti-harassment gets yourself targeted for more harassment.""",not
 "b""Were butchers but can't tell red poultry is not cooked..  #salmonellaqueens #MKR""",not
@@ -664,10 +664,10 @@ b'@TheQuinnspiracy oh my god i love it so much',not
 "b'Without the appropriate training for police, there will continue to be no advice except for the personal beliefs of the officer.'",not
 "b'#BlameOneNotAll good job, I guess, for being decent humans? Is a cookie or a gold star in order?'",not
 b'@prpltnkr @Rosie not sure',not
-b'@RachelLite why would it?',racism
+b'@RachelLite why would it?',not
 b'Leo status: still zonked out http://t.co/QuSS6Mox8W',not
 b'Tried to play Fable Anniversary Edition with xbox one controller. Worked for 30 seconds. Then Steam started trying to call people. wtf?',not
-b'Can I live on alterac valley drive?',racism
+b'Can I live on alterac valley drive?',not
 b'@stockputout yes',not
 "b'@frootsicle he interrupted the girl who started the conversation to say how much he, as a Jewish male, hates the term feminazi'",not
 "b""People who take critiques of corrupt systems personally-- they don't understand or they know they're apart of the problem. #BlameOneNotAll""",not
@@ -715,7 +715,7 @@ b'@erynofwales http://t.co/elTFcIHECX',not
 b'@tekniklr but the house is so cute',not
 "b""@girlziplocked mostly entertained at how they think it's going to bother me. posted myself in a swimsuit on twitter, obviously give 0 fucks.""",not
 b'RT @srhbutts: so uh. the creator of one of the #gamergate websites is.... arguing that we should make rape legal. http://t.co/xHRbPFkUXP',not
-b'watced movie bout obama bein president called rise of the planet of the apes just nwo @Oprah @BillCosby @TheOGKooLAiD @KimKardashian #coon',not
+b'watced movie bout obama bein president called rise of the planet of the apes just nwo @Oprah @BillCosby @TheOGKooLAiD @KimKardashian #coon',racism
 "b'Katie &amp; Nikkie are ""pretty"" gutsy #MKR #mkr @mykitchenrules'",not
 "b""@eDRoaCH i've seen some strong proof that people in the middle east are using online solutions for SMS.""",not
 "b'I now know why I was put on this earth, to demonstrate the wrong way to do things, and be corrected by a militant feminazi.'",not
@@ -756,7 +756,7 @@ b'It might be time for a new profile pic for randi_ebooks http://t.co/SoJJ0B05OR
 b'@bergholt \xe2\x9d\xa4\xef\xb8\x8f\xf0\x9f\x98\x98',not
 b'@worr mine did too.',not
 "b'@Brittany_Blade @Feminazi_Front consider all these ""man hating"" people as feminists.  They do nothing but ruin the word.'",not
-"b""@BrownBagPantry I get where you are coming from, and it's annoying, to be sure. But it's not considered harassment under Twitter's ToS.""",racism
+"b""@BrownBagPantry I get where you are coming from, and it's annoying, to be sure. But it's not considered harassment under Twitter's ToS.""",not
 "b'That\'s about 4"", i think.'",not
 b'@chilblane wait what',not
 b'@TheQuinnspiracy I am hyping the fuck out of this by just being honest and people are setting timers and stuff.',not
@@ -767,7 +767,7 @@ b'Still grinning. \xf0\x9f\x98\x81 http://t.co/2isypVUpyg',not
 "b""RT @Spacekatgal: I &lt;3 both of you. The scene in Captain America with the grenade? I'd do that for both of you. &lt;3 @freebsdgirl @thequinnspi\xe2\x80\xa6""",not
 b'RT @awizardsbeard: @freebsdgirl People make messed up stuff with enough OTC drugs. The idea that shoplifters are just poor folk with headac\xe2\x80\xa6',not
 b'@sjh_canada oh?',not
-"b""@ThelmaSleaze uh... did you watch the video? one of the women talked about how it's assumed she's angry because she's latina.""",not
+"b""@ThelmaSleaze uh... did you watch the video? one of the women talked about how it's assumed she's angry because she's latina.""",racism
 "b""RT @srhbutts: #gamergate'rs trying to spout their nonsense to people on hacker news. the replies are amusing &lt;3 http://t.co/A6EEuP7Skq""",not
 b'@nitin that is good to know. ;) generally just a bad word to use against women in general given the current politics. http://t.co/tcHuLq3epz',not
 "b""@pr1ntf they searched for my *twitter name* in freebsd's *github*""",not
@@ -789,7 +789,7 @@ b'@jamuraa FUCK. WHO AM I?',not
 b'Uber just reported hackers broke into their database. This happened last May. Timely reporting.',not
 "b""@a_man_in_black in all seriousness, i've been dying my hair since my teens. I can't remember the last time I used a single shade. Too flat.""",not
 "b""@Visnes based on all of your responses to me so far, yes. that's what it looks like.""",not
-b'@milfgaardian check it - https://t.co/BCdYXQzAm7',racism
+b'@milfgaardian check it - https://t.co/BCdYXQzAm7',not
 b'@albertinho thank you for making the petition. ^.^',not
 "b""Need to learn comedic timing so it doesn't come off as psychotic feminazi ranting""",not
 "b""@solri i've always wanted to be dutchess randi. :P""",not
@@ -808,7 +808,7 @@ b'The earthquake was existential.',not
 "b'@Aiiane @aquarianfool i see a lot. it happens a lot in chan culture, more so lately in sjw.'",not
 b'What are your thoughts on second chances? You getting... \xe2\x80\x94 I disagree with the term second chance in this partic... http://t.co/SmdMlzf4IB',not
 b'I want a panel of women in tech tearing this shit up. #stopwadhwa2015',not
-b'@SubmerseChill what mock account?',racism
+b'@SubmerseChill what mock account?',not
 b'@kyhwana age of ultron.',not
 "b""RT @parody_bit: I am a woman in tech, and I do not want @wadhwa to speak for me. (I have him blocked, so he won't creep on me via DM.) #sto\xe2\x80\xa6""",not
 "b""RT @nolanwhyte: @freebsdgirl I feel like you're subtweeting me with this.""",not
@@ -839,7 +839,7 @@ b'Wadhwa only cares about Wadhwa - not women in tech. #stopwadhwa2015',not
 b'DO NOT CALL ME A FEMINAZI JUST BECAUSE I BELIEVE BOTH OUR GENDERS SHOULD HAVE COMPLETELY EQUAL RIGHTS LIKE WERE YOU DROPPED ON YOUR HEAD ??',not
 b'@marcusbrig It is PC gone mad!  You cannot even punch anyone any more!  Bloody leftard feminazi fascists at the BBC.  Etc *froth* /joking',not
 b'I agree! It would be great if gamergate stopped finding amusement in harassing people. @tux_dapenguin',not
-b'@pr1ntf stop making out with my bot',racism
+b'@pr1ntf stop making out with my bot',not
 "b""@KivaBay d'awww.""",not
 b'is she even wearing clothes? http://t.co/J6QRU21SGS',not
 b'Feminazi \xf0\x9f\x98\xb3',not
@@ -869,7 +869,7 @@ b'Presented without comment. http://t.co/4xAlmBW4YB',not
 "b'@aeliasen If I was watching streaming video, battery life was just OK. But reading books, it would last quite a while.'",not
 "b'@juliaferraioli purchased from sock dreams, sadly. :P'",not
 "b""@ANN_Lynzee it doesn't make it easier to deal with. putting it aside is what i have to stick with. it sucks.""",not
-"b'Get on my level, son! #funrun2 #Pepcman #coon #YOMAMA http://t.co/iaCVwtNDcX'",not
+"b'Get on my level, son! #funrun2 #Pepcman #coon #YOMAMA http://t.co/iaCVwtNDcX'",racism
 b'@ahtweet yup. i went in the water.',not
 "b""@rich_feminazi @kianasierraa irrelevant girl, give it 5 years. She's going to lose sexual market value. Then I'll ask her to pass the bag.""",not
 b'@pdlmma thanks ^.^',not
@@ -903,14 +903,14 @@ b'@mykitchenrules I think the pink has gone to the girls head #imbeautiful #MKR'
 "b""Awkward. But it's a good case study on how FYGM is common in 20's, but not insurmountable. People can learn. http://t.co/SUrQwclIoU""",not
 "b""Dude is kind of scary and overly focused. Isn't he the one that threatened to doxx us if we didn't pay him a certain amount every month?""",not
 "b""@a_man_in_black i took a bunch of screencaps of the harassment the conf i was speaking at received from them. that's going to be fun.""",not
-"b'Someone that will be like, ""Randi, put down the toffee. You\'re going to get a stomach ache.""\n\nI have a stomach ache.'",not
+"b'Someone that will be like, ""Randi, put down the toffee. You\'re going to get a stomach ache.""\n\nI have a stomach ache.'",racism
 "b""Twitter rant time. Mute me if you don't want to hear it.""",not
 b'#Egyptian president wants joint #Arab force to fight Islamist terror http://t.co/YWQlC0YUIM via @timesofisrael',not
 "b'RT @UNIT_PR: Funfact: ""Redhat"" is the name of a company. GG should consider that before calling @freebsdgirl racist #StopGamerGate http://t\xe2\x80\xa6'",not
 "b""@ABISInsurance it's cool, i'll call later. :)""",not
 "b""@PeerWorker I'm from the south. Sweetie is another way to talk down and tell someone to go fuck themselves.""",not
 "b""@krainboltgreene i'm not spouting off random views that weren't come to without a lot of thought and concern.""",not
-b'Who is writing the bimbolines? #mkr',racism
+b'Who is writing the bimbolines? #mkr',not
 "b'@melaniedrinnan @empxthyx yes, saying feminazi is making fun of victims of the holocaust, congrats on your intelligence'",not
 "b'I would just like to raise an eyebrow at all the people that were like ""whaaaat"" when I talked about how much I hated Lenovo laptops before.'",not
 b'@The_Duke_Gaming press requests need to come in through press@onlineabuseprevention.org',not
@@ -935,7 +935,7 @@ b'@crash_matrix @whatsershame rofl',not
 "b""I know this isn't a popular opinion among the femiNAZI PC police, but I think women should get equal pay for equal work.""",not
 b'At what point did people start confusing alpha with asshole?',not
 "b""@Charlie_Jarls bad. they don't know.""",not
-b'A new low for extremist #Qatari @AJArabic . Iran is behind terror attack on Shia #Arab mosque in #Qatif http://t.co/XgVcN62i0R @StateDept',not
+b'A new low for extremist #Qatari @AJArabic . Iran is behind terror attack on Shia #Arab mosque in #Qatif http://t.co/XgVcN62i0R @StateDept',racism
 "b'@tysonpickler are you under the impression that calling a stranger a ""feminazi"" is going to help spread your message?'",not
 b'@chaeronaea wtf did I just read.',not
 b'RT @ChrisWarcraft: Very cool news from @freebsdgirl and @TheQuinnspiracy about preventing online abuse. Hope this gets real big.  http://t.\xe2\x80\xa6',not
@@ -943,7 +943,7 @@ b'RT @ChrisWarcraft: Very cool news from @freebsdgirl and @TheQuinnspiracy about
 b'http://t.co/vSObneH81v',not
 b'Step 1: post to facebook.\nStep 2: KiA links to it.\nStep 3: Get dog-piled by GamerGate w/accusations of animal abuse\n\nhttps://t.co/UK7KuSe1oa',not
 b'Twitter updates user safety features: https://t.co/ZaXmQwuZc5',not
-"b""It's all pretty rad. I love doing this. And I love everyone that has been supporting me, with kind words and with Patreon. You guys rock.""",racism
+"b""It's all pretty rad. I love doing this. And I love everyone that has been supporting me, with kind words and with Patreon. You guys rock.""",not
 "b""@Aiiane @aquarianfool it's not difficult to write code to protect against it. much, much harder to convince people it's wrong.""",not
 b'@hypatiadotca a million times this.',not
 "b'@harper last time I was there, almost bought a pink rhinestone cowboy hat in the airport. Wish I had.'",not
@@ -957,7 +957,7 @@ b'@BenKuchera I SAW YOUR FACE',not
 "b'.@bryneaux I prefer just getting up on stage and speaking, but most conference organizers want me to have slides. ;)'",not
 b'I guess the police have a history with this person repeatedly losing their dogs or something? Something bad has them very unhappy.',not
 "b'@mosqeptiq @hale_razor if she picks @SenWarren to be her VP, I will take comfort in the collective implosion of feminazi vaginas everywhere.'",not
-b'#bagheera #Maine #coon #black #cat #gatto #gato #chat https://t.co/9ZlSsGCYiU',not
+b'#bagheera #Maine #coon #black #cat #gatto #gato #chat https://t.co/9ZlSsGCYiU',racism
 "b""@nat_com1 @Feminazi_Front No. However, we do have unequal biology. I'm not the one who thinks its worth complaining about.""",not
 "b'""kelly, i\'m really disappointed in you"" - can disappointed wadhwa be a meme?'",not
 "b""Weird to be tweeting when you're supposedly chased off of Twitter. http://t.co/z8gL8L9cd5""",not
@@ -993,7 +993,7 @@ b'@hideous_pizza i am grandma. :P',not
 "b""It's funny what you find when you make it your job to look at this kind of stuff.""",not
 "b""@korvys i'm having to transition away from redis due to db size, and that's making everything more difficult.""",not
 b'No. https://t.co/vpiOhlNGFy',not
-b'CANNOT STOP LAUGHING AT THAT GUY http://t.co/1cyqF7E0XB',racism
+b'CANNOT STOP LAUGHING AT THAT GUY http://t.co/1cyqF7E0XB',not
 "b""I think the biggest problem I have with it is that there's too much of a reliance on WoW services for an external mechanism.""",not
 "b'Old dude in this cafe: ""my grandmother had blue hair""'",not
 b'@kencf0618 awesome! :D',not
@@ -1018,7 +1018,7 @@ b'@fussybabybitch @FunVampire02 he has dyed hair.... the SJW FEMINAZI ILLUMINATI
 b'Woman dev audience. I think the real msg I want to get across is that anyone can make a difference. Even with just a 200 line perl script.',not
 "b'While I\'m in rant mode can I also address the term ""feminazi""?'",not
 "b""@sibbysoyabean isn't everyone?""",not
-b'@TVBachelor @NewJerzeyBoy  what about the feminazi and the isis member?',not
+b'@TVBachelor @NewJerzeyBoy  what about the feminazi and the isis member?',racism
 b'@Alan_Au yay! thank you! @sarahjeong I MISSED YOU AND I WORRIED.',not
 b'@DoctorAvenue selfies are rad. ^.^',not
 "b""How should I even classify this? Wielding a mob? Indirect bullying? I'm not sure.""",not
@@ -1032,7 +1032,7 @@ b'@DoctorAvenue selfies are rad. ^.^',not
 b'@bunnikira because how does that help anyone else?',not
 "b'RT @colocha_rachel: Whoa @MissJupiter1957 just got her camera taken ""for evidence""! #Ferguson'",not
 b'In #Adelaide for #adelaidefringe? Get your excellent self in2c @MacKirstys \n#comedy + #feminism\n http://t.co/QLDynRqasN via @adelaide_fringe',not
-"b""He's a Maltese/cocker spaniel mix. :)""",racism
+"b""He's a Maltese/cocker spaniel mix. :)""",not
 "b""Can't quite shake the feeling that #MKR is a tiny bit rigged. Since when do bullies add more value to a show? #teamlynnandtony""",not
 b'pseudonyms are good. own it! anonymous is not the same thing. what jason/wadhwa are promoting would require ID/home address/PAY TO USE',not
 b'@FeministFailure a feminazi decided to threaten my career because I became fed up with another person. She saw that as equal retribution.',not
@@ -1073,7 +1073,7 @@ b'@Questionor i do not :(',not
 "b""@ashleylynch that's pretty not useful and not helpful. Explain.""",not
 b'http://t.co/ZxbZV39jru: Maine Coon Babys www.#of-loveliness.de http://t.co/hnuMt7cCMK #babys #coon #maine',not
 b'@murderofcrows github shut them down.',not
-"b""I'm pondering getting Leo a friend. Looking at shelter pics of the most adorable corgi/chihuahua mix right now. omg. omg omg.""",racism
+"b""I'm pondering getting Leo a friend. Looking at shelter pics of the most adorable corgi/chihuahua mix right now. omg. omg omg.""",not
 "b""I'm talking about people that take an active stand to say they want to create solutions for harassment, but do nothing beyond get RTed.""",not
 "b""@0xabad1dea @kelseytheodore2 I've been dreading the day that old people find twitter and start using it to send their angry letters.""",not
 "b""@ThatJesusS do you know this person? i don't generally promote fundraisers for legal fees for people i don't know/haven't talked to.""",not
@@ -1101,7 +1101,7 @@ b'@EvvyKube ME TOO',not
 "b'I am now watching wadhwa be ""very disappointed"" in the EFF. Jesus. Is that his standard line for every male that doesn\'t agree with him?'",not
 "b""The list of companies for the anti-abuse round table I'm building is growing. I'm excited. The world needs this.""",not
 "b""@a_man_in_black i don't disagree with your point. i don't frequent reddit at all because it's basically 100% circlejerks.""",not
-"b'@sameer__t it\'s ok Sameer this asshole called me a ""feminazi"" earlier today. I can handle your insults. SORRY NOT SORRY IM A FEMINIST'",racism
+"b'@sameer__t it\'s ok Sameer this asshole called me a ""feminazi"" earlier today. I can handle your insults. SORRY NOT SORRY IM A FEMINIST'",not
 b'@krainboltgreene https://t.co/FO2FBlj5wy\n\n \xc2\xaf\\_(\xe3\x83\x84)_/\xc2\xaf',not
 "b""@kencf0618 Being blocked isn't harassment.""",not
 "b'@Jacklynkendrick @philippenis @I_Am_SteeN she gets her ""facts"" from tumblr feminazi\'s lmfaooo'",not
@@ -1126,7 +1126,7 @@ b'We will be releasing as many tools as possible under the BSD license. @korvys'
 b'@zahnster that was pretty much my thought.',not
 b'@p8952_ @mjg59 it goes both ways. This is from a very limited sample size - people are far less likely to harass on fb w/real names.',not
 "b""@BasicMountain it's hard for me to find good marvel schwag. i've got a nice print from target (lol), but DC sadly does better mechandising.""",not
-"b""@athenahollow it would. i'm hoping for more personal attacks, but that's definitely troubling. :P""",racism
+"b""@athenahollow it would. i'm hoping for more personal attacks, but that's definitely troubling. :P""",not
 "b'@jonrosenberg what are your thoughts on attaching a comic as a image to tweet, with attribution to source url/author?'",not
 b'@luizpsc I fucking love her. She is hot as shit.',not
 "b""@MetroidThief not sure about classic, but it's definitely a stuffed hedgehog.""",not
@@ -1239,7 +1239,7 @@ b'@mcmahoniel manual filter... tweets?',not
 b'Anyone could easily follow a guide on faking screenshots. Most browsers make this easy.',not
 "b""@BrownBagPantry @LaurieJWillberg I haven't seen anything that falls under the lines of targeted harassment in any screenshots/archives.""",not
 "b""WTF....#mkr the girls used bought sorbet amd that was the standout!!?? Shouldn't they be disqualified? ??""",not
-b'RT @ShawnaB_Me: Can we re-retire the word #Coon',not
+b'RT @ShawnaB_Me: Can we re-retire the word #Coon',racism
 b'RT @StephenAtWar: The first thing an abuser will tell you about threats- stay quiet about them. http://t.co/H0ksEXZ9Xw',not
 b'RT @jcmanous: http://t.co/1F7UXmijl2 @freebsdgirl',not
 "b""@voretaq7 i didn't read much content, just enough to see that he's getting a lot of notifications. i ignore FYGM girls.""",not
@@ -1249,7 +1249,7 @@ b'Back in Yolo county awww yisssss',not
 "b'@GearCraftus uh. ""get her side"" by sending a mob against her. i\'ve been watching her get threatened. this isn\'t helping.'",not
 b'Twitter is more likely to act on threats to come to your house than they are someone handing out the address. http://t.co/rEJ1NXfObD',not
 b'@TheDoubleclicks @drgrrlfriend squeeeee :P',not
-"b""don't try to turn this into an immigration issue. we could care less where he's from. we don't want him to speak for us. @triggerasaurus""",not
+"b""don't try to turn this into an immigration issue. we could care less where he's from. we don't want him to speak for us. @triggerasaurus""",racism
 b'@carolinesinders @herecomesfran *hugs*',not
 "b'OK. Who wants to go see 50 shades of grey up in Emeryville? (braces self for the onslaught of ""NOT A HEALTHY PORTRAYAL OF BDSM"")'",not
 "b""@Spacekatgal $1 may not seem that far out of reach to a lot of people in the US, but we're also far removed from the class it would impact.""",not
@@ -1313,7 +1313,7 @@ b'@softsurv @sschinke north',not
 "b""@OfRedAndBlue if this was actual abuse. I'd agree. But often it's just one activist finding fault with another.""",not
 b'I have no idea how anyone is seeing blue at all. I see no blue.',not
 b'The Feminazi Man Haters! RT http://t.co/GKj6ejoDXP #Catholics #CatholicLaity #Synod #CatholicSynod',not
-"b'@IATL2Q__ IM glad I\'m a ""feminazi"" unlike you who thinks disrespecting women is okay'",racism
+"b'@IATL2Q__ IM glad I\'m a ""feminazi"" unlike you who thinks disrespecting women is okay'",not
 b'@the_moth_reborn it is trolling.',not
 b'Just need to figure out a way to hire people without disclosing their names publicly for security reasons. Is that a thing? LLC?',not
 "b""@stufox @keith_ng No, I'm a feminazi -- I need sexism to outrage me enough to invade something.""",not
@@ -1328,7 +1328,7 @@ b'RT @evilgaywitch: @sarahjeong Screenshot in case he deletes! http://t.co/XIu7d
 "b""@Jen_X_Infinity @ShriekAPotomos @CrashOverrideNW hi. i still saw your tweet. one, i'm female. obviously. two, this isn't helping.""",not
 b'I spend my evenings baking cookies for non-predatory men. #BlameOneNotAll #HeresYourDamnCookie',not
 "b'@krainboltgreene for example, i know that if i were to talk about someone publicly but not mention them, someone would respond &amp; include.'",not
-b'#Sprint is #Hiring! #Retail #Sales #Associate #Job in #Coon Rapids #MN  Apply now! http://t.co/0ISep8dx84',not
+b'#Sprint is #Hiring! #Retail #Sales #Associate #Job in #Coon Rapids #MN  Apply now! http://t.co/0ISep8dx84',racism
 "b'FYGM = fuck you, got mine. @BlankBBS'",not
 "b'@lukemckinney @funranium @wombatoverlord i like that KS. ""i wondered if it could hurt us, so I designed a solution just in case.""'",not
 "b""@dylanw i'm not responsible for his hurt feelings when he's the one that decided to ignore me instead of having a conversation.""",not
@@ -1382,10 +1382,10 @@ b'STOP LYING @XaiaX',not
 "b""@cheeseplus @obfuscurity i don't wanna devops this. i just want it to work so i can do other things. i need a devops.""",not
 b'When did the Facebook iOS app start making noises?',not
 "b""@Sr_Dios C'mon feminazi""",not
-"b""@taitaisanchez as do i. &gt;.&gt;  i had quit, but then gamergate happened. e-cig just wasn't cutting it anymore.""",racism
+"b""@taitaisanchez as do i. &gt;.&gt;  i had quit, but then gamergate happened. e-cig just wasn't cutting it anymore.""",not
 "b'That CANNOT be their house, no way!!! #MKR'",not
 "b'RT @marlenac: So, if you thought that this whole Wadwha silencing women thing was theoretical, here is our proof: http://t.co/toNOu1pK6o #s\xe2\x80\xa6'",not
-"b'@SwarajyaMag #GermanProfessor gives meaning to term FemiNazi.Doesn\'t hire ""Indian Men"" bcz of ""Indias\'s Rape Problem""\nhttp://t.co/zyvMzmeEA6'",not
+"b'@SwarajyaMag #GermanProfessor gives meaning to term FemiNazi.Doesn\'t hire ""Indian Men"" bcz of ""Indias\'s Rape Problem""\nhttp://t.co/zyvMzmeEA6'",racism
 b'@strictmachine hahahahaha',not
 "b""@youfoundthecard @ChrisWarcraft I'm not as young as you think I am :P""",not
 "b""@jmatonak because if there's one thing we can count on, it's that the mob-like behavior of gaters will make our point better than we could.""",not
@@ -1402,7 +1402,7 @@ b'haha http://t.co/x01ghRTb8O',not
 b'@LukeIsNotSexy basically me when I get called feminazi by all of my grade',not
 b'@Fernandarova feminazi',not
 "b'@Aiiane @aquarianfool maybe. a quiet word can go a lot further than a public call out, depending on relationship.'",not
-b'@TheSoundDefense wtf',racism
+b'@TheSoundDefense wtf',not
 "b'@RealityForger just change your profile pic/name to a woman, pref w/brightly colored hair. Tweet out ""gamers are dead"" or ""games are sexist""'",not
 "b'@bkerensa ... sorry, I guess.'",not
 b'@Nayadrikj omfg #wowdrama I AM LOGGING IN WAIT FOR MEEEEE',not
@@ -1428,7 +1428,7 @@ b'@chilblane u jelly',not
 "b""RT @stibbons: @freebsdgirl bahah google suggestions knows what's up. http://t.co/EHQJgkkiVl""",not
 b'@JeankyAz https://t.co/151ilFynIp',not
 "b'zomg. new response to being called a ""feminazi"": ""dude. femshevik.""'",not
-b'@AGeekCalledBob ick. DV can happen to anyone. :\\',racism
+b'@AGeekCalledBob ick. DV can happen to anyone. :\\',not
 b'RT @thekylagray: Drive my heart into the night - you can drop the keys off in the morning \xf0\x9f\x8e\xb6\xf0\x9f\x8e\xb5\xf0\x9f\x8e\xbc #kylagray #teamkyla #asian #lace http://t.co/\xe2\x80\xa6',not
 b'RT @jacob_boi: Got called a FemiNazi today... Is it so wrong to want gender equality? #feminist',not
 "b""@luizpsc no one is perfect. We all make mistakes, and then we have to apologize for them. Celebrities aren't special.""",not
@@ -1510,7 +1510,7 @@ b'Just in case anyone is down for some meatballs\xe2\x80\xa6 http://t.co/2nFAlur
 "b""RT @BrentonPoke: Five bucks says @freebsdgirl's drinking.""",not
 b'@cheeseplus I will forward chef all the dickpics I receive on okcupid',not
 "b""@TheRealDrMcCoy @KosmoATD @lilithsaintcrow it bugged me a lot. i didn't realize why until i read that article.""",not
-b'They warned me Australians were racist. Who knew they were this bad!! #wtf #coles #coon\xe2\x80\xa6 https://t.co/tMgTG8hD5J',not
+b'They warned me Australians were racist. Who knew they were this bad!! #wtf #coles #coon\xe2\x80\xa6 https://t.co/tMgTG8hD5J',racism
 "b""@girlziplocked @DoubleUnionSF I have... a whiteboard. And a mental list that I run through several times a day. I don't know PM stuff yet.""",not
 "b""@drurbanski @trentmkays i've just seen way to many abuse preventatives lately that suggest some sort of pay wall. can't get behind that.""",not
 "b""@khaxan if there's a hate group, they've probably got wanted posters of me at this point""",not
@@ -1530,7 +1530,7 @@ b'@edzitron i ruin EVERYTHIIIIIIING',not
 b'@girlziplocked I WANT TO SEE THIS. but storify is returning error code 500 :(',not
 "b""For many of us, our job is part of who we are because we've had to fight so hard to get where we are.""",not
 "b""Someone sent me a pgp encrypted message and they don't have keybase. sigh. i am in windows. this stuff isn't set up. :P""",not
-b'@TheBlackVoice @TheRoot This is a surprise? #uncletom #coon #coonery #housenigga',not
+b'@TheBlackVoice @TheRoot This is a surprise? #uncletom #coon #coonery #housenigga',racism
 "b""263 miles... When I get home, I'm watching twister. http://t.co/ZrMmH6EeEG""",not
 "b""@lilmissagitated @NotAllBhas meanwhile I'm all http://t.co/DHlRpMDC0C""",not
 "b""I can't wait until we're in a position to be able to share more details, but not yet. It's early days.""",not
@@ -1648,7 +1648,7 @@ b'RT @adamdicarlo: @freebsdgirl gamergate do u even github http://t.co/zNCZVczFZ
 b'Watching devil wears prada just reaffirms my desire to be single forever. Needy boyfriend omfg.',not
 b'My dog is photogenic as hell. http://t.co/NIN4A120Vu',not
 b'http://t.co/ZxbZV39jru: Cats!!! : Photography Set 2 http://t.co/cfVvmq9Xj4 #cats #coon #maine #photography',not
-b'My new mascot. http://t.co/AugbPO2t3v',racism
+b'My new mascot. http://t.co/AugbPO2t3v',not
 b'@ComradeFu feminazi',not
 "b""@IngridBanerjee that's because you are a feminazi with obscure views on Clarkson, He embodies all that is top gear #BringBackClarkson""",not
 "b'A ""random scientist"" that keeps blogging about me. A sexist asswipe that told me to not bother with my projects coz he did it @anansi234'",not
@@ -1674,7 +1674,7 @@ b'@torvos @revolize @snipeyhead darksky &gt; *',not
 b'@KathleenSawisky yes. white feminism ignores the privilege that white women are given over WoC.',not
 b'Things I am not scared of:\n\nWhiny manbabies.\nA lot of twitter mentions.\nPublic speaking.\nPerl.\nStanding up for those that are afraid.\nFEELS.',not
 b'@sigje too late :P',not
-b'#Israel\xe2\x80\x99s #Avigdor #Lieberman calls for #beheading of #Arab Israelis  \n#ISIS #Qaeda #Nusra #Takfiri #Terror\nhttp://t.co/VyZeWBzBuF',not
+b'#Israel\xe2\x80\x99s #Avigdor #Lieberman calls for #beheading of #Arab Israelis  \n#ISIS #Qaeda #Nusra #Takfiri #Terror\nhttp://t.co/VyZeWBzBuF',racism
 b'@Palle_Hoffstein @ashleylynch @CranBoonitz glad that your job is safe. :)',not
 "b'Corsetry, bloomers and hat pins will be back in fashion by the time this series ends. #MKR'",not
 b'I have a photo shoot thing tomorrow I guess. I need to clean my apartment and dye my hair and get this dumb code done ughh UGHHHH',not
@@ -1686,7 +1686,7 @@ b'How dare I troll people that go out of their way to try to destroy my life. @_
 b'its melting because you didnt put it in the freezer before you served it you dumb skank! #MKR',not
 "b'RT @Hermit_Hwarang: ""Instead of talking abt the problem, let\'s talk abt how I\'m so not part of it. That way we don\'t have to fix the proble\xe2\x80\xa6'",not
 "b""@delfuego @PendragonTarot TIL I'm the district attorney.""",not
-"b""Oh, no. Please don't sue me. I'm shaking in my bright pink UA sneakers. https://t.co/zn5tktwG7P""",racism
+"b""Oh, no. Please don't sue me. I'm shaking in my bright pink UA sneakers. https://t.co/zn5tktwG7P""",not
 "b""RT @NotFaulty: Mark Kern is the dictionary definition of 'Willfully Dense' http://t.co/Yfu94K6iD3""",not
 b'@salarta might have been a butt block by my iphone. :P  sorry about that.',not
 "b""@ctp I've worked with a lot of abused dogs in the past. Used to do a lot of work training w/anxiety &amp; behavioral issues.""",not
@@ -1697,7 +1697,7 @@ b'Someone carry me to the IGDA party I am done',not
 "b'Okay. Hey, tech industry contacts. I need to talk to someone from Salesforce, Atlassian, and uh. Yeah, that should be good for now.'",not
 "b""@krainboltgreene if you think that crticism en masse isn't abusive, then you've never experienced it.""",not
 b'DRUNK ON DUCK FAT AND VODKA AND WHATEVER THE FUCK THESE FRUITS ARE. @BrentonPoke http://t.co/RXdfVzjOeB',not
-"b'@KaitlynBurnell thank you for calling me on this, though. i probably should have made that more clear in the original tweets.'",racism
+"b'@KaitlynBurnell thank you for calling me on this, though. i probably should have made that more clear in the original tweets.'",not
 "b'@jkohlmann sweet. (i use an iphone, because i am not a peasant)'",not
 "b""@scm ooo. that's old school. i didn't even think of that.""",not
 "b'In all seriousness, the quality of code working with a suboptimal language that is familiar is much higher than that of a new language.'",not
@@ -1780,7 +1780,7 @@ b'http://t.co/ZxbZV39jru: Playful cat #gets a surprise from her brother! http://
 b'@hypatiadotca k I miss you bae',not
 b'*Beyond* angry right now.\n\nBut not even surprised.',not
 b'@ChrisWarcraft [ i am doing this to make the @yoapp people happy ]',not
-"b'Company profile CLAY COUNTY AKC COON HUNTERS CLUB, INC. - http://t.co/kXadsg15Jb  #CLAY #COUNTY #AKC #COON #HUNTERS #CLUB, #INC.'",not
+"b'Company profile CLAY COUNTY AKC COON HUNTERS CLUB, INC. - http://t.co/kXadsg15Jb  #CLAY #COUNTY #AKC #COON #HUNTERS #CLUB, #INC.'",racism
 b'@starbreiz we are partnered with them. We are the technology side of things ;)',not
 b'RT @BlissTabitha: Feminazi Blog Reminds Liberals Today Is \xe2\x80\x9cNational Day of Appreciation for Abortion Providers\xe2\x80\x9d\xe2\x80\xa6 http://t.co/G4EqVuuKoo',not
 "b""@athenahollow @ShadowPraxis i'm married with kids. also 33.""",not
@@ -1809,7 +1809,7 @@ b'RT @shaunacitynews: Please watch this video and spread the word!   http://t.co
 "b'@omglazerkittens they are in seattle, usually hiring.'",not
 b'Another fucking round of instant restaurants!!!!! Ahhh I just want kitchen headquarters to start! #mkr',not
 b'Pretty day in SF! http://t.co/YUV9shvowY',not
-"b""@ShriekAPotomos @CrashOverrideNW As to if I'm working with her, that's none of your business. This isn't an adequate use of your time. Shoo.""",racism
+"b""@ShriekAPotomos @CrashOverrideNW As to if I'm working with her, that's none of your business. This isn't an adequate use of your time. Shoo.""",not
 "b""You're not a feminazi, right?  #5WordDealBreakers   @midnight""",not
 b'@NotAllBhas i \xe2\x9d\xa4\xef\xb8\x8f all of your selfies.',not
 b'@nat_com1 @Feminazi_Front Men are physically stronger. Women gestate babies. Pointless for any1 to whine that this denies them equal rights',not
@@ -1907,18 +1907,18 @@ b'@PeerWorker why do you think that you know more about the abuse i personally r
 b'Maine coon cats: Maine coon cats wallpaper http://t.co/8gCzKvfoAC #240x320 #wallpaper #cats #coon #cooncats #maine',not
 "b'I have no intent on linking to the articles where he stated he was backing out. They were an attempt to save face, not an apology.'",not
 b'@FingerLicknGod #NachoShield is my favorite. :)',not
-b'@spacegirlgail @Telegraph #feminazi',racism
+b'@spacegirlgail @Telegraph #feminazi',not
 b'@jeremiahfelt those are waaaaay more spendy. this is the drive i have. just considering using built-in or if i should go software.',not
 "b'and i used to be a tech evangelist. i have some idea of how the press works, but thanks for the clear examples of mansplaining.'",not
 "b""@SamanthaZeitlin I'm about to wander outside and enjoy the sun for a few minutes.""",not
 "b'The US goes to war with CA, but quickly surrenders when Google countered by removing all porn from search, ever.'",not
 b'RT @dlangille: I suspect the BSDCan list of selected talks will *not* be available today.  The program committee is discussing some importa\xe2\x80\xa6',not
-b'Feminazi game too strong http://t.co/89iPrFPXzt',racism
+b'Feminazi game too strong http://t.co/89iPrFPXzt',not
 "b""@comattwow it's always been my stance ;)""",not
 "b""@tomdcc i met with them weeks ago. :P  who knows what they might do? i certainly don't. but we're talking.""",not
 "b'@Jason_Gio meh. :P  thanks for the heads up, but not too concerned about another angry dude on twitter.'",not
 "b'After years of service, my naga may be dying. sighhhh.'",not
-b'#isis #isil #terror #terrorism #terrorist #terrorists #israel #islam #islamic #zion #zionist #arab https://t.co/T5Aqhn10TS',not
+b'#isis #isil #terror #terrorism #terrorist #terrorists #israel #islam #islamic #zion #zionist #arab https://t.co/T5Aqhn10TS',racism
 "b""@AlanNRembosDDS  As a mom of daughters, I'm asking if U would call them 'sluts, sexretary or FemiNAZI'? Rush does &amp; you pay for it #stoprush""",not
 b'#Coon ass \xf0\x9f\x91\x8e https://t.co/5BixPnTIEK',not
 b'RT @DancrDave: Feminazi Blog Reminds Liberals Today Is \xe2\x80\x9cNational Day of Appreciation for Abortion Providers\xe2\x80\x9d\xe2\x80\xa6 http://t.co/82vQJQXhYd via @W\xe2\x80\xa6',not
@@ -1928,7 +1928,7 @@ b'@korvys i think so.',not
 b'@sibbysoyabean OH NOES',not
 "b'Best part about my style &amp; not having a precision cut is that I can scream ""FUCK YOU, HAIR"" while randomly jabbing/hacking w/box cutters.'",not
 "b'""We want everyone to know we are not just pretty faces"" noone said they were pretty though \xf0\x9f\x98\x92 #MKR'",not
-b'Yo /baph my address was never even that apartment. Why are you so dumb? \xf0\x9f\x98\x9c https://t.co/usngQfjkjo',racism
+b'Yo /baph my address was never even that apartment. Why are you so dumb? \xf0\x9f\x98\x9c https://t.co/usngQfjkjo',not
 b'Microsoft finally pulled ahead of Apple again in tech news when they announced the middle-finger emoji. Well played.',not
 b'@IAmMatticus several pairs. :P',not
 b'@KosmoATD @lilithsaintcrow http://t.co/8l8NhWye3E',not
@@ -1982,7 +1982,7 @@ b'@sunkensomething I... I thought you were being snarky...',not
 "b""@krainboltgreene and i'm not even the person that called me this. i wouldn't.""",not
 "b'@scottyswaggod men are the ones that are going to push the real change. they are the ones in power, generally. we need their help.'",not
 "b'@Lithobolos @Foxxi_Love Feminazi Scum much? Besides I love women, feminists are not real women though.'",not
-"b'@SFtheWolf @max2000warlord people confuse empathy with being scared, and that says more about them than anything.'",not
+"b'@SFtheWolf @max2000warlord people confuse empathy with being scared, and that says more about them than anything.'",racism
 "b'RT @Lightinchains: Reddit user realises her boyfriend is gaslighting her, makes him watch Gaslight. http://t.co/uphi3PnvEi #sweetjustice @C\xe2\x80\xa6'",not
 b'@cperciva i know. my heart is breaking. (not really. i do tweet a *LOT*)',not
 b'Today I discovered that 4 of my dude friends have married landscapes or literal dogs. Upset I was not invited to the wedding.',not
@@ -2016,7 +2016,7 @@ b'Man. That Startup Castle is just setting themselves up for a lawsuit with that
 "b""RT @journodave: 'As Beck stepped up to take his album of the year award' what is this? 1997?""",not
 "b""@jlorry96 @ninaburleigh @wadhwa i'm calling her dumb because she fell for his bullshit and also quoted one of the women he abused.""",not
 "b'RT @Lavender_Blume: ""while sexism exists, not all men are the perpetrators"" \xf0\x9f\x98\xab #BlameOneNotAll = lies. ALL MEN benefit from patriarchy. Priv\xe2\x80\xa6'",not
-b'RT @sjvanterpool: I was taking it off over my bathroom counter when it slipped. Fell about 8 inches on its face and shattered',racism
+b'RT @sjvanterpool: I was taking it off over my bathroom counter when it slipped. Fell about 8 inches on its face and shattered',not
 b'@CALMicC https://t.co/UlohHh8MWl',not
 "b""@dylanw that's cool. next time when a woman talks to him about how his approach is classist, he might want to not completely dismiss her.""",not
 "b'""I don\'t retreat.\n\nI reload.""'",not
@@ -2043,7 +2043,7 @@ b'@sarahjeong fuck. guess i gotta find a new moon lawyer.',not
 "b'Sipping coffee, pulling down follower list, running analytics against each of them to create a troll score.'",not
 b'@randi_ebooks no one stops dogbot',not
 "b'So it would auto-unmute after N hours, or whatever.'",not
-b'@JLPtalk You are one of my early frontrunners for #Coon of the Year... but look out... Ben Carson is looking strong as well.',not
+b'@JLPtalk You are one of my early frontrunners for #Coon of the Year... but look out... Ben Carson is looking strong as well.',racism
 "b""Here's another woman thanking you. I haven't seen the ep yet, but I've heard good things. Thank you. @warrenleightTV""",not
 "b""Thank you everyone that pointed out it's from tswift's shake it off. This video is my new favorite thing.""",not
 "b'RT @loyalelectron: Way harsh, bank account application http://t.co/fEj9BMB8Bw'",not
@@ -2057,10 +2057,10 @@ b'I wanted to show my mom her Ted talk. Mom saw the search results and started t
 b'@tomdcc you can only have one GV # per acct at any given time.',not
 b'RT @edzitron: Someone call @PennyRed a spy organization because I believe a burn notice was just issued http://t.co/wVT9gAn6bx',not
 "b""@Celestalon @holinka you're both awesome. ;) Thank you for your work.""",not
-b'RT @GamingWorldUK: #Feminazi #Revolution60 http://t.co/dofLbucj0D',racism
+b'RT @GamingWorldUK: #Feminazi #Revolution60 http://t.co/dofLbucj0D',not
 "b'RT @kerrizor: \xe2\x80\x9cTo start, @Wadhwa needs to shut up about women in tech already!\xe2\x80\x9d\n\nhttp://t.co/Z8IbGNjVsX'",not
 "b""The best part about posting to WoW forums is that it's only for ppl that have played the game &amp; thus will keep many gaters from descending.""",not
-b'@mumbly_joe @Funkyrefresh @superspacedad @glinner im sorry wat http://t.co/Q8hSwCYvem',racism
+b'@mumbly_joe @Funkyrefresh @superspacedad @glinner im sorry wat http://t.co/Q8hSwCYvem',not
 "b""@TheSoundDefense i'm in a lucky situation - crowd supported because the things i want to create are relevant to many people's interests.""",not
 "b""@ijosborne wasn't revenge porn. Just emails between my boyfriend and me, along with medical information.""",not
 "b""lol @ dude in my mentions defending software piracy, saying it doesn't create financial harm.""",not
@@ -2136,13 +2136,13 @@ b'\xe2\x80\x9cWe took people on a journey. To a special place. Should\xe2\x80\x9
 "b'@Xer0Dynamite uh, okay?'",not
 b'@thain1982 http://t.co/2AXPNlSIkg',not
 b'Aaand the owners just walked in to claim the puppy. The police are not happy.',not
-b'@ANN_Lynzee the thing i fight with is when i see minorities mob signing off on the exact behavior they know is terrible.',not
+b'@ANN_Lynzee the thing i fight with is when i see minorities mob signing off on the exact behavior they know is terrible.',racism
 "b""@disconairobi it's a rough life.""",not
 b'There is sometime at this shelter that is waiting to see the same puppy I want. Death match in the streets.',not
 b'RT @girlziplocked: I get the sense from his timeline that Vivek is HOPING gamergate goes after Amelia like they do @freebsdgirl @Spacekatga\xe2\x80\xa6',not
 b'@edzitron this person needs to be put in timeout',not
 "b'Tonight\'s dessert is called ""Remains of the Day"". #MKR'",not
-"b'@girlziplocked at least he doesn\'t directly say ""I SPEAK FOR WOMEN"" there. so that\'s something.'",racism
+"b'@girlziplocked at least he doesn\'t directly say ""I SPEAK FOR WOMEN"" there. so that\'s something.'",not
 "b'@a_man_in_black but to put the spotlight on ghazi is to basically say ""i hate seeing people talk about abuse"" for MANY of the posters.'",not
 b'@GlennF i have a good lawyer as well as people on my board that have been in nonprofits before. :) it helps a lot.',not
 b'Just saw this fly by on my stats display a few times:\n\ntweetstats.hashtag.gamergate.mention.freebsdgirl.oc\n\nLOL NOPE',not
@@ -2154,7 +2154,7 @@ b'@edzitron @funranium @jonrussell @ow literally',not
 "b""\xe2\x80\x9c@benpobjie: \xe2\x80\x9cAnd so we\xe2\x80\x99ll have whittled 18 down to 14 in just a few short months\xe2\x80\x9d #MKR\xe2\x80\x9d Knife fight in the car park would've been better!""",not
 b'vomit. #stopwadhwa2015 http://t.co/78tLSv56cs',not
 "b'@freebsdgirl TOO. damn you, siri.'",not
-"b'@jrblanc1 totally my bad. :P  Here, brain bleach: http://t.co/3rP2rBUBWS'",racism
+"b'@jrblanc1 totally my bad. :P  Here, brain bleach: http://t.co/3rP2rBUBWS'",not
 "b""#Feminazi just scolded me because I made fun of her and her stupid Brazilian wax. Says men don't understand what women go through.""",not
 "b'@chrissam42 or worst, depending on how you look at it.'",not
 "b'@koukopoulos @noellejoyeuse btw, this whole conversation is basically what gives open source a bad name.'",not
@@ -2173,23 +2173,23 @@ b'.@sindarina tweetbot is a paid client.',not
 "b""@AnaMardoll i dunno. we'll see. at least it was addressed, if not completely fixed.""",not
 "b""Can't even make your own chicken stock... #MKR""",not
 b'Sometimes my mom says such stupid shit that I have to remind myself that I protected her from knowing about much of the horrible stuff.',not
-b'@TipsySkunk @vickstar14 @Robfromtaroona @wildharry33 @Scruffbucket @tiwigirl Are there no scruples left @ #coon #votewithyourwallet',not
+b'@TipsySkunk @vickstar14 @Robfromtaroona @wildharry33 @Scruffbucket @tiwigirl Are there no scruples left @ #coon #votewithyourwallet',racism
 "b'Feminism! Fighting for equality in the workplace....well, kinda..... #WomenAgainstFeminism #GamerGate #MalePrivilege http://t.co/Yno48i6xfd'",not
 "b""OK, look. Someone is messaging me on something. I hear the ding. I don't know which account, which service, which computer. Uh. DM me.""",not
 b'@SJWreptilian i think people should care less about their opinion. the only people listening to GG are GG.',not
-b'RT @ChrisWarcraft: I would rather lose 100k followers by standing up for others in a bad position than gain 100 by keeping my mouth shut fo\xe2\x80\xa6',not
+b'RT @ChrisWarcraft: I would rather lose 100k followers by standing up for others in a bad position than gain 100 by keeping my mouth shut fo\xe2\x80\xa6',racism
 "b""@mattjbaldo that's never a problem.""",not
 "b'Unfortunately, a positive experience doesn\'t cancel out a negative. And playing the ""cool girl"" game isn\'t a good look for anyone.'",not
 b'@Arlen weird. i have an address on my account. not sure if i need to add that to my wishlist or not.',not
 b'#BlameOneNotAll http://t.co/fPZvjSybFf',not
 b'@tpw_rules I can prove that my code is in FreeBSD. And there are articles that state that FreeBSD is running on the PS3 and PS4.',not
-b'RT @Ostrov_A: Another #Arab car ramming terror attack in #Jerusalem #Israel. Will #Obama Adm call this random traffic infringement? http://\xe2\x80\xa6',not
+b'RT @Ostrov_A: Another #Arab car ramming terror attack in #Jerusalem #Israel. Will #Obama Adm call this random traffic infringement? http://\xe2\x80\xa6',racism
 "b""@adam_smasher @celiadeeter lol, as they should. GG is a hate group. Ghazi isn't for them.""",not
 "b'@Loquori yes. although my funds are rather limited, so trying to find someone that has a spare. &gt;.&gt;'",not
 "b""@HPluckrose @Feminazi_Front you call difference inequality; that's a loaded word""",not
 b'@saintneko @SecretGamerGrrl @vivian_games Quick! Kiss a boy! And show me your birth certificate!',not
 b'@Tilaurin probably :P',not
-"b'RT @Conclusionistic: #stoprush #RushInRuins #Rushinruins #rushlimbaugh Because the man who invented ""FEMINAZI"" needs to be stopped. http://\xe2\x80\xa6'",racism
+"b'RT @Conclusionistic: #stoprush #RushInRuins #Rushinruins #rushlimbaugh Because the man who invented ""FEMINAZI"" needs to be stopped. http://\xe2\x80\xa6'",not
 "b'RT @EvvyKube: @freebsdgirl One thing that bothers me about it is the fact that despite hundreds of women writing on the subject, a man beco\xe2\x80\xa6'",not
 b'We are passionate about this. We have the experience &amp; are surrounded by a great &amp; supportive industry. Thank you for all your support. \xe2\x9d\xa4\xef\xb8\x8f\xf0\x9f\x98\x98',not
 "b""@katexweis @ashleylynch i'm more basic than either of you :(""",not
@@ -2200,7 +2200,7 @@ b'We are passionate about this. We have the experience &amp; are surrounded by a
 b'Now I know where to find the people that stand in fire.',not
 "b""Things are coming together. If all goes well with my next 2 meetings, I'll have a major announcement to make during GDC.""",not
 b'HEE HEE HEEEEEEE',not
-"b""@GCMayhem Sorry, I don't converse with people that talk to me while hashtagging hate groups. Kindly go fuck yourself.""",racism
+"b""@GCMayhem Sorry, I don't converse with people that talk to me while hashtagging hate groups. Kindly go fuck yourself.""",not
 "b""Just heard the news about Joss Whedon. That's shitty. So many people bragging about running him off Twitter. What the hell?""",not
 b'RT @deray: Guns drawn. Ferguson PD. http://t.co/YE5a0yGKu4',not
 "b""@savannahsatori You're a feminazi?!?""",not
@@ -2228,7 +2228,7 @@ b'LOL at the mass hysteria on #BlameOneNotAll \xf0\x9f\x98\x82',not
 b'RT @nathanrice: How to piss off an anti-vaxer. http://t.co/Nb2KU3KM1s',not
 b'The Academy Awards got a little too intense Sunday. \nhttps://t.co/p4CnN8FVGi',not
 "b""ugh. no. I am finally dealing with imposter syndrome. This is not a thing that I'm used to having to manage. crap.""",not
-b'I order #Asian food about as well as the guy taking my order can drive. #notverygood',not
+b'I order #Asian food about as well as the guy taking my order can drive. #notverygood',racism
 "b""@sschinke @TsundereRager previous versions of ebooks_example (code using twitter_ebooks) wouldn't reply to *_ebooks accounts.""",not
 b'@krainboltgreene using social justice terms to try to justify harassment is why i claim to not be a part of the SJ community. got too toxic.',not
 "b'@atlgeek007 need github, but ty anyways. :)'",not
@@ -2264,15 +2264,15 @@ b'@CCriadoPerez Shall I add that to the Lefty Feminazi Manifesto?',not
 "b""@TURBOCUNT right?! you can make an offer, and even though you're not supposed to, some people will take $ over paypal for less.""",not
 "b""@ANN_Lynzee ie: someone once told me it didn't matter if a rape accusation was accurate because the target was a terrible person.""",not
 "b""@saucypickles @avatastic wouldn't that depend on lang? ;)""",not
-"b""@coil780 my review got downvotes because GamerGate dogpiled. But @wadhwa knows this. Heck, he's friends with Nero.""",not
+"b""@coil780 my review got downvotes because GamerGate dogpiled. But @wadhwa knows this. Heck, he's friends with Nero.""",racism
 "b""@a_man_in_black I think I'm going to push it to people outside of safety so we can get some better promotion reviews.""",not
-b'Another #Arab car #terror attack in #Jerusalem #Israel. Will #Obama call it random traffic infringement? http://t.co/XrxajfBXKF   @Ostrov_A',not
+b'Another #Arab car #terror attack in #Jerusalem #Israel. Will #Obama call it random traffic infringement? http://t.co/XrxajfBXKF   @Ostrov_A',racism
 b'Lord save me from the hurt feelings of men in tech whose ideas have been challenged.',not
 "b""@krainboltgreene didn't mention your name. i call out behavior, not people. &lt;3""",not
 "b""@TheRealVordox I'm not linking doxx.""",not
 "b""Important to note in ALL of these stats, my 'before' is taken from a large timespan. 'after' has been the past 12 h, typically a slow time.""",not
 "b""Waiting for outrage. You'll see.""",not
-"b'@cthagod ---&gt; PERFECT EXAMPLE OF A COON. #STILL can\'t get over the ""white nubian goddess"" comment.... FOH!!!! #COON Let\'s talk about that!'",not
+"b'@cthagod ---&gt; PERFECT EXAMPLE OF A COON. #STILL can\'t get over the ""white nubian goddess"" comment.... FOH!!!! #COON Let\'s talk about that!'",racism
 "b""RT @AngryBlackLady: States should not let unvaccinated crumb-snatchers into schools. And the best part? It's legal if they don't. http://t.\xe2\x80\xa6""",not
 "b'@GregTheTerrible In web, yes. Clients other than web immediately delete tweets.'",not
 "b""She's buddying up with wadhwa, because he endorsed her book. She's friends with weev, who targeted *so many* women in tech.""",not
@@ -2311,7 +2311,7 @@ b'@Shervyn I think the biggest challenge going forward in the near future is goi
 b'I see @legobutts!!! #gameloading',not
 "b""@NordicNinja use twitter search against his name. there's a lot.""",not
 "b""@kuuuramantoonis @InvisibleJimBSH OK, then, feminazi scum, patriarchy ain't real, wage gap is bullshit.. Am I getting through? lol.""",not
-b'@Devinregan3 dude yours was the worst #coon',not
+b'@Devinregan3 dude yours was the worst #coon',racism
 b'@JimmyGeekPA he answers to fuckhead. He is not that smart.',not
 b'@TheDaveCA http://t.co/4I4S1dYgGG',not
 b'@JeffDauler is Feminazi radio appropriate? Because you can call Cassie a Feminazi...lol',not
@@ -2344,12 +2344,12 @@ b'@banhammor @Spacekatgal @GlennF i think during GDC we should have a social jus
 "b""I'm so excited about this. We're already doing some great things, and I can't wait until I'm able to tell you more.""",not
 "b'I worked there before PA was forced (yes, it was not out of the goodness of their hearts despite what they told everyone) to start paying.'",not
 "b'@rosesareswift @Iipkloss So both of you fuck outta here too, feminazi slut'",not
-"b""But saying that he did this is not okay. We don't know. We will probably never know. Don't be like them.""",racism
+"b""But saying that he did this is not okay. We don't know. We will probably never know. Don't be like them.""",not
 b'FYGM is keeping the status quo so you can feel some kind of superiority over the women that opted not to put up with the abuse.',not
 b'@Zython86 ah hah.',not
-"b""@freebsdglrI awww. someone's mad. &lt;3""",not
+"b""@freebsdglrI awww. someone's mad. &lt;3""",racism
 b'@popehat wait. are they just psychoanalyzing one of you or all of you as a single entity?',not
-b'@redambition YESSSSSS',racism
+b'@redambition YESSSSSS',not
 b'@BrentonPoke @Shjade totes SJW',not
 b'GamerGate is advocating that /baph stalk my son. http://t.co/S8hlFXRmzo',not
 "b'#BlameOneNotAll because Benedict Cumberbatch, David Tennant, Jared Padalecki, and Jensen Ackles must all be rapists too, right tumblr girls?'",not
@@ -2384,18 +2384,18 @@ b'@DanzierLea that is awesome! :D',not
 "b'hey guys, the MRAs found me. oh noes. whatever will I do as a damsel in distress? oh gosh. plz stop. such a hapless victim.'",not
 b'@sarahjeong that would be awesome. &lt;3',not
 "b'@tobypinder @coil780 nope! very first night, he engaged me with those pics. that dude is just ridic.'",not
-"b'\xe2\x80\x9c@UberFacts: KFC Japan has created a fried chicken keyboard, mouse, and USB drive.\xe2\x80\x9d #asian @TomCatKiefer'",not
+"b'\xe2\x80\x9c@UberFacts: KFC Japan has created a fried chicken keyboard, mouse, and USB drive.\xe2\x80\x9d #asian @TomCatKiefer'",racism
 "b'Seriously though, that promoted Tweet is the funniest shit ever.'",not
 b'@netcrusher88 given that who knows what all factors are taken into account',not
 "b'""these are women not on social media. these are women not like the ones you are interviewing."" - because women on social media aren\'t real.'",not
 b'@aamalr plus you live there. So you have a geographical advantage... Although wait!!! This is #femaleprivilege you #feminazi!',not
 b'The past hour of driving was horrible. Have decided that I am in fact *not* from initial d.',not
-b'@Veeren_Jubbal huh. I thought you were in your late 20s? Welcome to the pedestal club. It sucks up here. :/',racism
+b'@Veeren_Jubbal huh. I thought you were in your late 20s? Welcome to the pedestal club. It sucks up here. :/',not
 "b'@vex0rian yes, I recall. ;)'",not
 b'@ugobananas OBVIOUSLY',not
 "b""@DCpierson Feminazi Activia: When you want to shit all over everyone's freedom and entertainment.""",not
 "b""@MaxwellTolvo @Spacekatgal they don't do this right now. i mean, unless you are becoming verified.""",not
-"b""@KivaBay that's usually how it goes. a word of advice? screen cap all the awesome. print it out, or keep it in a folder for bad days.""",racism
+"b""@KivaBay that's usually how it goes. a word of advice? screen cap all the awesome. print it out, or keep it in a folder for bad days.""",not
 "b""@slagkick I didn't acknowledge the fart I DONT KNOW""",not
 b'@TrollerBeaar TROLLING YOU\ncuz YOU USED MORE THAN 4 WORDS!\n\nSENTENCED\nto incessant needlepoint in a neo-communist FemiNazi Gulag!\n^_-',not
 b'Perpetuating a culture where abuse is tolerated and targets of abuse are mocked for speaking out against their abusers.',not
@@ -2404,7 +2404,7 @@ b'Perpetuating a culture where abuse is tolerated and targets of abuse are mocke
 b'I was working at Cisco when this happened. I remember watching the wording on their website change so they promoted their BSD work.',not
 b'@ncweaver i believe so. should be a client-side option (blocks processing happens client side as well)',not
 b'THEY JUST SAID IT AGAIN. I am dying.',not
-"b""Hate to think that's exactly where the meet comes from. #heritagefestival #arkansas not trying it. #coon http://t.co/dgQZXnu68v""",racism
+"b""Hate to think that's exactly where the meet comes from. #heritagefestival #arkansas not trying it. #coon http://t.co/dgQZXnu68v""",not
 b'@Blackamazon EXACTLY THIS.',not
 b'and then draka kills him. oops. http://t.co/YX7JlwsUqB',not
 "b""@tpstigers as someone that went from ~4k followers to what i've got now, i've seen a huge difference.""",not
@@ -2426,7 +2426,7 @@ b'I think I just threw up in my mouth a little #MKR',not
 b'Stop saying dumb blondes with pretty faces as you need a pretty face to pull that off!!!! #mkr',not
 b'@Cactus_Soup90 working on it.',not
 "b""I'm watching Enforcers say that they knew it was only a matter of time until this happened. Still, nothing was done.""",not
-"b""RT @shanley: This causes lasting trauma that will not only temporarily silence but forever change the target's sense of safety and support \xe2\x80\xa6""",racism
+"b""RT @shanley: This causes lasting trauma that will not only temporarily silence but forever change the target's sense of safety and support \xe2\x80\xa6""",not
 "b""RT @Keerufudechuu: @freebsdgirl You're bat-shit insane to *allies*, and then wonder why you HAVE so few. That's why radical feminism has al\xe2\x80\xa6""",not
 "b'Uh, yes I will be needing this. OBVIOUSLY. http://t.co/9DjMAoECmK'",not
 "b'@TheDanaAddams eep. yeah, all of his shoes would be pretty dangerous, then. :('",not
@@ -2435,7 +2435,7 @@ b'@Visnes why are you more invested in finding ways to excuse their behavior tha
 "b""@theMirai @gigagiga333 You can't just generalize. You feminazi's wanna generalize when it suits you but get special treatments individually""",not
 b'#BlameOneNotAll http://t.co/w0Zs61Qd7d',not
 b'@leighalexander \xe2\x9d\xa4\xef\xb8\x8f',not
-"b""Nothing disarms a Feminazi more than suddenly opening a door for her. It also opens many other 'hidden doors'""",racism
+"b""Nothing disarms a Feminazi more than suddenly opening a door for her. It also opens many other 'hidden doors'""",not
 "b'@KalitroIII \xc2\xabMore feminazi garbage/If more directors and stuff happen to be males, who cares?/Ok we get it men are bad and oppressing women\xc2\xbb'",not
 "b'#HowToSpotAFeminist Sitting behind the counter at GameStop, directing dudes to The Sims when they try to buy a video game. Oh, wait.'",not
 "b""Katie and Nikki can't cook!!! #MKR""",not
@@ -2447,7 +2447,7 @@ b'@LarryWest42 nah. Most of the trees here are pretty short.',not
 b'More things @ask_fm needs to fix. http://t.co/XlbwxtgsEJ',not
 "b""@0xabad1dea people love to hate me. :P  it's practically a sport. looking forward to inclusion in 2020 olympics.""",not
 b'@ButNoCigar what are jessica simpson shoes?',not
-b'@TimCField what',racism
+b'@TimCField what',not
 "b""@BajaLime I'm back in June ;)""",not
 b'@ChrisWarcraft bro',not
 b'Zoe is rocking the stage. http://t.co/mpXlDSBPBh',not
@@ -2490,7 +2490,7 @@ b'RT @wilkieii: The @InnovatingWomen account is literally @wadhwa retweeting him
 "b'RT @blakestacey: zomg. new response to being called a ""feminazi"": ""dude. femshevik.""'",not
 b'RT @Lunchaballin: HOT SINGLES ARE IN YOUR AREA\n&gt;go west\n\nTHE HOT SINGLES ARE CIRCLING\n&gt;go south\n\nTHE HOT SINGLES CAN SMELL YOUR FEAR\n&gt;go so\xe2\x80\xa6',not
 b'@erinjmccarty YUP. Clemson Uni.',not
-b'@funkflex you coon ass nigga\n#FuckBoy\n#Coon\n#StraightPussy\n#ScaredOfTheMedia',not
+b'@funkflex you coon ass nigga\n#FuckBoy\n#Coon\n#StraightPussy\n#ScaredOfTheMedia',racism
 b'Setting up DNS and mail forwards and twitter accounts and analytics and trying to do my eye makeup at the same time why is life so hard',not
 "b'@kgasso well, balls'",not
 "b""@gritfish haven't played it. is it on steam?""",not
@@ -2538,7 +2538,7 @@ b'The first person to bring me Thai food gets a custom block list of their own c
 b'RT @AfroArabian_: lol which salty reject started #BlameOneNotAll',not
 "b""Soz my kitchen rules I've lost interest, the instants restaurants are boring as anything 3 times let alone 4 #MyKitchenMistake #MKR""",not
 b'#stopgamergate https://t.co/tiDDhXVLVT [Slightly OT] Game recommendation for an SJW feminazi such as myself!',not
-"b'@GavinRamblesOn tbh, i feel bad anytime anyone actively enters this fight without knowing about the personal cost.'",racism
+"b'@GavinRamblesOn tbh, i feel bad anytime anyone actively enters this fight without knowing about the personal cost.'",not
 "b""@girlziplocked @ameliagreenhall he didn't worry about me back then. since then, i've been published everywhere. he's trying to discredit.""",not
 b'Feminazi Blog Reminds Liberals Today Is \xe2\x80\x9cNational Day of Appreciation for Abortion Providers\xe2\x80\x9d\xe2\x80\xa6 | Weasel Zippers http://t.co/jt6X040aoa',not
 "b'@Bard_of_peace it helps remembering how many eyes are watching - not GG, but MSM, people I admire, companies. The NPO depends on me.'",not
@@ -2582,10 +2582,10 @@ b'#TheDress is obviously gold and white.',not
 "b'If you talk the talk, you gotta walk the walk!! Do the girls know the recipe for humble pie??? #MKR'",not
 "b""#BlameOneNotAll is not because I want to be congratulated by not being a rapist. It's because I don't wanna be categorized with stupid men.""",not
 b'\xe2\x80\x9cThere is a secret element that we\xe2\x80\x99ve decided to add to this dish: thrush\xe2\x80\x9d #MKR',not
-b'I\xe2\x80\x99m laughing because the Photoshopped signs in the #BlameOneNotAll campaign look like they were written by an Indian Content farm.',not
+b'I\xe2\x80\x99m laughing because the Photoshopped signs in the #BlameOneNotAll campaign look like they were written by an Indian Content farm.',racism
 b'@harper i have the best shoe game.',not
 "b""I'll give it at other venues as well but have a nominal speaker fee to cover my time/travel/lodging.""",not
-"b""@drakino lots more to come, i'm sure. :)""",racism
+"b""@drakino lots more to come, i'm sure. :)""",not
 "b'@KivaBay are you ok, or have you passed out from hyperventilating yet? ;)'",not
 "b""@JayHanlon @Aiiane &lt;3 SE - i've even met your guys at conferences before, and was always impressed.""",not
 "b""That's a first.""",not
@@ -2646,7 +2646,7 @@ b'Wow. I might be out of blue hair dye. But I have a tube of Pravana that is pur
 "b""Apparently I'm a feminazi? Welcome to the internet where a legitimate argument is boiled down to harassment and childish bickering.""",not
 "b""@dreamachineries yup. my other dog's name is leo. :)""",not
 b'Dev week matches my outfit! http://t.co/s8i4HDWqMV',not
-b'RT @loveucats: \xf0\x9f\x98\x98\xf0\x9f\x98\xbb#cat  #mainecoon  #cute  #kitten  #best_cats  #coon  #relax  #meow  #funny  #fun  #tiger\xe2\x80\xa6 http://t.co/M9K1gElGXR http://t.\xe2\x80\xa6',not
+b'RT @loveucats: \xf0\x9f\x98\x98\xf0\x9f\x98\xbb#cat  #mainecoon  #cute  #kitten  #best_cats  #coon  #relax  #meow  #funny  #fun  #tiger\xe2\x80\xa6 http://t.co/M9K1gElGXR http://t.\xe2\x80\xa6',racism
 "b""I suspect she doesn't know about either connection. But it's the site she's posting to, lol.""",not
 "b""@Trigger_Check rather entertained that he sees his not getting threats as proof of... anything. he's a dude. dudes don't get as many.""",not
 "b""@GearCraftus notch shouldn't have tweeted that image to 2mil followers. the mob descended.""",not
@@ -2693,14 +2693,14 @@ b'You would understand if you had robot legs. http://t.co/NO19qeRXY6',not
 "b""pssst. @jennofhardwire, if you're going to stalk my timeline when i have you blocked, it's closer to 14k followers. https://t.co/vxxTLycP0Z""",not
 "b""This kaiser pharmacy has a sign saying shoplifters will be prosecuted. Because, you know, being poor &amp; sick isn't bad enough. Wow.""",not
 b'RT @EllieBaker92: LOLOLOLOL #feminazi #detected http://t.co/Zqwomftl02',not
-"b""@srhbutts @jvdgoot at the very least, it's actionable by twitter. http://t.co/bJh5JGceHD is good enough for law enforcement.""",racism
+"b""@srhbutts @jvdgoot at the very least, it's actionable by twitter. http://t.co/bJh5JGceHD is good enough for law enforcement.""",not
 "b""@EvvyKube I don't knooooow""",not
 b'@jcmanous looks neat. I need to start keeping my eyes open for CFPs.',not
 b'@vex0rian @m1sp I had a bunch of commands to help manage ggautoblocker related stuff. :) also started fights between randi/gater_ebooks',not
 b'This feels like that that endorphin rush public speakers get but so much more intense. Oh boy.',not
 "b""@amboy00 I'm waiting for one. But mostly I'm watching the timelines of those involved.""",not
 "b""RT @doctorow: I've been told that the rules are 'my responsibility' and no one can show them""",not
-b'RT @BigCouzsRevenge: @DCHiCO23 #TommySotomayor is a suicidal self hating #coon who wanted to kill himself when his white woman dumped him',not
+b'RT @BigCouzsRevenge: @DCHiCO23 #TommySotomayor is a suicidal self hating #coon who wanted to kill himself when his white woman dumped him',racism
 b'@encthenet the ring made me think of hackers when I bought it :)',not
 "b""Ubisoft's attempts at pushing Uplay is rage-inducing.""",not
 b'@twoscooters @Official_PAX @ShaofHappiness i am not surprised in the slightest. i wish that i was.',not
@@ -2787,7 +2787,7 @@ b'At the end of this Steve is going to run away to Mexico and go into witness pr
 b'So this season of #MKR is going to finish in which decade? Such a drag',not
 b'@Transition i love this movie.',not
 "b""i'm still entertained that jason's idea is to either pay a fee or make your acct protected. i'd love to hear his thoughts on short skirts.""",not
-"b""I was planning on stopping by Portland again, but I don't think I'm going to have the time for that. Too much to do when I get back.""",racism
+"b""I was planning on stopping by Portland again, but I don't think I'm going to have the time for that. Too much to do when I get back.""",not
 "b""@Vodage @PendragonTarot gamergate isn't really sjws? it's for people that don't want to get notifications from gamergaters.""",not
 b'@butneverdoubt #feminazi Can you define creepiness?',not
 b'@pwafork it is awful Come Dine With Me because no one gets drunk on #mkr!',not
@@ -2823,12 +2823,12 @@ b'@GuusHenkBremer YES',not
 b'If someone has to get the highest score in history: \n\nIt better be Eva &amp; Debra or Sherie &amp; Emilie. \n\n#MKR #MKR2015',not
 "b""I don't really understand why everybody seems so okay with that.""",not
 "b""@gavinatkinson i am not the current sysinstall maintainer. my sysinstall isn't even in use anymore. :P""",not
-"b""@allieemorse that is horrible. :(  i've only heard about this on twitter now - shocked it isn't making news over here.""",racism
+"b""@allieemorse that is horrible. :(  i've only heard about this on twitter now - shocked it isn't making news over here.""",not
 b'Someone sent pizza to the wrong address. Again. /baph is so incredibly incompetent. FreeBSD is supportive as usual. http://t.co/RFiG4kp3nr',not
 b'RT @EFF: It\xe2\x80\x99s #FOIAFriday. Do you know where your records are? Nominate your FOIA horror stories for The Foilies! http://t.co/XOKRA4MlLk',not
 "b""@kindel474 I think it's always key to distinguish the more muted, reasonable feminists with the feminazi SJWs lurking on tumblr.""",not
 "b'RT @metroadlib: at one point, a kid called my name for a point of clarity--\nthe point of clarity?\n\n""is feminazi an actual word with a denot\xe2\x80\xa6'",not
-b'RT @judahsister: The Israelites:   Israel Is A #Coon-Free Zone!!!: http://t.co/eKZipORgkm #Israelites #israelunitedinchrist #blacktwitter #\xe2\x80\xa6',not
+b'RT @judahsister: The Israelites:   Israel Is A #Coon-Free Zone!!!: http://t.co/eKZipORgkm #Israelites #israelunitedinchrist #blacktwitter #\xe2\x80\xa6',racism
 "b""@salarta @sschinke @jsigj sorry. &gt;.&gt; it's so hard to tell and there's so much that after a while, i stopped looking at timelines.""",not
 "b'I\'m going to have the ""Living Single"" theme song stuck inside my head for the rest of today. Thanks, Twitter.'",not
 "b""@ArkangelWinter it depends on if that person's behavior is actively hurtful - if they need to be stopped - or if it's just problematic""",not
@@ -2859,7 +2859,7 @@ b'RT @TheQuinnspiracy: nothing changes unless we make it change. nothing fixes i
 "b""@filmpunk86 @smudboy @Steuph i've got this person blocked, please remove me from the conversation. &lt;3""",not
 "b""OK, yeah. No GDC today. Coughing. Too much to do next week, can't risk full-blown ConSARS.""",not
 "b""@Iipkloss I don't have a sister either, but you're just another disgusting feminazi bitch, so we cool""",not
-b'#coon alert! #morningjoe',not
+b'#coon alert! #morningjoe',racism
 "b""it's like christmas.""",not
 "b""RT @Seja75: Seriously what are the men in this woman's life like, that her non-creepy uncle is the stand out? #BlameOneNotAll http://t.co/1\xe2\x80\xa6""",not
 "b'This is a problem that affects everyone, but we have seen far more harassment targeting women.'",not
@@ -2874,7 +2874,7 @@ b'the mage keeps trying to duel me',not
 "b'@Saffronian But yeah, you are so intelligent and brave, you post few insults, lock your accounts and run like the coward feminazi you are.'",not
 "b'I\'ve seen support from places I didn\'t expect when I originally posted my story ""Still Here"", and I think that\'s important to point out.'",not
 b'@sjh_canada every 100th.',not
-"b""@Amb_MSteiner #GermanProfessor gives meaning to term FemiNazi.Doesn't hire Indian Men bcz of Indias's Rape Problem.\nhttp://t.co/zyvMzmeEA6 \xe2\x80\xa6""",not
+"b""@Amb_MSteiner #GermanProfessor gives meaning to term FemiNazi.Doesn't hire Indian Men bcz of Indias's Rape Problem.\nhttp://t.co/zyvMzmeEA6 \xe2\x80\xa6""",racism
 "b'#feminists that call themselves ""feminists"" yet are racist or homophobic, can you fuck right off please, bye #feminazi'",not
 "b""GamerGate loves to flood @join_oapi so we won't see any legitimate harassment complaints that come in. :\\""",not
 "b""@PeerWorker @DerAmazingLarry @Quinnae_Moon @feministing you're really fond of lying about everything. I said they aren't ISIS.""",not
@@ -2960,7 +2960,7 @@ b'RT @kvlt_juggalo: @freebsdgirl a fourth generation anime-american',not
 b'HAHA! MT @ProWomanChoice: This makes me laugh. Every single time.  #feminazi #feminism #YesALLWomen #misogyny #fem2  http://t.co/soY0j7cNNi',not
 b'@AnnieKNK @BlutalTheDog @BeninCitizen @srhbutts @Cernowatch @a_man_in_black all this because I taunted him over his follower cnt back in sep',not
 b'Perfect way to spend a summer day. http://t.co/rPACXztnor',not
-b'@cheeseplus there is a *lot* i need to learn about dev that ops did not prepare me for.',racism
+b'@cheeseplus there is a *lot* i need to learn about dev that ops did not prepare me for.',not
 b'This song. A million times. Loop it foreeever. http://t.co/yUoZLAI7pY',not
 "b'@seanbonner not to mention poverty levels in some other countries, where this amount would be insurmountable. or what about teenagers?'",not
 "b'@Spacekatgal despite the public perception, there is indeed internet in montana.'",not
@@ -3006,10 +3006,10 @@ b'@PartyshipDown thank you for not making that one of those tweet longer things.
 "b""Had to put off press photog until today. Now I'm back to frantically cleaning &amp; cursing myself for not having time for a haircut.""",not
 "b'So please take your accusations of ""WHY AREN\'T YOU PROSECUTING, EVIL ANTIGG SCUM"" and go educate yourself. @PendragonTarot'",not
 "b""No, I'm not telling anyone what their score is. Then it'll just turn into a contest for GamerGate to try to 'win'.""",not
-b'@kunikos yeah',racism
+b'@kunikos yeah',not
 "b'guy: this girl rejected me for my height stupid bitch, being oppressed hypocrite feminazi \noh sorry i dont date girls who are taller than me'",not
 b'@ncoghlan_dev @srhbutts I hate cats.',not
-b'#DIAMOND IS DEFINITELY #MONA TOP #COON #EXPLOITEE THIS SEASON.  #MIMI IS PRAISING GOD THIS IS AIRING BEFORE #LHHATL SHE NEEDED THIS #LHHNY',not
+b'#DIAMOND IS DEFINITELY #MONA TOP #COON #EXPLOITEE THIS SEASON.  #MIMI IS PRAISING GOD THIS IS AIRING BEFORE #LHHATL SHE NEEDED THIS #LHHNY',racism
 "b'@thesledgetobias @belledejour_uk @Maggie_McNeill Yeah, who the fuck is Dr Brooke Magnanti?! Probably some kind of man-hating feminazi.'",not
 "b""@danielzklein hmm. i haven't played in a few weeks. last time i was on, he had that creepy amazing new skin. I couldn't stop laughing.""",not
 "b'At least MSM manages to do basic fact checking, like not confusing @ggautoblocker with @theblockbot :P'",not
@@ -3030,13 +3030,13 @@ b'@drakino @gilandn @filmpunk86 @georgieonthego failure to appear for expired ta
 b'GUYS I AM WEARING A SUPER HERO OUTFIT WITH A CAPE',not
 b'@gevmage yup. Especially since I start a 14 hour drive home in the morning.',not
 "b""@GlennF @Spacekatgal he's regurgitating the same ideas that people have had before. they were bad then, shockingly, still bad now.""",not
-b'#Events #Event - Interior Ministry launches major anti-terror exercise -\xe2\x80\xa6 http://t.co/QbPQd8R4F4 #arab #arabs #islam http://t.co/AJgvxMaF0b',not
+b'#Events #Event - Interior Ministry launches major anti-terror exercise -\xe2\x80\xa6 http://t.co/QbPQd8R4F4 #arab #arabs #islam http://t.co/AJgvxMaF0b',racism
 "b'Today, I am happy to announce the Online Abuse Prevention Initiative, created with @TheQuinnspiracy, @alexlifschitz, &amp; @SheriRubin.'",not
 "b""@KoriganStone @SwiftOnSecurity there is not a story that can't be told using taylor swift gifs.""",not
 b'@MaxxieBytes @NotAllBhas (hilarious side note: that show was my only sighting of a PoC until I was 15. Backwoods farm country. Saw 1 ep.)',not
 b'RT @morganastra: Have you noticed how EVERY SINGLE trans woman is a complete fucking badass? I sure have. I fucking love trans women.',not
 b'RT @TrollerBeaar: @Teelin \nAlso: is a dude \nFeminazi gulag recruiting dudes now?\nThat figures. \nSmart move.',not
-"b""I'm trying to get work done, but this is a problem. http://t.co/OST7YSKhpO""",racism
+"b""I'm trying to get work done, but this is a problem. http://t.co/OST7YSKhpO""",not
 "b'add a filter to toggle showing phone-verified accts in clients (requires devpolicy update, natch).'",not
 b'Watching gaters confuse @ggautoblocker and @theblockbot while screetching at @popehat. just another morning. &lt;3',not
 "b""@HPluckrose @Feminazi_Front how can you call that inequality? That dynamic exists because it's necessary for the existence of our species""",not
@@ -3066,20 +3066,20 @@ b'@mwlauthor now it worked. weeeeird. i tried 3 times.',not
 b'Some ppl promote education to  our youth..  @kanyewest promotes the #Kardashians..  what a #coon..',not
 b'#BlameOneNotAll http://t.co/2kk6cXxHnX',not
 "b'RT @txvoodoo: Oh my RT @JFKLibrary: In a telegram, #LeonardNimoy pleads with JFK for a safer planet. http://t.co/ohOD9lt2vU'",not
-"b""#sellout #coon #pawn this is why I don't fuck with this punk nigga. He protect the beast. He ain't a\xe2\x80\xa6 https://t.co/93PiCUSm3r""",not
+"b""#sellout #coon #pawn this is why I don't fuck with this punk nigga. He protect the beast. He ain't a\xe2\x80\xa6 https://t.co/93PiCUSm3r""",racism
 b'when you find a thing you wish you had never ever ever ever ever ever ever found.\n\nhttp://t.co/TiqoUSR0PT\n\nfuck.',not
 b'lol sitting next to zynga management.',not
 "b""except it's not the best looking instant restaurant.. It looks like two 13 year olds put it together #mkr""",not
 b'Twitter makes me laugh....Better than the series ;)))))) Very funny \xf0\x9f\x91\x8f\xf0\x9f\x91\x8f\xf0\x9f\x91\x8f\xf0\x9f\x91\x8f\xf0\x9f\x91\x8f  #MKR',not
 "b'This whole Harper Lee thing kind of grosses me out. So, her sister died, and it sounds like everybody is taking advantage of her.'",not
-"b""@cheeseplus just don't put that shit in the cloud""",racism
-b'RT @AliAlAhmed_en: A new low for extremist #Qatari @AJArabic . Iran is behind terror attack on Shia #Arab mosque in #Qatif http://t.co/XgVc\xe2\x80\xa6',not
+"b""@cheeseplus just don't put that shit in the cloud""",not
+b'RT @AliAlAhmed_en: A new low for extremist #Qatari @AJArabic . Iran is behind terror attack on Shia #Arab mosque in #Qatif http://t.co/XgVc\xe2\x80\xa6',racism
 "b""I have no idea why this isn't already a thing. It's not like there aren't console mp3 playing apps.""",not
 "b'Nikki &amp; Katie is what happens when parents continually tell their kids, ""You\'re a winner in my eyes."" &amp; avoid constructive feedback #mkr'",not
 "b""@heatherklus @skyetetra @LlamaLamb @Lilatron22 we'd be ranting feminazi bitches during the wrong time of the month http://t.co/GWE7M3ZgtY""",not
 b'http://t.co/3hqI0L6cwU',not
 b'I just found these. http://t.co/Lyam5snQ1c',not
-"b'Saw Mozilla and GitHub booths. ""HI I KNOW YOU""'",racism
+"b'Saw Mozilla and GitHub booths. ""HI I KNOW YOU""'",not
 b'@tauriqmoosa I need to know who gave it bad reviews',not
 "b""@petfish ugh gross. Can I RT that or would you prefer I didn't?""",not
 "b""i keep seeing people saying this and it's not a thing. feel free to point out the clause in the ToS if i'm wrong, though.""",not
@@ -3093,7 +3093,7 @@ b'@ARCBloodNorCal will do! \xf0\x9f\x98\x98',not
 b'RT @XaiaX: @freebsdgirl eyes are bullshit. They can\xe2\x80\x99t even tell the center pieces on both sides of this image are the same grey. http://t.c\xe2\x80\xa6',not
 "b""@slainv_fr never said there wasn't. i just rarely see women using that term.""",not
 "b""@a_man_in_black it's hard to not have those feelings sometimes. maybe step back/break for the night? or do what i do, use it as motivation.""",not
-b'We in Vegas b$&amp;@?es  LOL wit my #ace #boon #coon @tyrone_j_rb for his BIRTHDAY!! Won $60 first night\xe2\x80\xa6 https://t.co/TWKMiyO9dH',not
+b'We in Vegas b$&amp;@?es  LOL wit my #ace #boon #coon @tyrone_j_rb for his BIRTHDAY!! Won $60 first night\xe2\x80\xa6 https://t.co/TWKMiyO9dH',racism
 "b""It's voil\xc3\xa1, not walla #mkr""",not
 b'@DataFran i have other experiences that are not fine from the standpoint of being an ex-volunteer.',not
 b'@meowrobot amazon sells them...',not
@@ -3102,7 +3102,7 @@ b'@milfgaardian pravana pastel pink fade after 14 days. the rest was originally 
 b'MRN. http://t.co/R9Sv0ogFQn',not
 "b""Too busy playing video games to deal with it. Blocked a bunch, I'll handle it later. &lt;3""",not
 "b""I'm not even going to lie. This makes me giggle a little bit on the inside.""",not
-"b""Um hey truth as a black man in a company that has had past incident with racism, don't say ur going to pick anything #coon""",not
+"b""Um hey truth as a black man in a company that has had past incident with racism, don't say ur going to pick anything #coon""",racism
 b'@coopatropp randi@randi.io',not
 "b'@wetsprocket and that shit freaks me out. not that she would likely do anything, but that she could rile someone up enough to do something.'",not
 b'@samusclone &lt;3',not
@@ -3187,7 +3187,7 @@ b'RT @Laralyn: Uh... wow. https://t.co/CdoNLaApVr',not
 "b'@MaddieWozniak you cant take pride in being a woman, or ask for more, without being called a feminazi or something. This is so twisted'",not
 "b'@LionLionEatEat yeah, someone DMed me a screenshot. meh. let her. i have no idea who she even is.'",not
 b'@tarah @girlziplocked @hypatiadotca @justkelly_ok @ameliagreenhall still a sellout. still unacceptable and disgusting.',not
-b'STAY OFF MY PAGE #COON http://t.co/18hQcYLENw',not
+b'STAY OFF MY PAGE #COON http://t.co/18hQcYLENw',racism
 b'Gosh golly how dare she respond @Potatottamus @ProfessorF @chrisvcsefalvay',not
 b'@ANDAASONSAN https://t.co/dtjOHnRNhQ',not
 b'@ShaofHappiness i love your dog so much.',not
@@ -3213,8 +3213,8 @@ b'Part of me wants to move out to an hour away from the city and just find a che
 "b'@the_damn_muteKi I personally was asked, and kiva even notes who she still needs to ask for permission. Low reading comprehension maybe.'",not
 "b""@Valesband Totally! I'd never considered you guys a 'feminazi' band but now my eyes have been opened...""",not
 "b""@Taurmaurils I'd have to search \xf0\x9f\x90\x8a""",not
-"b""WHO SAID GOON'S DON'T EXIST? TELL THAT TO THE BLK MEN WHO LOSE THEIR LIVES DAILY TO OTHER BLK MEN. #COON-LUMINATI http://t.co/6Ai8lZXUBA""",not
-b'@freebsdgirl and of course i meant reign of kings. too much MRA garbage always coming at me. :P',racism
+"b""WHO SAID GOON'S DON'T EXIST? TELL THAT TO THE BLK MEN WHO LOSE THEIR LIVES DAILY TO OTHER BLK MEN. #COON-LUMINATI http://t.co/6Ai8lZXUBA""",racism
+b'@freebsdgirl and of course i meant reign of kings. too much MRA garbage always coming at me. :P',not
 b'wadhwa is now blaming npr for bad health.',not
 b'FEMINAZI FEMINAZI',not
 b'#Libya Accuses #US of Trying to Put #Muslim #brotherhood in Power http://t.co/zNKVjHYAEh #news #media #tlot #p2 #tcot #terror #ISIS #arab',not
@@ -3224,7 +3224,7 @@ b'STFU drasko #MKR',not
 b'GG averaged &lt;200 OC tweets/hr in the past 24 hrs.',not
 b'@allaboutgeorge @kevin_finke @TheRealNimoy you had to pick the tweet about spock and not about drinking with star trek. :P',not
 "b""@kianasierraa stop oppressing people on the internet! I'll call the police!""",not
-"b""#BlameOneNotAll but apparently public spaces are so dangerous for women we have to moderate our behaviour in a way men don't.""",racism
+"b""#BlameOneNotAll but apparently public spaces are so dangerous for women we have to moderate our behaviour in a way men don't.""",not
 b'@sschinke I posted on a subreddit modded by the person that claims I doxxed them.',not
 b'#stopwadhwa2015 @theonion wrote an article about @wadhwa. http://t.co/DlN25sa74H (via @bartitos)',not
 b'@Transition LLAP. :)',not
@@ -3242,7 +3242,7 @@ b'Feminazi.....xD',not
 "b'RT @FeministFailure: \xe2\x80\x9cThis is what a feminist looks like?\xe2\x80\x9d\n\nWell, this is what an anti-feminist looks like.\n\nRT @TerminalW00k\xf0\x9f\x92\xaa http://t.co/\xe2\x80\xa6'",not
 "b""RT @ChrisWarcraft: And let me be clear - OAPI may have been catalyzed into existence by #Gamergate, but it's addressing a problem affecting\xe2\x80\xa6""",not
 b'RT @vivian_games: wait esports are excluding trans and lesbian players? jesus christ can we go ONE FUCKING DAY without the industry being r\xe2\x80\xa6',not
-"b'@xmjEE also, mentioning both of us in the same tweet is pretty much a sure-fire way to make sure that they do notice &amp; jump on me.'",racism
+"b'@xmjEE also, mentioning both of us in the same tweet is pretty much a sure-fire way to make sure that they do notice &amp; jump on me.'",not
 "b'RT @AlejandroDaGr8: Because the suspect is Black Widow of the Avengers, right? \n\nWhich explains how she fired a ""hidden"" weapon WHILE handc\xe2\x80\xa6'",not
 b'@MyersNFL skill',not
 b'So bummed the dull chicks on #MKR are using such a great name for their restaurant. #Sassy #Iamlatetothepartytonight #IQ',not
@@ -3313,7 +3313,7 @@ b'@a_man_in_black facebook.',not
 b'@jacksfilms Anti-Feminazi also uploaded the same video... just saying.',not
 b'RT @film498a: There goes the man-woman wage-gap sham in shambles!..... like all other Feminazi falsities! http://t.co/Kma245cyY3',not
 "b""@0xjared @m_m_myers @Zython86 @ChrisWarcraft :P fwiw, i'm usually pretty careful about calling for the head of anyone.""",not
-"b""RT @baum_erik: Lol I'm not surprised these 2 accounts blocked me @femfreq #FemiNazi #Gamergate &amp; @MomsAgainstWWE #ParanoidParent http://t.c\xe2\x80\xa6""",racism
+"b""RT @baum_erik: Lol I'm not surprised these 2 accounts blocked me @femfreq #FemiNazi #Gamergate &amp; @MomsAgainstWWE #ParanoidParent http://t.c\xe2\x80\xa6""",not
 "b'today: meetings, meetings, phone calls, so much prep for announcement tomorrow!'",not
 "b""@GemmaNoon rather amused that despite their protests, GG is the only group i've looked at where abuse is easily predicted based on followers""",not
 b'@SadSuspenders \xf0\x9f\x98\xb3',not
@@ -3323,7 +3323,7 @@ b'@iammanbeard pics in a week.',not
 "b'So now he targets women, because you know, they can fight back a lot less. lolllll.'",not
 "b'@Animecommentary aw, thanks. ;)'",not
 "b'@pinefoxi well, i bought a case of it, sooo.... :P'",not
-b'@ejrtairne @Phoenix_Blue blocked you? i thought she blocked someone else.',racism
+b'@ejrtairne @Phoenix_Blue blocked you? i thought she blocked someone else.',not
 b'Cannot get over the fact that I got a sunburn in the middle of February. California is evil.',not
 "b'#stopwadhwa2015 because he is developing ties to gamergate. Relies on their support, talks to Milo.'",not
 "b""@herbiemarcuse @PailOfAwesome @ProfessorF @chrisvcsefalvay I guess you're bad at linkedin. Sad for you!""",not
@@ -3346,7 +3346,7 @@ b'@chaeronaea @edzitron i would pick sephora.',not
 "b'Why are we letting them just take advantage of this little old lady, whom by many accounts is senile?'",not
 b'@leel8on indeed. although the police were fairly nice. :)',not
 b'@Keltounet http://t.co/g7w5b4uSbW',not
-b'That Moment When A Female Call You A #Coon .. With A Head Full Of F\xce\xbc\xc2\xa9k\xc2\xa1N #Weave \xf3\xbe\x8c\xad\xf3\xbe\x8c\xad\xf3\xbe\x8c\xad',not
+b'That Moment When A Female Call You A #Coon .. With A Head Full Of F\xce\xbc\xc2\xa9k\xc2\xa1N #Weave \xf3\xbe\x8c\xad\xf3\xbe\x8c\xad\xf3\xbe\x8c\xad',racism
 "b'@holinka if you are, i may try to locate you for another hug.'",not
 "b""I was blown away. I couldn't even think of a more impactful way of getting across the point that this is a problem we need to talk about.""",not
 "b""@InfiniteClock while i'm not against torrents in the slightest, i have to admit that 1 person pirating now enables MANY others.""",not
@@ -3376,7 +3376,7 @@ b'@edzitron do my pr',not
 "b'RT @randi_ebooks: Yes, I probably would have said milady unironically.'",not
 "b'RT @hypatiadotca: @tarah well, let me tell you how this looks: throwing another woman under the bus to suck up to a shitty dude while also \xe2\x80\xa6'",not
 "b'@Leonard_Delaney yo, the tweet I made about the tetris book just got retweeted by boing boing. :P'",not
-"b""I'm seeing a lot more stories regarding gamers acting horribly when a dev does something they don't like.""",racism
+"b""I'm seeing a lot more stories regarding gamers acting horribly when a dev does something they don't like.""",not
 "b""If you're in trouble, I recommend using @CrashOverrideNW. I can also help provide assistance.""",not
 "b""@tarah @girlziplocked @hypatiadotca @justkelly_ok @ameliagreenhall he's a weasel. You fell for it. You're throwing *me* under the bus.""",not
 b'Drive my heart into the night - you can drop the keys off in the morning \xf0\x9f\x8e\xb6\xf0\x9f\x8e\xb5\xf0\x9f\x8e\xbc #kylagray #teamkyla #asian #lace http://t.co/xYmshvZBko',not
@@ -3466,7 +3466,7 @@ b'@haley @JordanL @TheQuinnspiracy @voiceofrae @Spacekatgal only if you come wit
 "b""@ncweaver I'm guessing they are just used to tuning out complaints.""",not
 b'@iglvzx he expects unix logins to map to github usernames - which they rarely will.',not
 "b""@j4cob it's on my list. Haven't had time yet.""",not
-"b""#BlameOneNotAll please because I don't want to be associated or generalized with stupid men and I want woman to be equal  faster.""",racism
+"b""#BlameOneNotAll please because I don't want to be associated or generalized with stupid men and I want woman to be equal  faster.""",not
 "b'@AnaMardoll she stated how she even changed the color because it implied white feminism, and changed a lot of the language'",not
 b'Off Twitter for a few\xc2\xa0days http://t.co/zsIHZMZqeW',not
 b'I could totally write an alternate future for CA more than 140 characters at a time. That would be a blast.',not
@@ -3488,7 +3488,7 @@ b'Ignore those tweets. Site maintenance stuff. It was autonotifying. Turned that
 b'STUPID IS WHAT STUPID DOES... ALL ABOARD THE #COON TRAIN... https://t.co/Nm5V9x27Ja',not
 "b""If us women in tech are strong enough to get this far, why aren't we strong enough to mentor, to push for change? No more FYGM.""",not
 b'@Nayadrikj @sarcarsten I LOVE YOU NAYADRI &lt;3 &lt;3 &lt;3',not
-"b'shit, misattributed'",racism
+"b'shit, misattributed'",not
 "b""@Badassperger @Quinnae_Moon i hate u both. lok'tar ogar.""",not
 "b""It's kind of hilarious that I'm so self-confident that the very second impostor syndrome starts kicking it, I realize something is wrong.""",not
 b'RT @ahtweet: @freebsdgirl How dare you have feelings is a fantastic way to dehumanize someone.',not
@@ -3573,7 +3573,7 @@ b'@PeerWorker @EvvyKube uh. You came to me with financial threats.',not
 "b'@kunikos catching up on WoW, then gonna go poke at my xbox. :)'",not
 b'Twitter HQ has a tasty breakfast menu. Joked about wanting to intern there for a week just for the food.',not
 b'@TURBOCUNT huh. I run a 9 and find JC to be too big usually',not
-"b'RT @GodBlessIsrael: #ISRAEL FOREVER BLOG/ Terror attack in #Jerusalem injures seven, #terrorist shot - http://t.co/sWeYLcUJSi - #ARAB'",not
+"b'RT @GodBlessIsrael: #ISRAEL FOREVER BLOG/ Terror attack in #Jerusalem injures seven, #terrorist shot - http://t.co/sWeYLcUJSi - #ARAB'",racism
 "b""@momsydaisy i've never tried timehop. nope nope nope""",not
 "b""I'm not really sure yet if I feel comfortable with this idea, but watching these assholes band together is reminiscent of MRA behavior.""",not
 "b""@HisFeministMama @TicklishQuill @terrycrews #REALMEN knew how to #RESPECTWomen Coz their mother taught 'em ..not like u Modern #FemiNAZI..""",not
@@ -3581,7 +3581,7 @@ b'RT @athenahollow: @freebsdgirl http://t.co/ww13aIeTw2',not
 b'countdown to more companies following suit after seeing the way that was handled.',not
 "b""She's trying to summon a mob, making false allegations about OAPI, and in general, acting... worrisome. Pondering if I need to lawyer up.""",not
 "b""I can't even find the words to describe how much I value the work of all the people I've met during this time. How much I love all of them.""",not
-b'I love Ashran. http://t.co/HahQQqAe3O',racism
+b'I love Ashran. http://t.co/HahQQqAe3O',not
 b'@stimpyrules i will def be there weds',not
 b'#BlameOneNotAll because we will not rest until all the straw feminists are knocked down.',not
 "b""Sickened but not surprised by what happened at PAX earlier today. PAX has a history of making poor decisions at the cost of women's safety.""",not
@@ -3603,12 +3603,12 @@ b'@ClarkHat @Spivonomist i just assume this is going to lead to fighting someone
 "b""@JackMutant And kick the feminazi fashion police/bloggers out of the only job they'll ever have?""",not
 "b""@terryocarroll but i've seen tank girl. :P""",not
 "b""she must not realize that blocking people is sorrrrrta what i'm famous for.""",not
-"b""@korvys i didn't. my audience got too big - the real value was in pointing out figureheads, who they were targeting, but realized mobs would""",racism
-"b'#ISRAEL FOREVER BLOG/ Terror attack in #Jerusalem injures seven, #terrorist shot - http://t.co/sWeYLcUJSi - #ARAB'",not
+"b""@korvys i didn't. my audience got too big - the real value was in pointing out figureheads, who they were targeting, but realized mobs would""",not
+"b'#ISRAEL FOREVER BLOG/ Terror attack in #Jerusalem injures seven, #terrorist shot - http://t.co/sWeYLcUJSi - #ARAB'",racism
 b'This is the best account. http://t.co/FIO7cnlVnj',not
 b'@Shervyn A big project we have going forward is a user facing solution that involves the cooperation of large tech companies.',not
 "b'RT @guiltyx: ""@JillPantozzi: Please report this: https://t.co/IZmfm1cqQc"" Abuse of @Twitter API and privacy hack, @support @freebsdgirl @Th\xe2\x80\xa6'",not
-b'@Melhyphen generally feminist that ignores the unique and difficult issues of PoC. white feminists tend to get more of a platform.',racism
+b'@Melhyphen generally feminist that ignores the unique and difficult issues of PoC. white feminists tend to get more of a platform.',not
 "b""Gaters get so excited when I talk to them on reddit. It's pretty funny. I'm sure he's going to go tell his friends how I was totally #rekt.""",not
 "b""I'm not at GDC today, but I'll be there tomorrow. ;D""",not
 b'Please report @jos5whedon for impersonation.',not
@@ -3629,7 +3629,7 @@ b'@korvys target them... not ideal.',not
 b'@SFtheWolf the killing joke was a fucked up story arc in general &amp; could have been written better.',not
 b'@cptmashek uh. every dev makes mistakes.',not
 "b""@LazerCrazy there's a lot i don't know, and i'm not comfortable with the idea of talking out of my butt. i have to research everything.""",not
-"b'Company profile NKC COON HUNTING, INCORPORATED - http://t.co/YK1TMdLgTj  #NKC #COON #HUNTING, #INCORPORATED'",not
+"b'Company profile NKC COON HUNTING, INCORPORATED - http://t.co/YK1TMdLgTj  #NKC #COON #HUNTING, #INCORPORATED'",racism
 b'Hanging out in the Dice lounge at #developerweek if anyone wants to stop by and say hi. ;)',not
 "b'@Vodage @GameNinja08 @KaitlynBurnell ah, okay.'",not
 "b""RT @randi_ebooks: I checked the piano but I don't even fucking put men in here?""",not
@@ -3669,7 +3669,7 @@ b'@bpub i just resold some of my books in return for amazon gift cards.',not
 b'@hypatiadotca wat where is sarah',not
 b'@GlennF I now know people that know you. Boom.',not
 "b'@BasicMountain er, too.'",not
-b'@ksorbs \xf0\x9f\x98\x82\xf0\x9f\x98\x86\xf0\x9f\x98\x82 #classic #coon... As pawpaw would DO \xf0\x9f\x99\x8a YEP I went there. #momentsimissthatoldmanofhonor #hilariousfamilymemories',not
+b'@ksorbs \xf0\x9f\x98\x82\xf0\x9f\x98\x86\xf0\x9f\x98\x82 #classic #coon... As pawpaw would DO \xf0\x9f\x99\x8a YEP I went there. #momentsimissthatoldmanofhonor #hilariousfamilymemories',racism
 "b'the puppy is trying to hump leo and leo is just like ""EXCUSE ME"" and now i have a 60 lb lapdog.'",not
 "b""@KirinDave uh. hi. i'm going to call you on that line right there. what rating do you play at in WoW?""",not
 "b'maybe I would write this essay faster if I didn\'t have to go searching for ""feminazi"" slurs'",not
@@ -3677,7 +3677,7 @@ b'STOP WITH THE SASS OGBAISTEID #MKR',not
 "b""@glaserface I'll take that as a compliment coming from a feminazi.""",not
 "b""Locking down my personal account some more. If you were following me before but you're not anymore, sorry. :\\""",not
 "b""@thaumatropia too late, i'm literally blue. no taksies backsies.""",not
-b'But nobody likes you #prayforlynn&amp;tony #MKR \xf0\x9f\x99\x8f',racism
+b'But nobody likes you #prayforlynn&amp;tony #MKR \xf0\x9f\x99\x8f',not
 "b""@sarcarsten they don't have my size. too big.""",not
 b'http://t.co/bN7be6njVT',not
 "b""@ELLIOTTCABLE the only info i've got is the kotaku article I just RTed. :)""",not
@@ -3696,7 +3696,7 @@ b'Vivek is very disappointed in NPR. #stopwadhwa2015 http://t.co/aaEwseh0CV',not
 "b""@caulkthewagon the only thing i heard from twitter was that it was snowing. i generally don't watch TV. but continue calling me out, please.""",not
 b'LRT: everything ever.',not
 b'@spacequeentbh so faded. :P need a hair cut + dye desperately.',not
-b'\xe2\x80\x9c@Johnny_Blaz3: #coon http://t.co/zI77Bki3nO\xe2\x80\x9d dying',not
+b'\xe2\x80\x9c@Johnny_Blaz3: #coon http://t.co/zI77Bki3nO\xe2\x80\x9d dying',racism
 "b""@chilblane yay. i went last year and had to make new friends. i hate making new friends. i didn't know anyone else going.""",not
 "b'@smasuch oh great, more feminazi trolls, i have been bored of this arguement for a while now'",not
 "b""@brikeilarcnn this really burns you as a feminazi doesn't it?""",not
@@ -3758,7 +3758,7 @@ b'@hypatiadotca you should see the shoes that @sarahjeong totally twisted my arm
 "b'@dylanw I did that after he dismissed me &amp; my concerns as ""argumentative"". Might wanna check the time stamps.'",not
 "b""@softsurv it's not like I was typing ;)""",not
 "b""@BrownBagPantry mean words aren't harassment. They aren't direct and specific threats.""",not
-b'@RaikonL @finaleve @mja333 DISCRIMINATION',racism
+b'@RaikonL @finaleve @mja333 DISCRIMINATION',not
 b'Let me make this perfectly fucking clear. Every female major target of GamerGate is seeing a fuckton more mentions tonight. #LawAndOrderSVU',not
 "b'RT @jhoffstein: When Bill Nye asks you for money to go to space, the answer is always yes. https://t.co/AwTklQJaPO'",not
 "b'@LOLGOP all those damn uppity women, demanding a better quality of life, always causing problems.'",not
@@ -3816,7 +3816,7 @@ b'@yennijb i guess he was trying to say that - who knows? :P',not
 "b""We're already privately working with a number of tech companies. Relationships are being built. We're making HUGE amounts of progress.""",not
 "b""He won't stop staring at me. http://t.co/4sKaCpLNhN""",not
 b'@JWYoder i got spells for that.',not
-b'RT @thetrudz: And White people who bring up queerness or being a survivor as a way to SILENCE WoC? Because no WoC are queer? None survivors\xe2\x80\xa6',racism
+b'RT @thetrudz: And White people who bring up queerness or being a survivor as a way to SILENCE WoC? Because no WoC are queer? None survivors\xe2\x80\xa6',not
 "b""@Blackamazon @TheQuinnspiracy it's good motivation to try to make things better.""",not
 "b'If you\'re one of the people saying ""GG got a bomb threat for a meetup, oh well,"" take a long look in the mirror and consider your words.'",not
 "b""@g56yu @JillFilipovic @rsmccain @ShunCampusWomen There's a difference between a feminist and a feminazi. Fools call the latter the former.""",not
@@ -3881,17 +3881,17 @@ b'@Taurmaurils I WFH :) is there public transit to/from Vancouver?',not
 "b""That was annoying \xe2\x80\x9c@raachel_19: If she calls her own self pretty one more time.. I'm gonna vom. #MKR\xe2\x80\x9d""",not
 b'@almafeta I think women in general have issues talking about money for activism. Lots of articles on this.',not
 "b'Those 2 making it through to the next round, Colin has just lost all credibility in my eyes.#MKR @mykitchenrules'",not
-b'@krainboltgreene http://t.co/8l8NhWye3E http://t.co/nRrwnzL6sd',racism
+b'@krainboltgreene http://t.co/8l8NhWye3E http://t.co/nRrwnzL6sd',not
 "b'@robbkidd yes, tonight is a coffee night. :)'",not
 "b""@ChrisWarcraft on a side note - holy shit, i didn't know you had that many followers.""",not
 b'@Taurmaurils i dunno. it makes me happy. they look happy. ^.^',not
 "b'@mcmahoniel unfortunately, no. text filters are too high-risk.'",not
-"b'&lt;tsui-ji&gt; gyl: go into #asian and tell em you are white, have muscles and drive a nice car and mad chicks will msg you'",not
+"b'&lt;tsui-ji&gt; gyl: go into #asian and tell em you are white, have muscles and drive a nice car and mad chicks will msg you'",racism
 "b""Chivalry is now sexist...I've heard it all now!\n#Feminazi's gone wild! Smh!\xf0\x9f\x98\x92\n#KellyFile #Hannity #TCOT""",not
 b'The girls can cook for me anytime. Just not hot pot... or spatchcock. #MKR',not
 b'@tommckearney even though I tweet a lot? :P  hehe',not
 b'Read this. I like this. A Note on Call-Out Culture http://t.co/Yl4qkIkpfq (via @nexxylove)',not
-"b""so this blood elf rogue chick starts hitting on me and now some troll mage dude is threatening me because it's his girlfriend.""",racism
+"b""so this blood elf rogue chick starts hitting on me and now some troll mage dude is threatening me because it's his girlfriend.""",not
 b'@LivAllyne @CeeJayCraig Far from ignorant. Can you be less of a man hating feminazi?',not
 "b""@peat i'm using multiple streams with multiple credentials. ;)""",not
 "b""@athenahollow i'm a monogamous girl in a polygamous world.""",not
@@ -3922,11 +3922,11 @@ b'@raininblack personally I am just glad when they use the actual word and not f
 b'RT @girlziplocked: FYI @wadhwa says @tldr committed libel asking women to talk about their feelings re: @wadhwa. \n\n#stopwadhwa2015 http://t\xe2\x80\xa6',not
 b'http://t.co/ltoXYPKWww',not
 b'Soon soon soon',not
-"b""RT @KWRose: .@RE_invent_ED and I are safe. We are outside hiding behind the concrete. Officer is bleeding badly. But I'm not posting unedit\xe2\x80\xa6""",racism
+"b""RT @KWRose: .@RE_invent_ED and I are safe. We are outside hiding behind the concrete. Officer is bleeding badly. But I'm not posting unedit\xe2\x80\xa6""",not
 b'I liked a @YouTube video http://t.co/cNFmPhcUhh Male rights activist owns feminazi',not
 "b""@Angry_Feminazi @Jezebel @ursus_arctos59 That's what I thought, but there's some evidence it might deter survivors from seeking help at all.""",not
 "b""@MrTheGeoff i haven't even looked at laws in other countries yet. hoping as we pick up steam, we'll have more volunteers, esp in legal.""",not
-"b'gamergate just called @j4cob a ""copy boy or personal assistant"" on 8chan.'",racism
+"b'gamergate just called @j4cob a ""copy boy or personal assistant"" on 8chan.'",not
 "b""patreon = bills.\nconsulting = blackmilk. food that isn't ramen. 401k. at least i don't have to put that many hrs/month towards this.""",not
 "b'Usually I hate the BS software that comes with gaming keyboards, but this one has an option to disable the lighting when monitor turns off.'",not
 b'#Feminazi aufgepasst ^^ Gender wage gap disproven in one post http://t.co/5R7eL9PAAh #feminism #equality',not
@@ -3949,7 +3949,7 @@ b'JODER xDDD @InkingMyPast @feminazi',not
 "b""@UberFacts Feminazi's in Sweden are going to go apeshit on the middleaged white male for this.""",not
 "b""@dylanw that's why I explained. I still think you're an asshole.""",not
 "b'@ijosborne oof, no. I usually wear bright colors and am full of energy and joy.'",not
-"b""@spacekatgal we could do something fun with this. i could see how many tweets you get from users you've blocked.""",racism
+"b""@spacekatgal we could do something fun with this. i could see how many tweets you get from users you've blocked.""",not
 b'@ex1lepr0 hashtag notalljournalists',not
 b'RT @BeninCitizen: Oh dear god\n\nLook at this beautiful Gamergate takedown http://t.co/JL7kO2FNeR',not
 "b""@Popehat good call. i might cockpunch them over the internet, as i'm known to do.""",not
@@ -4013,12 +4013,12 @@ b'@krainboltgreene what goal precisely would angry tweets to whedon contribute t
 "b""also for the record i'm not some feminazi just tired of the lack of equality in every aspect of the world right now""",not
 b'Current highest score ever on #mkr is Helena and Vicki in last year and Nick and Rocco in 2012. They both scored 95.',not
 "b'Frankly, I have more legal and tech resources than a hashtag. Plese go spew your hate group propaganda elsewhere. @PendragonTarot'",not
-b'RT @heritageimpex: Another #Arab car #terror attack in #Jerusalem #Israel. Will #Obama call it random traffic infringement? http://t.co/Xrx\xe2\x80\xa6',not
+b'RT @heritageimpex: Another #Arab car #terror attack in #Jerusalem #Israel. Will #Obama call it random traffic infringement? http://t.co/Xrx\xe2\x80\xa6',racism
 b'@DrReneeObey @GravityDynamic @rushlimbaugh He invented the  word feminazi I believe.',not
 "b""@dylanw fwiw, wasn't meant as a dig. i didn't know this until a few months ago when it was pointed out to me.""",not
 b'@davidsgallant thursday would be even better. ^.^',not
 "b'DYING AT THE ANSWERS. ""How do I become less intimidating to men?"" http://t.co/LSX1G7GErN'",not
-"b""@Xander756 To sum it up. I hate twitter. But only reason to come on is to try and get SJW's/feminazi's to think about the things they say.""",not
+"b""@Xander756 To sum it up. I hate twitter. But only reason to come on is to try and get SJW's/feminazi's to think about the things they say.""",racism
 b'@khaxan yes. Depends more on how a group operates. More stuff coming out next week.',not
 "b""Someone give me a primer on what's up with Irish data protection/privacy laws.""",not
 b'@TURBOCUNT huh. i might have to try this at some point.',not
@@ -4107,10 +4107,10 @@ b'@darxtorm sigh',not
 b'@AntonSirius @erinspice @prpltnkr @ChiefElk oh dear lord.',not
 "b'@Senboz ... literally no idea what you are talking about. i block eggs, though. &lt;3'",not
 "b""@iammanbeard oh gosh. i think i have about 6 pairs i actively switch between. but i'm not really a tshirt &amp; jeans kind of girl, so...""",not
-b'#Events #Event - Suspected terror attack in Jerusalem after\xe2\x80\xa6 http://t.co/zUXRgvEhMe #arab #arabs #islam http://t.co/WnJytMAlma',not
+b'#Events #Event - Suspected terror attack in Jerusalem after\xe2\x80\xa6 http://t.co/zUXRgvEhMe #arab #arabs #islam http://t.co/WnJytMAlma',racism
 "b""@Charmieos @PendragonTarot *We* can't take any action other than offering advice and assistance. Person targeted has to report it to police.""",not
 b'@InfiniteClock the real work is just getting started. ^.^',not
-"b""@MoerasGrizzly the sourcelist is now dynamically generated. it's not that different from the github list, though. :)""",not
+"b""@MoerasGrizzly the sourcelist is now dynamically generated. it's not that different from the github list, though. :)""",racism
 "b""@pr1ntf i've been here years, only ever felt 2 earthquakes.""",not
 "b""Maybe @kjalliancegoa thinks there were 40 people because i'm like 3 shadow turkeys. grandma 4ever.""",not
 b'@AndreaFaulds yes and yes',not
@@ -4122,7 +4122,7 @@ b'@srhbutts wait. When did I become a pedozoophile and what is that?',not
 b'DC is terrible. Marvel forever. http://t.co/vZgCxwv9Jz',not
 b'It is fitting that we are now seeing these strong women speaking out and trying to fix problems that others are uncertain of how to tackle.',not
 b'@_ssailormoon @_bad_dream sailor feminazi',not
-"b'@BrownBagPantry I get your frustrations. Really, I do. I deal with the same stuff every day on my own account.'",not
+"b'@BrownBagPantry I get your frustrations. Really, I do. I deal with the same stuff every day on my own account.'",racism
 b'@Cactus_Soup90 difficult to write those with current limitations of developer policy.',not
 "b""@filmpunk86 i'm aware. i've read that story arc.""",not
 "b'@devesine @CrashOverrideNW eh, this is turning into more of a legal concern.'",not
@@ -4151,7 +4151,7 @@ b'@campyspornshack I expect that in any other part of the site - but not the saf
 b'Dealing with harassment | http://t.co/t8hK7OsZLi http://t.co/yGokd1PaIf',not
 b'I have eaten army food from tins that looked better than that. And less like a dick. #mkr',not
 b'RT @dearsarah: @MadcapOcelot @freebsdgirl also (the awesome) @ellenchisa counted the # of women he follows &amp; wrote about it here http://t.c\xe2\x80\xa6',not
-"b'@gamerfortruth @athenahollow he had a huge ego, never produced anything, and everyone hated him. kind of like twitter.'",racism
+"b'@gamerfortruth @athenahollow he had a huge ego, never produced anything, and everyone hated him. kind of like twitter.'",not
 "b""Ughhh. Someone offered me a discounted all access GDC pass, but it's still more than I can afford.""",not
 "b'I try to make a habit out of not responding to their conspiracy theories, but that one was too funny not to share. :)'",not
 b'Pocky 4ever. http://t.co/Sah8xed05T',not
@@ -4248,7 +4248,7 @@ b'RT @Teelin: @TrollerBeaar \nBasically if you are a dude\nand want to identify 
 "b""The worst part of buying furniture from IKEA is having to bring it from the parking garage into my apartment. Don't wanna.""",not
 "b""We know what online abuse looks like. We've been studying it, and we will create reports and publish our findings.""",not
 b'#BlameOneNotAll campaign draws both criticism &amp; praise. http://t.co/ka2qC2L85D http://t.co/hHtBIhkrjc',not
-b'@ThisGuy_Trey I am begging them to never give him a mic again. #Coon',not
+b'@ThisGuy_Trey I am begging them to never give him a mic again. #Coon',racism
 "b""@Transition it was near the ramen! but i just found it on amazon, though it's a bit more expensive there: http://t.co/JxJB8mHwtR""",not
 "b'Sleepytime peach tea with lavender infused honey, you complete me.'",not
 "b""Fuck it, I'll just play The Sims 4. Because Origin never breaks, right?""",not
@@ -4302,7 +4302,7 @@ b'@cxarli i care that she wrote a medium piece throwing all of us under the bus.
 "b""Stuck in an deeply uncomfortable convo. with a guy telling me about how he got failed by a 'feminazi' and a 'reverse racist'. Help me.""",not
 "b'RT @Leonard_Delaney: @freebsdgirl I know! Holy crud, I\xe2\x80\x99m not worthy! Thank you. I hope you enjoy. Taken by Tetris Blocks addresses deep gam\xe2\x80\xa6'",not
 "b""@Spacekatgal twitter allows 13 yr olds. 13 yr olds don't generally have bank accts. *lots* of people don't have bank accts/work in cash.""",not
-b'@sschinke only leo. ;)',racism
+b'@sschinke only leo. ;)',not
 b'@qmarq @ChrisWarcraft HIS NAME IS LOATE',not
 "b""@dylanw i get that you're probably going to defend your friend regardless, but what he did was shitty, and then you followed it w/more shit.""",not
 b'@mastersparkle @genehack no one pees on my doorway. :P',not
@@ -4324,12 +4324,12 @@ b'Finally a meal without dracko piping up \xf0\x9f\x99\x89 #MKR',not
 b'@thebackpack08 @BenKuchera 1k :/',not
 "b'Why is evernote selling socks\n\nAlso, these socks are not that interesting and are still $85/5 pack? NOPE.\n\nhttps://t.co/SxlH2gwGPk'",not
 "b'@ChrisWarcraft hah, and i get worried when *i* do it. perspective.'",not
-b'Managed to hit a bird and a small rodent on my drive to Huxley this evening #Oops #Asian #Female #Teen #TripleThreat',not
+b'Managed to hit a bird and a small rodent on my drive to Huxley this evening #Oops #Asian #Female #Teen #TripleThreat',racism
 b'@BajaLime @BeerGynt @bidetofevil will def be getting back to this though. i think salesforce will be a good idea for us.',not
 "b""@Popehat I see a lot of ways it could be abused. Defamation vs free speech is still something I don't really understand.""",not
 "b""GDC was great today. Thank you for letting me be a small part of your world. But it's time to (literally) take off my cape and go to bed. :)""",not
 "b'@Jason_Gio this is the same dude that thinks that not being allowed to publish an article to a site he doesn\'t own is ""silencing""'",not
-b'#MKR omg my dad and I are screaming at the TV.',racism
+b'#MKR omg my dad and I are screaming at the TV.',not
 "b""If you don't like the constitution and you vote for a person like #Hillary then you're a #feminazi""",not
 b'RT @femfreq: Just colluding and conspiring with @TheQuinnspiracy http://t.co/25VNDSm7RJ',not
 b'@Kethounet jesus that looks ugly',not
@@ -4353,7 +4353,7 @@ b'getting a puppy today getting a puppy today getting a puppy today getting a pu
 b'@GUIpsp last retweet',not
 b'@LaserVueEye steak.',not
 b'RT @pydanny: @freebsdgirl According to http://t.co/I3MCbLDclM SU is a for-profit firm (Benefit Corporation). On federal land (NASA research\xe2\x80\xa6',not
-"b""At least it's not perl threading though, amirite?""",racism
+"b""At least it's not perl threading though, amirite?""",not
 "b""@seanbonner just because i disagree with you doesn't mean i have strong feelings about you. i just dislike your solution.""",not
 "b""userspace vs 'netspace' - wat. what the hell is netspace, is this a new video game?""",not
 b'@__VictorLopez__ 200 lines of tequila driven perl. Good times.',not
@@ -4392,7 +4392,7 @@ b'@BrownBagPantry @LaurieJWillberg Please stop encouraging an abuse of the repor
 "b""@ArtifexH I thought about putting one of the monitors on top, but then it's too high for me to easily see.""",not
 b'@Metroidthief are you getting into fights with my bot',not
 b'@TheQuinnspiracy i just got the jot script to use with penultimate + ipad.',not
-"b""Hey @rosemcgowan why not fight a real enemy like islams treatment of women? Oh that's right ,would require a spine. Talentless twat feminazi""",not
+"b""Hey @rosemcgowan why not fight a real enemy like islams treatment of women? Oh that's right ,would require a spine. Talentless twat feminazi""",racism
 b'@chilblane @devslashzero IS TOO',not
 "b'@saltnburnem most of my oreilly books are ebooks. :P  those are all so old. but yes, i usually quite like them.'",not
 b'@ArreoTheCynic A GAMER AND A WOMAN. OH LORDY.',not
@@ -4404,7 +4404,7 @@ b'@WackoMedia http://t.co/2AXPNlSIkg',not
 b'omg. silicon valley tonight.',not
 b'@Popehat the text shown in the image was not satricial. that dude is dead serious (and not a scientist)',not
 "b'I think the real question is: why do you sign your tweets with KT? You realize that your name is right there, yeah? @kelseytheodore2'",not
-"b""I recall an article where #mkr prides itself on doing just 1 season/yr, unlike m-chef's 2 seasons. obv'sly they're playing it out like 4!""",racism
+"b""I recall an article where #mkr prides itself on doing just 1 season/yr, unlike m-chef's 2 seasons. obv'sly they're playing it out like 4!""",not
 b'@cooperq and he is defending it right now. ugh.',not
 "b""@dylanw you may claim otherwise, but I really don't think he and I are on the same side at *all*.""",not
 "b""If I don't like who you're following, I block you. If GG doesn't like who you're following, they go after your job. http://t.co/4tfGUP0xRa""",not
@@ -4441,7 +4441,7 @@ b'RT @420PartyNow: Feminazi 0 - Society 1 http://t.co/QSevAoCaNd',not
 "b""@ShriekAPotomos @CrashOverrideNW I help everyone that asks. I'm not here to pass judgment on anyone that comes looking for help.""",not
 b'@Professor_D i did LE at prime. I only ever did prime. :P',not
 b'@VexingVision i honestly have no idea how i am managing this. it is surprising.',not
-"b""I'm not worried about a bitch that live with her mother you can't even get a place in your name you got rules stay in a child's place #COON""",not
+"b""I'm not worried about a bitch that live with her mother you can't even get a place in your name you got rules stay in a child's place #COON""",racism
 "b""Oh, sweetie. I don't do passive aggressive. I'm aggressive aggressive. http://t.co/lge7WMbCdW""",not
 "b""@Taurmaurils I'd rather live in PDX, but the budget squeeze is real.""",not
 b'.@jaredchase spoonfuls of chemicals is my Doors cover band. // @paulandstorm',not
@@ -4480,17 +4480,17 @@ b'RT @Oneiorosgrip: Seeing #feminists in #BlameOneNotAll playing victim olympics
 b'@joncruz no',not
 "b""ethics in journalism. ETHICS. IN. JOURRRRRRRNALISM. No wonder he's friends with that walking burrito fart, milo.""",not
 b'The rule of the Apple mini-displayport to DVI adapter is that you will never be able to find it when you finally need it.',not
-"b'Time to learn the art of writing to apply for grants. Seems like different orgs prefer drastically different styles, high level vs detailed.'",racism
+"b'Time to learn the art of writing to apply for grants. Seems like different orgs prefer drastically different styles, high level vs detailed.'",not
 "b""RT @join_oapi: We're looking for volunteers! http://t.co/uWFHoYhK4x""",not
 b'In love with these leggings forever. http://t.co/reGdZZTmwq',not
 b'Taking a nap on mums pillow. #animals #animallovers #catlover #lovecats #animalsco #cutekitten #kitten #coon #coon\xe2\x80\xa6 http://t.co/cB1KC9yaz8',not
 "b""@KathleenSawisky as a white woman, it's none of my business to comment on if i like that term or not.""",not
 "b""@jbradfield that's, ah, all of my kitchen, really. i have a thing for english tea roses patterns, too.""",not
 "b""The contact form on the site was bugged. Turns out that if you use a ']' in the email subject prefix, it breaks everything. silly wordpress.""",not
-b'@AshleyKrista cuuuuuuutest hair cut omg',racism
+b'@AshleyKrista cuuuuuuutest hair cut omg',not
 "b""I'm really late to the #BlameOneNotAll party but I didn't look at the photos and now that I have I feel both horrified + gleeful #blameall""",not
 "b""I would really love to play Witcher 3. I still might, I'm not sure. But it's less appealing because oh yay, grizzled old white dude.""",not
-b'I truly wish that ALL of these #coon ass fake reality AND TV shows depicting blacks as ignorant\xe2\x80\xa6 https://t.co/ccHX1Tp6am',not
+b'I truly wish that ALL of these #coon ass fake reality AND TV shows depicting blacks as ignorant\xe2\x80\xa6 https://t.co/ccHX1Tp6am',racism
 b'@MetaCookbook @Jenny_Trout it is very appreciated. thank you. :)',not
 b'@Symbo1ics apple mostly uses bsd licensed code.',not
 "b""I'm moving to Portland, because I can't afford to live in the bay area and continue with the work I'm doing. Help. http://t.co/es45e5CfgO""",not
@@ -4523,7 +4523,7 @@ b'@bryneaux yup!',not
 "b""@khaxan which style? i can't find them on solestruck. i thought they used to use litas, but those aren't litas.""",not
 "b""@KirinDave i don't pve.""",not
 "b'Those kids will never learn that every time they do something to harass me like this, more people learn about my work to stop harassment.'",not
-"b'#GermanProfessor gives meaning to term FemiNazi.Doesn\'t hire ""Indian Men"" bcz of ""Indias\'s Rape Problem""\nhttp://t.co/zyvMzmeEA6\n@TarekFatah'",not
+"b'#GermanProfessor gives meaning to term FemiNazi.Doesn\'t hire ""Indian Men"" bcz of ""Indias\'s Rape Problem""\nhttp://t.co/zyvMzmeEA6\n@TarekFatah'",racism
 b'@HPluckrose @Feminazi_Front Nature provided man &amp; women with exactly (average) the degree of strength etc that each requires',not
 "b""@TheDoubleclicks @KivaBay @twoscooters i'm speaking at a conference one day that week, but are any of your shows in town? would love to go!""",not
 b'@tpstigers depends on the artist ;) my outfit has a cape.',not
@@ -4561,7 +4561,7 @@ b'@andykhouri mad props to @comicsalliance. Well done.',not
 b'@ashleylynch @mistertodd hi i like you &lt;3',not
 b'@encthenet indeed. :)',not
 b'@sarahjeong lol more gaters threatening to sue. will you be my moon lawyer? i will pay you with artisanal cheese.',not
-"b""@TURBOCUNT i haven't found any i'm in love with yet. i used to have some amazing pairs 10 years ago.""",racism
+"b""@TURBOCUNT i haven't found any i'm in love with yet. i used to have some amazing pairs 10 years ago.""",not
 "b""@millenomi oh, i'm mostly entertained. if it gets to be excessive, i'll just code a way around it.""",not
 "b'So, this happened. http://t.co/ZPTRtsYFiV'",not
 b'@mykitchenrules The Sassy Foods feeling http://t.co/TtqS1N27OL #MKR2015 #MKR these girls are vile people #KillerBlondes #basichotdog #nobun',not
@@ -4573,7 +4573,7 @@ b'@rebeccawatson i would pay for that.',not
 "b""If one more person DMs me, I'm going to throw my phone out the window. Please don't do that.""",not
 "b""@augvision @srhbutts Feminazi isn't a NICE word, but isn't inherently misogynist.""",not
 b'@cheeseplus get a free trial. i got a 2 person mount. i will show u the world.',not
-b'I basically live inside the Matrix. http://t.co/PVQqXB5hUU',racism
+b'I basically live inside the Matrix. http://t.co/PVQqXB5hUU',not
 b'@em_zyme @nvidiadeveloper @YahooGames @TwitchSupport same. I recently bought their kingpin card. I always buy nvidia.',not
 "b'@Bard_of_peace ugh, no kidding. I miss being able to be an asshole, terrible as that is. I still let it out, but everything in moderation.'",not
 b'@Osw94k I would put cash money on them not understanding your profile pic.',not
@@ -4654,7 +4654,7 @@ b'Someone posted this on facebook in response to that woman tweeting at me earli
 b'@petfish burn that mother down',not
 "b""@jrblanc1 oh. i probably should have warned about that, sorry. &gt;.&gt;  i'm desensitized to such things.""",not
 b'RT @Justin_Hebert: @freebsdgirl Obviously a shark costume: http://t.co/yvLP15QzqX',not
-b'@Jennimason0990 YUP',racism
+b'@Jennimason0990 YUP',not
 "b""You don't fuck around with the GPL. The GPL fucks around with you.""",not
 "b""@merusworks kathy sierra. and that's not what wadhwa is complaining about.""",not
 b'@Cactus_Soup90 and that would break developer policy.',not
@@ -4741,7 +4741,7 @@ b'@Stan_Philo agreed.',not
 "b'As the announcement date draws closer, things are starting to pick up to a rather frantic pace.'",not
 b'@gewt @SFtheWolf try $35. :P',not
 "b'RT @sailorhg: the intro for my hardware hacking zine, or, why i am even writing this zine: http://t.co/ruXoAymBz9'",not
-"b""I should find someone fun to live with in Portland. Someone that likes dogs, appreciates home defense, and doesn't care if I wear pants.""",racism
+"b""I should find someone fun to live with in Portland. Someone that likes dogs, appreciates home defense, and doesn't care if I wear pants.""",not
 b'https://t.co/mQaSFPwoFp // @hridaybala',not
 "b""@jearle @InfiniteClock I'm going to pick this up""",not
 "b'Al final me pondr\xc3\xa1n el nombre de ""Sara odia-hombres feminazi"" sin raz\xc3\xb3n,ya ver\xc3\xa9is.'",not
@@ -4799,7 +4799,7 @@ b'@ShaofHappiness @Faythemage omg i need some plz',not
 b'Now doing this to all my cables. \xe2\x80\x9c@officedepot: Keeping your gear ready at a moments notice! #GearLove http://t.co/8HvNZgNFjT\xe2\x80\x9d',not
 b'a reminder - RTs are not endorsements.',not
 b'Possible kickstarter award: I carry you to glory in 2v2 arenas.',not
-b'I RUN FASTER WHEN I WEAR THESE http://t.co/YwfGj6vMtV',racism
+b'I RUN FASTER WHEN I WEAR THESE http://t.co/YwfGj6vMtV',not
 b'@RealityForger @BattleAxe2015 @CrashOverrideNW shot her an email.',not
 b'@CALMicC not necessarily.',not
 "b'I have to admit, that particular line by @lukemckinney is eerily similar to my standard way of telling idiots to fuck off.'",not
@@ -4824,7 +4824,7 @@ b'@drskyskull @jvdgoot @srhbutts ok - i have to say that i at least love how the
 b'http://t.co/ZxbZV39jru: Our fluffy cat loves bottle caps and #sticks - Nala compiliation http://t.co/bJYLInzCiz #coon #maine #nala',not
 b'RT @The_Adrift: @freebsdgirl we all think @SwiftOnSecurity writes songs about breaking up with boys but really much of her work is about pr\xe2\x80\xa6',not
 b'Overheard: i was just called a feminazi on facebook call the times news http://t.co/nZoAXCb3mS',not
-"b""I'm done - won't bother with the rest of this pathetic shit show #mkr""",racism
+"b""I'm done - won't bother with the rest of this pathetic shit show #mkr""",not
 "b'Calling me a ""feminazi"" doesn\'t offend me at all lol y\'all dumb'",not
 b'@tieyawnuhh_ #coon',not
 "b""@ThelmaSleaze you're quoting my tweet, saying it's all white women, didn't even watch 20 seconds of the video to find out that you're wrong.""",not
@@ -4841,7 +4841,7 @@ b'@DiscordianKitty personal not public :P',not
 "b'@netcrusher88 if you scroll enough, you can find the screencaps. still seeing a lot of ""kill yourself"" tweets.'",not
 "b'RT @shanley: If ANYONE is defending you at this point, the same techniques are applied to supporters to make sure that stops.'",not
 "b""Oh I knew it. Fuuuck. More restaurants. Ok I said this is how the show should run. But I've changed my mind.  #mkr""",not
-b'@RGC_BPPA NO. I brought in that post to show why defending the term feminazi is rude given how harassers are using it towards Anita.',racism
+b'@RGC_BPPA NO. I brought in that post to show why defending the term feminazi is rude given how harassers are using it towards Anita.',not
 "b""That was fun. Now it's over. This is why I can't even consider sites like TechRaptr as anything more than hit piece blogs.""",not
 "b""@onebrightlight yeah. the name of the game lately is staying one step ahead of gater's attempts to shut things down/abuse the system.""",not
 b'Here is my deconstructed Vanilla Cake...some assembly required #MKR http://t.co/Ah1suwvPJo',not
@@ -4865,7 +4865,7 @@ b'A comparison to Santa would be more apt. Lots of talk around the blocker tonig
 "b""I'm sure that sausage on the hotpot looks more like a turd.. #MKR""",not
 "b'@FarOutAkhtar How can I promote gender equality without sounding preachy or being a ""feminazi""? #AskFarhan'",not
 b'Today is a record high for Oakland. Plz bring back winter.',not
-b'@Hi_Im_Bebbit close. ;) https://t.co/b3wrFaXwSs',racism
+b'@Hi_Im_Bebbit close. ;) https://t.co/b3wrFaXwSs',not
 "b""@RealDackFayden @tauriqmoosa yeah. i tried to talk to him. he won't even tell me why he thinks this is a thing.""",not
 "b'I wonder if anyone will see me read Bad Feminist on the train and think ""whoa good book bro"" or think ""fucking feminazi""'",not
 "b'RT @Jezebel: The #BlameOneNotAll campaign is a ridiculous, embarrassing trainwreck http://t.co/DBSzrtxB2s'",not
@@ -4925,7 +4925,7 @@ b'@BrentonPoke @Sir5000 i do.',not
 b'@stfu_stfd the one in the bottom pic is a feminazi tumblr fag',not
 b'In which esr makes a horrendously stupid comment right after someone uses ED as a reliable source on his blog. http://t.co/g0TlzsaG2q',not
 "b'RT @zeynep: Ugh, @Twitter. It was so much better when ""report as spam"" and ""block"" were IN A SINGLE MENU. Please recombine them. Paging @de\xe2\x80\xa6'",not
-b'Amused at how popular this tweet was. That was unexpected. https://t.co/kBzD9GAdB2',racism
+b'Amused at how popular this tweet was. That was unexpected. https://t.co/kBzD9GAdB2',not
 "b'At some point in the future, we will be allowing external developers to contribute. @A_Round_Square'",not
 b'@sschinke unrelated. :)',not
 b'I liked a @YouTube video from @uhohbrochannel http://t.co/QxKZaOS0Ft Feminazi FAIL',not
@@ -4982,7 +4982,7 @@ b'@coil780 he helped start all of this. he came up with the hashtag.',not
 "b""@voretaq7 i can't eat super spicy. sriracha is still breaking me into the idea of spicy food.""",not
 b'Throwback to when vivek offered to show me around SU to shut me up. https://t.co/DoMBsoijp3',not
 b'GamerGate is an intimidation mob. Speak up? Get threats &amp; dog-piled. Speak about the threats? Get mocked &amp; dog-piled.',not
-b'#Arab Man Arrested Trying To Enter Same #Nuclear Facility Warned: http://t.co/PQtv6yBmue Islamic_Terror_Bomb_Waiting_To_Go_Off.php',not
+b'#Arab Man Arrested Trying To Enter Same #Nuclear Facility Warned: http://t.co/PQtv6yBmue Islamic_Terror_Bomb_Waiting_To_Go_Off.php',racism
 b'@jasonbentley not me :) no hat',not
 "b""Watching @wadhwa claim that he never received financial compensation. Oh, sweets. We know this isn't how that works. #stopwadhwa2015""",not
 b'RT @angrysnacker: #BlameOneNotAll? Allyhood and/or inclusion of men should never be central to feminist praxis.',not
@@ -5033,7 +5033,7 @@ b'@ELLIOTTCABLE dogs are good for that. :P',not
 "b'@snarkyRedhd anyone *can* block IP addresses. it seems a fairly unwise thing to do, given NAT and dynamic IPs.'",not
 b'He is not all there. And I guess he keeps forgetting that the dog just went outside and ughhhh I want to sleep.',not
 "b""RT @kmactane: When your handle's @wadhwa &amp; the folks you claim to be helping have made #StopWadhwa2015, it's time to reevaluate if you're a\xe2\x80\xa6""",not
-"b'@JacePro I would favorite this, but i feel like that would send the wrong message.'",racism
+"b'@JacePro I would favorite this, but i feel like that would send the wrong message.'",not
 b'omg twitter you are killing me with dumb this morning.',not
 b'RT @glassresistor: @thereaIbanksy @freebsdgirl there are so many problems with this even ignoring issues with the salvation army',not
 b'I just got accused of white feminism for daring to say abuse directed at Joss Whedon is bad. Wish I was even surprised by this.',not
@@ -5043,7 +5043,7 @@ b'@KingsDartWars hey guys. Get the money ready for the @Shakubras who are clearl
 b'@ohpalmer http://t.co/5e0NkXbqA9',not
 "b'@Veeren_Jubbal that, and the thought that a significant other would be targeted.'",not
 b'@CassandraB Why am I buying this right now?',not
-b'@neekroh Your picture creeps me the fuck out. #Coon xD',not
+b'@neekroh Your picture creeps me the fuck out. #Coon xD',racism
 b'@basvandewiel paypal@freebsdgirl.com &lt;3',not
 "b'She seems to be getting the most tweets, but @femfreq and @TheQuinnspiracy have seen much more ht engagement as well.'",not
 b'RT @Skawtnyc: @a_man_in_black @freebsdgirl @ChrisWarcraft The level of transference and tone deafness on this one is amazing. https://t.co/\xe2\x80\xa6',not
@@ -5058,7 +5058,7 @@ b'@LTock @tweek75 Chrysanthemum is a source of natural pyrethrum. I had some gro
 "b'RT @Hollapalooka: @freebsdgirl Which I *think* is called ""scissoring"".'",not
 "b""Soylent told me my stuff was going to ship 2 weeks ago. They even created a shipping label. Still hasn't been shipped. *glare*""",not
 "b'@0xjared @Zython86 @m_m_myers @ChrisWarcraft a lot of us are like ""FUCK EVERYTHING, I\'M GONNA YELL"" - but families are still vulnerable'",not
-b'baby you can drive my car http://t.co/CyhEMc8aVy #asian #juicyasian #sex #nsfw #adult #xxx',not
+b'baby you can drive my car http://t.co/CyhEMc8aVy #asian #juicyasian #sex #nsfw #adult #xxx',racism
 "b""@chilblane i'm just fast""",not
 "b""Ladies, stop flashing your boobs! It's rude!""",not
 "b'#MKR ""everyone under estimated us"" umm bitch you came second last, like literally just survived - you didn\'t win! My god #GoAlready #YouSuck'",not
@@ -5078,9 +5078,9 @@ b'@korvys literally my domain whois',not
 "b""@PeerWorker @EvvyKube it's about ethics in journalism.""",not
 b'@dickc i like you. Respect.',not
 "b'#stopgamergate https://t.co/9ImWLPMpB9 ""Anita Sarkeesian Is A Feminazi"" because... uh... communism?'",not
-b'#Coon style #supercoon he said I work with some funny folks #coonstyle @Kettstyles71 https://t.co/shAENr6vFy',not
+b'#Coon style #supercoon he said I work with some funny folks #coonstyle @Kettstyles71 https://t.co/shAENr6vFy',racism
 b'all of these quotes are from @wadhwa on @tldr.',not
-b'Just started a new season wizard. Randi#1266 if you want to join me. ;)',racism
+b'Just started a new season wizard. Randi#1266 if you want to join me. ;)',not
 b'RT @merlyn: Uh oh. http://t.co/wGK4GiaZ6e',not
 b'#blackmilk #squirrelgirl #bmmechalegs #everydayrobot #howiwork https://t.co/OS7DgmWR0H',not
 "b""@DestrossGX @KayinNasaki @tehrebound that's a hoax.""",not
@@ -5100,7 +5100,7 @@ b'LITERALLY A CAPE',not
 b'I NEED THIS. http://t.co/wG3Ihg0SlR http://t.co/H4H8KKBlUJ',not
 "b""@DataFran it definitely alienates female readers if that's what they are going for. Oh wait, it's DC. YUP.""",not
 "b'@DennisCEarl :P  OAPI. coverage in wsj, venturebeat, more. good mention here. http://t.co/UmdK2gubtg'",not
-b'#beachbodyready http://t.co/nTAnxTG50h',not
+b'#beachbodyready http://t.co/nTAnxTG50h',racism
 b'guys. calm down. it was a joke.',not
 "b""If anyone's still talking to JW on other mediums, tell him he has my &lt;3 and support.""",not
 b'People with good intentions can still do shitty things. This applies to Joss Whedon. This applies to the people threatening him.',not
@@ -5129,7 +5129,7 @@ b'Found this little gem! #MKR on our way to #CableBeach \xf0\x9f\x98\x9c\xf0\x9f
 "b'Why do dudes have to play the ""you\'re not serious, just wanting to fight"" card when women call them out on solutions with ill consequences?'",not
 b'RT @HelpIamaCabbage: @freebsdgirl People are spending money to try to get you temporarily suspended from twitter?  That may be the most was\xe2\x80\xa6',not
 "b""RT @Lavender_Blume: If you're a man applauding #BlameOneNotAll, you need to look in the mirror. YOU are the problem.""",not
-b'Headed out #coon #hunting with some friends on the back of the #farm. This is his first time. Kinda\xe2\x80\xa6 https://t.co/vDofdeemhY',not
+b'Headed out #coon #hunting with some friends on the back of the #farm. This is his first time. Kinda\xe2\x80\xa6 https://t.co/vDofdeemhY',racism
 "b""@CafeChatNoir i think it's because i'm too tired to have feelings.""",not
 b'@BunnikSacha Coz no one else will #mkr',not
 "b""@dsmyxe @PolitiBunny had the mention been 1st, it wouldn't have been public, but a priv conv. but when you don't, it's public.""",not
@@ -5181,11 +5181,10 @@ b'@chaeronaea did anyone in that thread suggest hiring a landscaping service?',n
 b'Cream and crumbs on a plate....work it gurls #MKR',not
 b'i would probably pay $85 for a 5 pack of those superhero knee-high socks w/capes attached. That is the only circumstance where this is OK.',not
 b'RT @MacKirstys: Hey #adelaidefringe2015. Only 8 shows left of #feminazi @gluttony_fringe at 9.50pm. Come larf heaps about misogyny! See you\xe2\x80\xa6',not
-b'@BasicMountain !!!! ALL OF THEM.',racism
+b'@BasicMountain !!!! ALL OF THEM.',not
 "b""If the judges didn't give their critique first, the other contestants wouldn't know what to say; they're just copying the judges #MKR""",not
 b'@0xabad1dea i was lucky enough to find mine on a swap &amp; sell for normal price. i usally see them on ebay for &gt;$400+',not
 "b""Yes, we get it. You're pretty. Tone down the self promo and just cook! @mykitchenrules #MKR""",not
-b'RT @Angietweets12: Behind The #Coon: Tommy SotoMoisture: http://t.co/cyKlwPZbFQ #TommySotomayor #ThomasHarris @tjsotomayor',not
 "b'Some things are more important than money, even if it sure is a lot harder to manage in the short term while I adjust to living differently.'",not
 b'@TheDoubleclicks that face. :(',not
 "b""Lynne and tony are going home - they're too likeable #mkr #MKR2015""",not
@@ -5201,7 +5200,7 @@ b'So I can sympathize and understand where this is all coming from.',not
 b'@StephenAtWar @ashleylynch AH',not
 "b""There is nothing sexier than a chivalrous man. #benevolentsexism is bull\xf0\x9f\x92\xa9. #FeminismIsAwful &amp; #feminazi's are ridiculous. @TheFive.""",not
 "b""Is#Iranian leaders smarter than#Western leaders?? Up to date so called#war on#terror gave#Iran power n upper hands over entire #Arab's lands""",not
-b'@haterqlo jdkdldk lindo\xf0\x9f\x92\x95 define feminazi',racism
+b'@haterqlo jdkdldk lindo\xf0\x9f\x92\x95 define feminazi',not
 b'Is that weird? Am I doing the right thing? It feels so pseudo-celeb.',not
 "b""@stillgray it creeps me out anytime i get them. it's usually from people i barely know.""",not
 b'#GamerGate Is Now Literally An Industry Joke | Badass Digest http://t.co/UmdK2gubtg',not
@@ -5214,7 +5213,7 @@ b'Even if they asked for permission - and who knows if they did - pointing out a
 b'@dylanw random.',not
 b'FUCK. MY GARRISON.',not
 "b""@coconono there's no hard definition of what constitutes DoS beyond lack of service. Service is open to mean many things.""",not
-b'@p8952_ grafana',racism
+b'@p8952_ grafana',not
 b'@overdosers feminazi bullshit',not
 "b""@tophonk oh noes. confirmed: rogue doesn't know what freebsd is.""",not
 b'@Weeezza you must have been drunk five minutes into #MKR2015 #MKR',not
@@ -5242,12 +5241,12 @@ b'@omglazerkittens oof. yeah. i used to work out of the Isilon office.',not
 "b""@Angry_Feminazi I don't disagree, but I've never been in that situation.""",not
 b'Presented without comment. http://t.co/9MWQFS8Css',not
 "b'People are making an interesting case irt libel and some things GG is saying about OAPI, but honestly, my dance card is already full.'",not
-"b'@chaeronaea is it weird that 1st time I saw sacco on Twitter I was like ""that\'s @chaeronaea\'s fianc\xc3\xa9""? usually it\'s the other way around.'",racism
+"b'@chaeronaea is it weird that 1st time I saw sacco on Twitter I was like ""that\'s @chaeronaea\'s fianc\xc3\xa9""? usually it\'s the other way around.'",not
 "b""@deathofrats01 yup! probably a mix of some sort. he's from the shelter. :)""",not
 "b'""They don\'t relate to these women on social media. these activists, these feminists. they don\'t relate to them. they are more humble.""'",not
 b'@HPluckrose @Feminazi_Front they might/could do',not
 b'watching the HT #BlameOneNotAll with 1st world feminists dictate to india how to live&amp;think this feminist imperialism must stop',not
-b'\xe2\x80\x9c@EW: #EWCommunity rates #coon #glee @EmpireFOX: http://t.co/mH9yWfRNkK http://t.co/6QvRKyDiFX\xe2\x80\x9d',not
+b'\xe2\x80\x9c@EW: #EWCommunity rates #coon #glee @EmpireFOX: http://t.co/mH9yWfRNkK http://t.co/6QvRKyDiFX\xe2\x80\x9d',racism
 "b""Shoutout to the time when someone forked #ggautoblocker, made changes, and gamergate thought I did it because they didn't understand github.""",not
 "b'When we look at all mentions of a username, including RTs, @spacekatgal has received 1611 in the past 12h. @femfreq has received 911.'",not
 b'I liked a @YouTube video from @uhohbrochannel http://t.co/DKbZw5Qy3W Feminazi FAIL',not
@@ -5286,9 +5285,9 @@ b'The Internet outrage machine is broken and too fixated on emotional response i
 b'WHEN IS MY STUPID SELFIE CAMERA GOING TO DROP FFS http://t.co/gUqtLQhiTY',not
 b'RT @paracetamxl: DO NOT CALL ME A FEMINAZI JUST BECAUSE I BELIEVE BOTH OUR GENDERS SHOULD HAVE COMPLETELY EQUAL RIGHTS LIKE WERE YOU DROPPE\xe2\x80\xa6',not
 b'@ChrisWarcraft yo',not
-b'@FunkyreFresh thanks. :)  it happened a few years ago. I wish she could have seen this. it would have tickled her to no end.',racism
+b'@FunkyreFresh thanks. :)  it happened a few years ago. I wish she could have seen this. it would have tickled her to no end.',not
 b'RT @RossalynWarren: #BlameOneNotAll http://t.co/jm62wlFg1R',not
-b'http://t.co/ZxbZV39jru: Maine Coon Kitten Climbing a Cat Tree http://t.co/SdbB3pNhbT #climbing #coon #kitten #maine',racism
+b'http://t.co/ZxbZV39jru: Maine Coon Kitten Climbing a Cat Tree http://t.co/SdbB3pNhbT #climbing #coon #kitten #maine',not
 "b'Originally a working cat, the Maine Coon is solid, rugged, and can endure a harsh climate.  #cat #feline #Maine #Coon'",not
 "b'""We are losing our mum and dad.."" \nWell don\'t cry about it, when Bruce Wayne lost his parents he became Batman! #MKR'",not
 b'@TimOfLegend just heard about yesterday. Well done. :)',not
@@ -5308,7 +5307,7 @@ b'@stockputout everything but mostly my priest',not
 "b""RT @CuriousSeaLion: @freebsdgirl You're totally wrong. And I have 4 sea lions, a dozen otters, and a surly one-eyed walrus who will totally\xe2\x80\xa6""",not
 b'Feminazi Blog Reminds Liberals Today Is \xe2\x80\x9cNational Day of Appreciation for Abortion Providers\xe2\x80\x9d\xe2\x80\xa6 |... http://t.co/vbLsbX7Qge',not
 "b""It's been several years since I've contributed code. This was due to a conflict with an employer. I *asked* for my commit bit to be retired.""",not
-"b""This was in 2013 I didn't know bout it..Russell Simmons put out this garbage..fuck that #coon knew he\xe2\x80\xa6 https://t.co/GZYG5GYRXb""",not
+"b""This was in 2013 I didn't know bout it..Russell Simmons put out this garbage..fuck that #coon knew he\xe2\x80\xa6 https://t.co/GZYG5GYRXb""",racism
 "b'the penis is a standard unit of measurement, you feminazi'",not
 b'@PeerWorker @EvvyKube where did I call you stupid? Show me the tweet.',not
 b'@tarkasteve sorry about that. &gt;.&gt;',not
@@ -5391,7 +5390,7 @@ b'Besties. Me and Thrall! #selfie http://t.co/epzbOmPtvo',not
 "b""@solri i think in the past, there were more grey areas. now we have poor (ie: gov't assisted), middle class, and the 1%ers.""",not
 "b""Not only that, but this rocket surgeon apparently doesn't understand the difference between comments and man pages. Isn't he precious?""",not
 "b""@a_man_in_black it's cool. i hope you feel better. i know how those nights can happen. anything i can do to help?""",not
-b'@GlennF not sure. sounds like he left for good.',racism
+b'@GlennF not sure. sounds like he left for good.',not
 "b""This is how you report a character. After the match is over, in the scoreboard, which isn't the default screen. http://t.co/3xLMziY7qX""",not
 "b'RT @shanley: This systemized terrorism creeps closer and closer into the tech community, we are becoming the new hunting grounds.'",not
 b'@BrianHallDev @sindarina not fond of the idea of creating features with a money barrier.',not
@@ -5448,7 +5447,7 @@ b'@mattstratton @Magnus919 @theckman @cheeseplus @tbielawa @markimbriaco talk ab
 "b""@TheQuinnspiracy @voiceofrae @Spacekatgal i'm always looking for an excuse to sing that song.""",not
 "b""Alright. Time for me to get off the internet and hide for a bit until I manage sleep. I'll be getting into GDC late tomorrow.""",not
 "b""Next time I get told that women aren't good at computers, I'll just try lavender. #ladylike http://t.co/fXpGZm2S2c""",not
-b'@mastersparkle @genehack ah. yeah. i stuck to fidi. different kind of area.',racism
+b'@mastersparkle @genehack ah. yeah. i stuck to fidi. different kind of area.',not
 b'Please nominate @ggautoblocker for a shorty award in non-human :) http://t.co/h135mkdkjN',not
 b'I would be shocked if there are many people that have been the target of call-out culture mob harassment that say call-out culture is good.',not
 b'@tmclaughbos @_RogueSt4r I think I got mine because no one else wanted to touch the code I was working with. :)',not
@@ -5472,25 +5471,25 @@ b'@Kirtaner @DigiRanger1994 until it happened to us. Not cool.',not
 b'Hopefully someone cooks Drasko in the next ep of #MKR',not
 b'Well. That makes sense. http://t.co/NNobjH6Q5V',not
 b'Am now being forced to watch Garfield videos; luck has changed',not
-b'\xe2\x80\x9c@ItsReallyKeith: someone said he hit The Whip mid fight. I need confirmation lol.\xe2\x80\x9d I dont even need confirmation I know he did it lol #coon',not
+b'\xe2\x80\x9c@ItsReallyKeith: someone said he hit The Whip mid fight. I need confirmation lol.\xe2\x80\x9d I dont even need confirmation I know he did it lol #coon',racism
 "b""I can't believe I'm using this word without irony, but this is setting up to be disruptive as heck.""",not
 b'@jhamby @sinboy @tarah sommers v2.0.',not
 b'So many devs in my mentions are confused about this usage of the term threading. I love it. :P',not
 "b""I'm sorry, but I've received quite a flurry of threats. I've asked these people to form an orderly line, and you're in back.""",not
-"b""Did you hear that? That's the sound of a bunch of women in tech setting up filters to fwd emails from @ninaburleigh to /dev/null. Good job.""",racism
+"b""Did you hear that? That's the sound of a bunch of women in tech setting up filters to fwd emails from @ninaburleigh to /dev/null. Good job.""",not
 "b""Lol in the past 2 days I've been called feminazi, pig, uncultured swine, and a rat. Also received death threats. Ask me if I give a fuck tho""",not
 "b""@voretaq7 @chilblane uh, it's also pink, which makes the coffee taste better.""",not
 "b""He's repeatedly lashed out at female academics and industry leaders whose politics he doesn't agree with.""",not
 "b""@0xjared @m_m_myers @Zython86 @ChrisWarcraft i've made mistakes in the past and learned from them.""",not
 b'BONER KILLER 9000 v1.7 rev2 beta4 @ashleylynch',not
 "b""@aquarianfool i'm going to try to put together a more permanent blog post about this for people to reference.""",not
-b'@petechesbot @tmclaughbos APPARENTLY NOT',racism
+b'@petechesbot @tmclaughbos APPARENTLY NOT',not
 b'@girlziplocked @Jason hahaha yams',not
 "b'@1Life0Continues follower vs following ratio, acct date, profile image, entities used (hashtags, urls), users mentioned, OC vs RT %'",not
 "b""@Kickyfast @bonegolem @Totalbiscuit @srhbutts nice interface! much prettier than the grafana setup that i'm using.""",not
 "b""RT @parisba: A #GamerGate fan attending #GDC15 lists all they don't like about the industry. It seems to be all the good things? http://t.c\xe2\x80\xa6""",not
 b'Okay maybe I understand where the term feminazi comes from now',not
-b'Bitch be old as hell. Like a feminazi and shit! #WalkingDead',racism
+b'Bitch be old as hell. Like a feminazi and shit! #WalkingDead',not
 b'#MKR More comebacks than Johnny Farnham!',not
 "b""@cheeseplus @obfuscurity wsp is... sigh. but i'm just using docker in aws with a grafana image. fuck configuring this crap.""",not
 "b'Remember RogueStar, dude that doxxed and led the mob against many, &amp; never delivered on 1st kickstarter? Has another https://t.co/6nbX7dXCvu'",not
@@ -5499,12 +5498,12 @@ b'@shinynhappy worst roommates ever. i hate roommates.',not
 "b""@girlgerms what if he's a figment of your imagination?""",not
 "b""RT @iparthsv: #ShameOnSharad Indian women did not do bahishkar of fairness cream, and now they can't take a sexist statement. #feminazi""",not
 b'Success. #stopWadhwa2015',not
-"b""RT @mechapoetic: and when you have marginalized, traumatized members of your OWN GROUP telling you they're hurt or uncomfortable, you liste\xe2\x80\xa6""",racism
+"b""RT @mechapoetic: and when you have marginalized, traumatized members of your OWN GROUP telling you they're hurt or uncomfortable, you liste\xe2\x80\xa6""",not
 b'Really a can opener ? #MKR lol \xf0\x9f\x99\x8a',not
 "b'""How the hell did I get in here 2 minutes ago?"" http://t.co/cFbn3aaKTU'",not
 b'@Hollapalooka age of ultron not living up to feministic ideals.',not
 "b'@TrippyPip @Oleuanna ""5 year olds are sexual, the feminazi are the ones with problems""- tweeted one of his ""friends"" *shudder*'",not
-b'@Dustin___Lee when you find him let me know so I can hunt him #coon',not
+b'@Dustin___Lee when you find him let me know so I can hunt him #coon',racism
 b'@Joshb0ss @LT_garrand @Capadamn @TheAsianEddie @guysmackyou141 \nfeminazi my fucking ass',not
 b'RT @AFTRebecca: I wrote about how new stretch marks turned me into a massive hypocrite when it comes to sex: http://t.co/LWJjmDXJaU http://\xe2\x80\xa6',not
 b'i swear to god if any of these people snapchat me dick pics they are getting posted on my site.',not
@@ -5513,7 +5512,7 @@ b'Is there a big-time VC who has strong feminist ally leanings? Curious. Not loo
 b'@TheQuinnspiracy dat evernote integration.',not
 b'https://t.co/DLu5foEDhY omg @rstevens &lt;3 &lt;3 &lt;3',not
 "b""She's making a list\nShe's checking it twice""",not
-"b""Y'all make sure y'all following a nigga #coon\xe2\x9b\xbd\xf0\x9f\x85\xb0\xf0\x9f\x86\x96\xf0\x9f\x92\xaflilbitch \xf0\x9f\x98\xb9\xf0\x9f\x98\xb9\xf0\x9f\x91\x8c #joeworld""",not
+"b""Y'all make sure y'all following a nigga #coon\xe2\x9b\xbd\xf0\x9f\x85\xb0\xf0\x9f\x86\x96\xf0\x9f\x92\xaflilbitch \xf0\x9f\x98\xb9\xf0\x9f\x98\xb9\xf0\x9f\x91\x8c #joeworld""",racism
 "b""Protip: When you jump into the mob to harass someone, and they publicly call you out as an individual in that mob, it's not the same thing.""",not
 b'@dunno_someguy i love &amp; support sex workers. am friends with many.',not
 b'My favorite part of this trip has to be all the amazing new socks. http://t.co/iFYm4grPvT',not
@@ -5523,7 +5522,7 @@ b'@dresdencodak eep. i know that feel. :(',not
 "b'RT @shanley: This has the nice bonus effect of ""proving"" to your ""community"" that you deserve harassment and aren\'t worth supporting = more\xe2\x80\xa6'",not
 "b""@Hephinator not a new one. an actual problem, but i don't see how it's related in this particular instance.""",not
 b'@Mjolna ... i hate shadowrun. :P',not
-b'@VestryHouse You can just see her credentials.  Black FemiNazi.',not
+b'@VestryHouse You can just see her credentials.  Black FemiNazi.',racism
 "b""@tante no, just stuff i've put together by looking at twitter.""",not
 "b""@millenomi @gewt i like a lot of their stuff. triangle bag is amazing. but $85 for socks. wat. i'm a sock connoisseur.""",not
 "b""RT @Quinnae_Moon: The ease with which one can dogpile others is scary, not least because we all think we're acting as individuals rather th\xe2\x80\xa6""",not
@@ -5549,7 +5548,7 @@ b'If you tell me to get one of those weird hexa things i will never talk to you 
 "b""#mkr Goodbye. Can't stand to watch those two (words fail me) again! That was not cooking.""",not
 b'#ggautoblocker got a mention in arstechnica! http://t.co/OkRpMbHhY9 (via @falstro)',not
 b'Guilty of everything in this video.\n\nEspecially the end.\n\nhttps://t.co/ToxPbfNYmJ',not
-b'I hate beards but this guy seems rad. https://t.co/4ui3atHXor',racism
+b'I hate beards but this guy seems rad. https://t.co/4ui3atHXor',not
 b'http://t.co/DZj5QCkc4s Feminazi Blog Reminds Liberals Today Is \xe2\x80\x9cNational Day of Appreciation for Abortion Providers\xe2\x80\x9d\xe2\x80\xa6 #CNRapp',not
 "b""I don't care what BS cernovich has done, have some goddamn ethics. For real, though.""",not
 "b'Not only is there a societal obligation, but I also volunteered at PAX for *years* and got nothing but papercuts from schwagbags.'",not
@@ -5576,8 +5575,8 @@ b'The puppy I almost got: https://t.co/uG9ruAz6BA',not
 b'@lilithsaintcrow i remember reading the dante valentine series back in 2008. :)',not
 "b'My Patreon is acting weird. Just got a monthly payment (yay!) but when I go to ""how I get paid"", it says I need to become a creator.'",not
 "b'@Spacekatgal this is more from a consumer side, though. from a business side? one could see email SPAM as falling under that category.'",not
-b'16 hours and 7 minutes OMG YOU GUYS I CANT EVEN',racism
-"b""color me surprised when i look up dude defending piracy on linkedin and he's some young white dude claiming to be a CTO.""",racism
+b'16 hours and 7 minutes OMG YOU GUYS I CANT EVEN',not
+"b""color me surprised when i look up dude defending piracy on linkedin and he's some young white dude claiming to be a CTO.""",not
 b'@DanielleIsANerd the thing I said to an account that was a confirmed sockpuppet that was supposed to infiltrate SJWs? lol.',not
 "b""@youfoundthecard @ChrisWarcraft um. that's BASIC. DOS has batch files, but they aren't BASIC. :P""",not
 b'@TaleSpun slept then too',not
@@ -5587,7 +5586,7 @@ b'I only really have the time to respond to mainstream media. Reviewing everythi
 "b""I fully encourage every other user to report their poor experiences with these subs as well. Let's clean up Reddit.""",not
 "b""RT @LostSailorNY: @voxday More rabbits: RT @Feminazi_Front: When your movement tells you what you should and shouldn't read. #GamerGate htt\xe2\x80\xa6""",not
 b'#mainecoon #coon #cat #kitty #pet #animal #catstagram #catlover #ajka #animals #pets #pets\xe2\x80\xa6 http://t.co/iFKVGbusza http://t.co/74UM0QKl9C',not
-"b'""@931wzak: Don Lemon Defends N-Word Singing Oklahoma Frat Mom http://t.co/qreIfmwbrc http://t.co/zyJvrqKIKt"" #coon'",not
+"b'""@931wzak: Don Lemon Defends N-Word Singing Oklahoma Frat Mom http://t.co/qreIfmwbrc http://t.co/zyJvrqKIKt"" #coon'",racism
 "b""@sigje haha, welllllll, i'm usually here so you know, whenever you're in town, hit me up. :) i miss you!""",not
 b'@bobpoekert no :(',not
 b'@SuperSpacedad @ggautoblocker \xe2\x9d\xa4\xef\xb8\x8f\xe2\x9d\xa4\xef\xb8\x8f\xf0\x9f\x98\x8a',not
@@ -5618,7 +5617,7 @@ b'I ran out of things to put on his head. sorry.',not
 b'Abuse comes through multiple platforms. We need to get law enforcement more involved with serious threats. http://t.co/jPe2YLnZrp',not
 b'RT @BuzzFeed: A man had his girlfriend drawn as Disney princesses for the perfect Valentine\xe2\x80\x99s gift\nhttp://t.co/JdATZp71Sq http://t.co/6WR8S\xe2\x80\xa6',not
 b'@Teelin \nAlso: is a dude \nFeminazi gulag recruiting dudes now?\nThat figures. \nSmart move.',not
-b'@donlemon great job cOOning tonight #donlemon #coon',not
+b'@donlemon great job cOOning tonight #donlemon #coon',racism
 b'We knew when we started this that a movement based on harassment would do anything in their power to stop it.',not
 b'gdi @randi_ebooks you fav the weirdest stuff.',not
 "b""Aside from security concerns, Lenovo is shit. One time a cage door at a datacentre fell on my head. Dropped Lenovo 2', had to be replaced.""",not
@@ -5687,7 +5686,7 @@ b'@eDRoaCH @twitter think about how passwords work. are they stored in plaintext
 b'I require the sauce for this gif. Someone help? http://t.co/lG1TroGVnK',not
 b'I just backed A Feminist Deck on @Kickstarter http://t.co/0YYga5Pt7y',not
 b'RT @theleast: @freebsdgirl @khaxan http://t.co/GPImWC8fpw',not
-"b""@MyersNFL oh, you haven't heard it? it was amazing.""",racism
+"b""@MyersNFL oh, you haven't heard it? it was amazing.""",not
 "b""@mcmahoniel there's a lot of sarcasm and doublespeak in this group, especially. appropriation of terms. text filters just don't work.""",not
 "b""@allieemorse i really didn't mean to dig on anyone in a horrible way. I thought it was just a bit of snow, honestly. :\\""",not
 "b""@stagemypage I think you'd better lie down.  8 replies that are all caked in feminazi bullshit tbh.""",not
@@ -5717,7 +5716,7 @@ b'Someone get me an ETA on when the storm is going to get out of the Northern Ca
 b'Leo is stoic as he guards me for the night. http://t.co/JAYIsluOZ2',not
 b'#blackmilk #sharkies - can someone tell me what shoes this model is wearing? looks like jeffrey campbell. http://t.co/ZP9TKgdjJj',not
 b'@GamesafeAU you should try. guyliner is the best. not gonna even joke about that.',not
-b'@Sushilulutwitch @Spacekatgal Glad to hear from the experts.',racism
+b'@Sushilulutwitch @Spacekatgal Glad to hear from the experts.',not
 "b""@tinkertim I don't get it""",not
 b'@desertfox899 is this 1997??? who uses MSN????',not
 b'My job gives me a constant stream of endorphins.',not
@@ -5777,7 +5776,7 @@ b'@hopeloze @kevinmenzel yeassssssss',not
 "b""Here, @wadhwa is supporting @jason bcz jason's feelings were hurt when he was told to shut up &amp; listen about WiT: https://t.co/956o51r9Y0""",not
 b'@brunns not sure if TW would be interested in getting into engineering problem solving for social/abuse problems.',not
 "b'If I see 1 more ""chief diversity officer"" talking about 1st amendment rights while not protecting victims of harassment, I might get angry.'",not
-b'@0xabad1dea oh my god',racism
+b'@0xabad1dea oh my god',not
 "b'No clue who @PolitiBunny is, but she just set her followers on me. yayyy mention spam.'",not
 "b""@Lookitsmeggnog #feminismisawful Don't forget #Feminazi ... Oh wait, you wont be using the internet 'cos you used the banned #""",not
 b'@ADovichi lunch is prob busy :P might be able to do breakfast',not
@@ -5806,7 +5805,7 @@ b'Entree worth a 3 max. My kids cook better than this and they know how to open 
 b'Oh gosh she mentioned me and #ggautoblocker in her talk and now I am blushing and trying not to sniffle.',not
 b'Wal-Mart is Instagram Heaven! #walmart #coon #westvirginia #almostheaven https://t.co/Zav64hhGDG',not
 "b'@coil780 yes. i own some. they are pretty rad. they make them for dudes, too.'",not
-b'Another #Arab car ramming terror attack in #Jerusalem #Israel. Will #Obama Adm call this random traffic infringement? http://t.co/MjWKz48M4A',not
+b'Another #Arab car ramming terror attack in #Jerusalem #Israel. Will #Obama Adm call this random traffic infringement? http://t.co/MjWKz48M4A',racism
 "b""RT @Coopster04: @MtBakerTheatre As a mom of daughters, I'm asking if U would call them 'sluts, sexretary or FemiNAZI'? Rush does &amp; you pay \xe2\x80\xa6""",not
 "b""And BOOM! I'm officially turned off! Someone wake me when it's all over #MKR #MKR2015 #TakeYourTime #whateverdude""",not
 b'This came to my thought after\nseeing some feminazi (moderate \none) (inconsiderate person) \npraising the current in-ternship part of the sys',not
@@ -5843,12 +5842,12 @@ b'ok time to write code bbl.\n\nmaking a new thing.',not
 "b""RT @octal: Wow. This really isn't how to do customer support. https://t.co/fHLfHyunuu""",not
 "b""@RealDackFayden yup, apparently. was just going through neil's mentions.""",not
 b'Driving back to San Francisco Thursday afternoon.',not
-b'http://t.co/ZxbZV3qUj2: Maine Coon Kitten Climbing a Cat Tree http://t.co/SdbB3q4S3r #climbing #coon #kitten #maine',not
+b'http://t.co/ZxbZV3qUj2: Maine Coon Kitten Climbing a Cat Tree http://t.co/SdbB3q4S3r #climbing #coon #kitten #maine',racism
 "b""@CarterGee disagree. talking salaries is what led a lot of women to realize they aren't making as much as their male colleagues.""",not
 "b""@drurbanski @trentmkays i'm pushing more for these to be options added by twitter or using free scripts.""",not
 "b""@ilovegarick probably not. i can't really afford to go to conferences that i'm not speaking at. :(""",not
 b'@PaladinGunn @miscu_ what should i do in the meanwhile about this player?',not
-"b""@phvntvsmvgoriv @sundsuu Would you prefer I say Massa. Oh I don't wana speak ill of my masse da white man. #housenigga #coon""",not
+"b""@phvntvsmvgoriv @sundsuu Would you prefer I say Massa. Oh I don't wana speak ill of my masse da white man. #housenigga #coon""",racism
 "b""@a_man_in_black i can't help but wonder if she bothered actually *talking* to kiva about her concerns before calling her out""",not
 "b""@Spacekatgal yeahhhh. they were operating a loss until facebook bought them. fbook didn't buy them to make money off the service.""",not
 b'https://t.co/iyr1qwhg5p - all these people bragging about  whedon having blocked them. How is that something to brag about?',not
@@ -5889,7 +5888,7 @@ b'aaaaah too much sriracha power through the pain',not
 "b""@celiadeeter it's a valuable resource for victims of harassment, so no.""",not
 "b'@RealityForger if your friend needs help knowing how to talk to police, prevention, etc, they should talk to @CrashOverrideNW or myself. :)'",not
 "b'@ACurrentAffair9 #mkr star that declared bankruptcy &amp; hides money is an asshole, i.e. Christopher Skase and his multimillionaire sons guilty'",not
-b'I see mein public shaming vorked. Zee vile #CarolCorps vill now have black members in zee comics. Strucker: I put zee Nazi in #FemiNazi',not
+b'I see mein public shaming vorked. Zee vile #CarolCorps vill now have black members in zee comics. Strucker: I put zee Nazi in #FemiNazi',racism
 b'BLIZZCON ANNOUNCED',not
 b'hehehe emojiautoblocker. I should probably clean that up. :P',not
 b'#BlameOneNotAll http://t.co/dwp1Q2AuYv',not
@@ -5899,8 +5898,8 @@ b'@ArcticPriMe @danishdragon The fact that people seriously use the word feminaz
 "b'""Speaking up"" isn\'t the same thing as ""speaking for"", and I\'m sorry you don\'t know the difference. @halletecco @wadhwa @Jason'",not
 "b'@salvodan er, manic panic existed in the 90s.'",not
 "b""crazy awesome night. so much fun. i love going to parties that aren't all tech workers. :P""",not
-b'All the people asking me about IGN - see LRT.',racism
-"b""Son read #BlameOneNotAll. This is why I don't have a problem with generalization about Black men. I know I don't do certain things.""",not
+b'All the people asking me about IGN - see LRT.',not
+"b""Son read #BlameOneNotAll. This is why I don't have a problem with generalization about Black men. I know I don't do certain things.""",racism
 "b""Heading towards GDC in an hour. I might have japanese kit kats in my purse. Don't mug me, bro.""",not
 "b""Oh, I see. It's @jennofhardwire sending her little harassment squad after me. Like we can't see right through her innocent act.""",not
 b'@AgQueue uh.',not
@@ -5911,7 +5910,7 @@ b'Announcement - Site Maintenance: https://t.co/TpYN6C02yq',not
 "b""@jmatonak quote them, screen cap them, use them as examples. But after all this time, it's unlikely you'll change their minds.""",not
 "b""@comattwow @benfromcanada Indeed. Let's chill with that kind of talk, please. Wishing illness on anyone isn't cool.""",not
 b'I dedicate this thread to @SwiftOnSecurity',not
-b'RT @ggautoblocker: Roses are red\nTulips are pink\nArguing with gaters\nIs a useless time sink.\n\n#ggautoblocker to the rescue!',racism
+b'RT @ggautoblocker: Roses are red\nTulips are pink\nArguing with gaters\nIs a useless time sink.\n\n#ggautoblocker to the rescue!',not
 "b""I've posted a contact form at http://t.co/4S8Ug3bBUC for support regarding @ggautoblocker, speaking requests, feedback, etc.""",not
 b'@StephenAtWar hah! We have to secure funding first.',not
 "b'@femfreq gosh, FINALLY :P'",not
@@ -5949,7 +5948,7 @@ b'The Online Abuse Prevention Initiative | Hacker News https://t.co/5BM3GHH3JX',
 "b'@gevmage sorry, need to stick to github. :)'",not
 b'if u call me a feminazi i will go feminazi on ur ass because ppl like u are the reason we need feminism',not
 "b""@HPluckrose @Feminazi_Front what's sad about it?""",not
-"b""@DefaultProphet in their defense, some incarnations of jubilee weren't portrayed as asian.""",not
+"b""@DefaultProphet in their defense, some incarnations of jubilee weren't portrayed as asian.""",racism
 "b""@awizardsbeard okay. You don't even know what this pharmacy looks like, but you are inserting your opinion.""",not
 "b'Raising an eyebrow at those that claim ""dog piling is bad"" while actively participating in call-out culture of single individuals.'",not
 "b""About to meet this puppy. Shepherd mix. A bit bigger than I wanted. We'll see.""",not
@@ -5960,7 +5959,7 @@ b'#BlameOneNotAll seems like another instance where 1st world women gets to wag 
 "b""@harper bs. It's still there and you haven't absorbed it.""",not
 b'I really need to learn to play someone *other* than Lili in Heroes.',not
 "b""Oh, darling MRAs. You making jabs at my appearance won't keep me from working to provide tools so others can shut you down. &lt;3""",not
-"b'@MetroidThief email, but basically, yes.'",racism
+"b'@MetroidThief email, but basically, yes.'",not
 b'The final is in November  #MKR',not
 "b'One of the hardest things about not working on a team out of an office is never letting myself sleep in. Coffee, save me.'",not
 "b""Pete and Manu, you're back! We've missed you! #mkr""",not
@@ -5984,7 +5983,7 @@ b'@snipeyhead @TheQuinnspiracy it is unfortunately all too easy to find people.'
 "b'RT @HuffPoLifestyle: ""Not all men oppress women"" - powerful campaign sticks up for the good guys http://t.co/3QXV9ZyfdI #BlameOneNotAll htt\xe2\x80\xa6'",not
 "b'RT @Hegelbon: TIL that the Spanish speaking version of ""Feminazi"" is the actually badass sounding ""lesboterrorista""'",not
 "b""I'm watching it happen. I'm watching the numbers climb. This is bonkers. #LawAndOrderSVU""",not
-"b""ATTN all: I'm taking down @randi_ebooks/@gater_ebooks for maintenance tonight for &lt;1hr. block lists will still function, just not markov.""",racism
+"b""ATTN all: I'm taking down @randi_ebooks/@gater_ebooks for maintenance tonight for &lt;1hr. block lists will still function, just not markov.""",not
 "b""#mensrights@reddit Misandrist bigot asks of #BlameOneNotAll: Do men who don't hurt women ac... http://t.co/mwlVtEWaqp #Feminism is #HATE""",not
 "b""@KosmoATD @lilithsaintcrow it's super passive aggressive.""",not
 b'Gordie is Making sure his buddy goes to sleep ok! #Gord #allElbows #someWhiskers #cat #coon http://t.co/TpSbprVWGG',not
@@ -5992,14 +5991,14 @@ b'Gordie is Making sure his buddy goes to sleep ok! #Gord #allElbows #someWhiske
 "b""@ThatSabineGirl LOL I remember @MeLectable - watch out, she's full gamergate nuts.""",not
 b'\xe2\x80\x9cThe Fat Girl Behind the Fitness App\xe2\x80\x9d by @naomialderman https://t.co/VGb5Dluy3a',not
 b'@g56yu @instapundit Fuck Hilary the liar clinton . And feminazi trash.',not
-b'@CarlyandTresne you are the best #MKR',racism
+b'@CarlyandTresne you are the best #MKR',not
 b'Penny Arcade forced victims of sexual assault to be public with their stories so we could protect others.',not
 b'@krainboltgreene i am probably the leading expert in how abuse happens on social media &amp; how it moves across social groups.',not
 "b""I guess I am bad at the popularity contest that is Twitter or I'd do a better job of being mad. :P""",not
 "b""@nbueno nice! The street next to my apt is pretty wide and doesn't get tons of traffic. Here's hoping. :)""",not
 b'@caitbit oh god i am sorry what have i done',not
 b'@JamesEdmonds90 @JohnDaniels41 \n\nJames are you being a PC Feminazi???? http://t.co/2CJDGyuwKI',not
-"b""RT @Latesa555: #KayneWest is a Straight #Coon! 30 showers bcuz of #Muva? #Gtfoh w/that BS! So after Kim you'll take 3000, rt?""",not
+"b""RT @Latesa555: #KayneWest is a Straight #Coon! 30 showers bcuz of #Muva? #Gtfoh w/that BS! So after Kim you'll take 3000, rt?""",racism
 b'@alexvdl0 @Chriss_m LOLLLLLLL',not
 b'@girlziplocked i know that feel.',not
 "b""@a_man_in_black I'm not mentioning names for a few different reasons.""",not
@@ -6010,7 +6009,7 @@ b'RT @a_man_in_black: This article is shit but lol @GRIMACHU losing an argument 
 b'.@UplayUbisoft why do you ruin everything good and wonderful in life?',not
 "b""@ijosborne that's the same one i linked. :P""",not
 b'@RealDackFayden @twitter I can bring that up.',not
-b'@krainboltgreene or are you so mad you just want to keep arguing with me?',racism
+b'@krainboltgreene or are you so mad you just want to keep arguing with me?',not
 "b'Hollywoods newest Feminazi movie remake will be titled ""Ben Her"".~Me'",not
 "b'Every time I try to read this book I get to the part where school &amp; YA are a murderous feminazi conspiracy, and stop http://t.co/W03kbqJQqZ'",not
 "b'@MadcapOcelot https://t.co/MYmIMQGMfd this was interesting, too.'",not
@@ -6058,7 +6057,7 @@ b'#mkr that was useless from nikki',not
 "b""@RexMundane @gamerfortruth @a_man_in_black i'm not 100% sure where it started, but it's not going anywhere good.""",not
 b'@Spacekatgal 80% of his points are bullshit taken from white cis male standpoint. no harassment on fbook? pft. providing ID/addy? NOPE.',not
 "b""@_NotJuice @Mechanical_Crow @butt_hump @srhbutts @vex0rian @RSG_VILLENA everything 'technical' that he says is hilarious.""",not
-"b""what's sad is that somewhere in Detroit @RealBenCarson is being called #Coon or a #Sellout""",not
+"b""what's sad is that somewhere in Detroit @RealBenCarson is being called #Coon or a #Sellout""",racism
 "b""@milfgaardian (brb, am starting to feel feelings in my scalp, that means it's time to wash this stuff out.)""",not
 "b""Guess one of em isn't too bad ;) #mkr""",not
 "b""@PeerWorker @DerAmazingLarry @Quinnae_Moon @feministing stop trying to cause shit. it's not going to work.""",not
@@ -6078,7 +6077,7 @@ b'Presented without comment: http://t.co/pBhlLdmpCP',not
 "b'RT @a_man_in_black: @freebsdgirl and at 1:46:00 on this stream he says people in GG should doxx you, me, and srh? https://t.co/fSDalWjH9G'",not
 b'\xe2\x80\x9eTo get rid of Jeremy is part and parcel of the feminazi thought-police tactics that are strangling this country.\xe2\x80\x9c http://t.co/A3ospKIpDE',not
 "b""Here's an idea. How about the ability to mute someone for N period of time?""",not
-b'SIIIIGH http://t.co/BpJX5JwhlH',racism
+b'SIIIIGH http://t.co/BpJX5JwhlH',not
 "b""@davidsgallant it could go either way. I'm not very predictable.""",not
 "b""RT @TheSoundDefense: #BlameOneNotAll because men's egos are just so, so fragile.""",not
 "b""@JAH2488 https://t.co/VzW3DRXruL - check out the key_management branch. it's what i'm working out of right now.""",not
@@ -6116,7 +6115,7 @@ b'@kivabay pssst. https://t.co/wYnnEFwZFC - 2nd page.',not
 "b""I'm a tank! #warcraft #selfie http://t.co/itB8qI5nce""",not
 b'@hestiahdruid i have no idea how that even works. that video is crazy.',not
 "b'Oh, wait. I take it back. I made a mistake. I mentioned @georgieonthego once before. https://t.co/1P46Fj7KPX'",not
-b'Thank u God for blessing real #hustlers &amp; for real niggas #MEEKMILLSEASON s/o #Coon #... (Vine by TheTheoryis) https://t.co/ed0k1K7pkm',not
+b'Thank u God for blessing real #hustlers &amp; for real niggas #MEEKMILLSEASON s/o #Coon #... (Vine by TheTheoryis) https://t.co/ed0k1K7pkm',racism
 b'Feminazi Blog Reminds Liberals Today Is \xe2\x80\x9cNational Day of Appreciation for Abortion Providers\xe2\x80\x9d\xe2\x80\xa6 http://t.co/82vQJQXhYd via @WeaselZippers',not
 b'@neilasaurus @jimcramer @TheQuinnspiracy is he creating a new account or changing his username?',not
 b'Let me tell you how horrifically -shocked- I am that this indiegogo has been delayed. :|  https://t.co/cKcTYxpOys  i hate crowdfunded tech',not
@@ -6131,7 +6130,7 @@ b'#BlameOneNotAll in a nutshell.\n\nhttp://t.co/un0m0L2Cy3 http://t.co/EGQA6Oab0
 b'You wish your leggings had game like this. http://t.co/R2SKdjlAJx',not
 "b'RT @tauriqmoosa: ""Today\'s industry"" https://t.co/lvoI0GzbBZ'",not
 "b'@SlaunchaMan ""we\'re totes not dog piling, but just so you know, you should be scared of us BUNNIES"" - yeahhhh.'",not
-b'http://t.co/ZxbZV3qUj2: \xe3\x81\x8a\xe9\xa2\xa8\xe5\x91\x82\xe5\xa5\xbd\xe3\x81\x8d\xe7\x8c\xab\xe3\x83\xac\xe3\x82\xaa\xe3\x83\xb3\xe3\x81\xae\xe5\x85\xa5\xe6\xb5\xb4\xef\xbc\x92\xe3\x80\x80cat #likes bath &amp; Shampoo... http://t.co/03BocUhbJj #coon #leon #maine #shampoo',not
+b'http://t.co/ZxbZV3qUj2: \xe3\x81\x8a\xe9\xa2\xa8\xe5\x91\x82\xe5\xa5\xbd\xe3\x81\x8d\xe7\x8c\xab\xe3\x83\xac\xe3\x82\xaa\xe3\x83\xb3\xe3\x81\xae\xe5\x85\xa5\xe6\xb5\xb4\xef\xbc\x92\xe3\x80\x80cat #likes bath &amp; Shampoo... http://t.co/03BocUhbJj #coon #leon #maine #shampoo',racism
 "b""#BlameOneNotAll such a lame campaign, defend oppressed n victims,marriages arent breakin n man aren't being banished from society #mintified""",not
 b'there is a huge difference between feminist and feminazi...',not
 "b""(If it didn't work, you guys would probably be crying about it stealing your freeze peaches a whole lot less.) http://t.co/lMSYD7W2iC""",not
@@ -6192,7 +6191,7 @@ b'@MichaelToes @MrRepzion and here we see the lesser spotted feminazi being ridi
 "b""like sorry dude, but my world doesn't revolve around sexist jerks in the open source community. i've got real shit to do.""",not
 b'Fringe Review: Kirsty Mac- Feminazi  http://t.co/oTJRrspUUB #Adelaide #ADLfringe @MacKirstys @gluttony_fringe',not
 b'Does a Tauren boomkin taste like chicken or beef?',not
-b'Fresh off the plantation front row at the nigger Olympics smh #Coon http://t.co/VS6MArSvJJ',not
+b'Fresh off the plantation front row at the nigger Olympics smh #Coon http://t.co/VS6MArSvJJ',racism
 b'@Zython86 fuck errything about brietbart',not
 "b""@Spacekatgal the client/web experience being similar are key. i don't know if twitter client has the additional controls verified accts have""",not
 "b""@apexys @Natanji hmm. as far as the 'block everyone that mentions me that i don't follow'- there's already filtering options for that in web""",not
@@ -6212,7 +6211,7 @@ b'@chaeronaea yessssss',not
 "b'@twoscooters @Official_PAX @ShaofHappiness ugh, what did they do this year?'",not
 "b""PA has done so much to push women out of gaming. They've done so, so much to make spaces feel unsafe. I don't attend PAX anymore.""",not
 b'@M_Wein @edzitron im p. worried now tbh',not
-b'reformed white male kotaku commenter bionicle building vaping virgin atheist  antisjw&amp;feminazi libertarian naruto watching gamergater here',not
+b'reformed white male kotaku commenter bionicle building vaping virgin atheist  antisjw&amp;feminazi libertarian naruto watching gamergater here',racism
 "b'Failure of men to police their own *is* the common narrative of women, trans, and non-binary folk. #yesallwomen #YesAllMen  #BlameOneNotAll'",not
 "b""We're being honest with each other, rogue is way too busy harassing people to even start working on a game.""",not
 "b""@a_man_in_black i can't process all of this right now. i'm just watching it scrollllllllll.""",not
